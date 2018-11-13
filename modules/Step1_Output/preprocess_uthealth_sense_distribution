@@ -1,0 +1,692 @@
+NSF|NSFUI|SF|SFUI|LF|LFUI|PLF|PLFUI|UMLS CUI|MetaMap CUI|Source|SFEUI|LFEUI|Prevalence
+PO||po||by mouth (From Latin: per os)||||||uthealth_sense_distribution|||1.0
+HTN||htn||hypertension||||||uthealth_sense_distribution|||1.0
+QD||qd||daily||||||uthealth_sense_distribution|||1.0
+SP||s/p||status post||||||uthealth_sense_distribution|||1.0
+NL||nl||normal||||||uthealth_sense_distribution|||1.0
+L||l||avL||||||uthealth_sense_distribution|||0.022
+L||l||left||||||uthealth_sense_distribution|||0.159
+L||l||liter||||||uthealth_sense_distribution|||0.727
+L||l||lymphocytes||||||uthealth_sense_distribution|||0.092
+ED||ed||emergency department||||||uthealth_sense_distribution|||1.0
+NEG||neg||negative||||||uthealth_sense_distribution|||1.0
+CP||cp||chest pain||||||uthealth_sense_distribution|||0.996
+CP||cp||costophrenic||||||uthealth_sense_distribution|||0.004
+SOB||sob||shortness of breath||||||uthealth_sense_distribution|||1.0
+YO||yo||years old||||||uthealth_sense_distribution|||1.0
+ETOH||etoh||ethanol(alcohol)||||||uthealth_sense_distribution|||1.0
+R||r||respirations||||||uthealth_sense_distribution|||0.0430861723447
+R||r||right||||||uthealth_sense_distribution|||0.899799599198
+WBC||wbc||white blood cells||||||uthealth_sense_distribution|||1.0
+HO||h/o||history of||||||uthealth_sense_distribution|||1.0
+CT||ct||computed tomography||||||uthealth_sense_distribution|||1.0
+HPI||hpi||history of present illness||||||uthealth_sense_distribution|||1.0
+IV||iv||intravenous||||||uthealth_sense_distribution|||0.987
+IV||iv||roman numeral for the number 4||||||uthealth_sense_distribution|||0.013
+NKDA||nkda||no known drug allergies||||||uthealth_sense_distribution|||1.0
+ER||er||emergency room||||||uthealth_sense_distribution|||0.983983983984
+ER||er||estrogen receptor||||||uthealth_sense_distribution|||0.003003003003
+ER||er||extended release||||||uthealth_sense_distribution|||0.013013013013
+ASA||asa||aspirin||||||uthealth_sense_distribution|||1.0
+M||m||male||||||uthealth_sense_distribution|||0.711
+M||m||monday||||||uthealth_sense_distribution|||0.009
+M||m||monocytes||||||uthealth_sense_distribution|||0.088
+M||m||mother||||||uthealth_sense_distribution|||0.074
+M||m||murmur||||||uthealth_sense_distribution|||0.118
+HX||hx||history||||||uthealth_sense_distribution|||1.0
+AM||am||morning||||||uthealth_sense_distribution|||1.0
+RRR||rrr||regular rate and rhythm||||||uthealth_sense_distribution|||1.0
+F||f||aVF||||||uthealth_sense_distribution|||0.066
+F||f||father||||||uthealth_sense_distribution|||0.062
+F||f||female||||||uthealth_sense_distribution|||0.855
+F||f||fever||||||uthealth_sense_distribution|||0.017
+CAD||cad||coronary artery disease||||||uthealth_sense_distribution|||1.0
+NAD||nad||no acute disease||||||uthealth_sense_distribution|||0.0551102204409
+NAD||nad||no apparent distress||||||uthealth_sense_distribution|||0.944889779559
+JVD||jvd||jugular venous distention||||||uthealth_sense_distribution|||1.0
+EKG||ekg||electrocardiogram||||||uthealth_sense_distribution|||1.0
+ABD||abd||abdomen||||||uthealth_sense_distribution|||1.0
+BP||bp||blood pressure||||||uthealth_sense_distribution|||1.0
+NT||nt||nontender||||||uthealth_sense_distribution|||1.0
+CHF||chf||congestive heart failure||||||uthealth_sense_distribution|||1.0
+BS||bs||blood sugar||||||uthealth_sense_distribution|||0.007
+BS||bs||bowel sounds||||||uthealth_sense_distribution|||0.949
+BS||bs||breath sounds||||||uthealth_sense_distribution|||0.044
+CBC||cbc||complete blood count||||||uthealth_sense_distribution|||1.0
+CR||cr||creatinine||||||uthealth_sense_distribution|||1.0
+MEDS||meds||medications||||||uthealth_sense_distribution|||1.0
+ND||nd||nondistended||||||uthealth_sense_distribution|||0.865
+GI||gi||gastroenterology||||||uthealth_sense_distribution|||0.02
+GI||gi||gastrointestinal||||||uthealth_sense_distribution|||0.98
+NSR||nsr||normal sinus rhythm||||||uthealth_sense_distribution|||1.0
+WNL||wnl||within normal limits||||||uthealth_sense_distribution|||1.0
+TTE||tte||transthoracic echocardiography||||||uthealth_sense_distribution|||1.0
+CTA||cta||clear to auscultation||||||uthealth_sense_distribution|||0.982
+CTA||cta||computed tomography angiography||||||uthealth_sense_distribution|||0.018
+HCT||hct||hematocrit||||||uthealth_sense_distribution|||1.0
+BL||b/l||baseline||||||uthealth_sense_distribution|||0.011
+BL||b/l||bilateral||||||uthealth_sense_distribution|||0.989
+CXR||cxr||chest x-ray||||||uthealth_sense_distribution|||1.0
+CVA||cva||cerebral vascular accident||||||uthealth_sense_distribution|||0.686
+CVA||cva||costovertebral angle||||||uthealth_sense_distribution|||0.314
+CONT||cont||continue||||||uthealth_sense_distribution|||1.0
+EOMI||eomi||extraocular movements intact||||||uthealth_sense_distribution|||1.0
+PMD||pmd||primary medical doctor||||||uthealth_sense_distribution|||1.0
+FU||f/u||follow up||||||uthealth_sense_distribution|||1.0
+LFTS||lfts||liver function tests||||||uthealth_sense_distribution|||1.0
+NCAT||ncat||normocephalic/atraumatic||||||uthealth_sense_distribution|||1.0
+HR||hr||heart rate||||||uthealth_sense_distribution|||0.87
+HR||hr||hour||||||uthealth_sense_distribution|||0.13
+PW||p/w||presents with||||||uthealth_sense_distribution|||1.0
+EF||ef||ejection fraction||||||uthealth_sense_distribution|||1.0
+BUN||bun||blood urea nitrogen||||||uthealth_sense_distribution|||1.0
+K||k||potassium||||||uthealth_sense_distribution|||0.759
+K||k||thousand||||||uthealth_sense_distribution|||0.031
+CCE||c/c/e||cyanosis, clubbing or edema||||||uthealth_sense_distribution|||1.0
+X2||x2||B x2 means 2 brothers||||||uthealth_sense_distribution|||0.002
+X2||x2||bilaterally||||||uthealth_sense_distribution|||0.551
+X2||x2||two times||||||uthealth_sense_distribution|||0.447
+INR||inr||international normalized ratio||||||uthealth_sense_distribution|||1.0
+T||t||temperature||||||uthealth_sense_distribution|||0.483568075117
+T||t||tobacco||||||uthealth_sense_distribution|||0.0129107981221
+T||t||total||||||uthealth_sense_distribution|||0.235915492958
+T||t||type||||||uthealth_sense_distribution|||0.0140845070423
+DVT||dvt||deep vein thrombosis||||||uthealth_sense_distribution|||1.0
+PLT||plt||platelets||||||uthealth_sense_distribution|||1.0
+MMM||mmm||moist mucous membanes||||||uthealth_sense_distribution|||1.0
+WT||wt||weight||||||uthealth_sense_distribution|||0.726
+YRS||yrs||years||||||uthealth_sense_distribution|||1.0
+CV||cv||cardiovascular||||||uthealth_sense_distribution|||0.993
+CV||cv||costovertebral||||||uthealth_sense_distribution|||0.007
+RR||rr||regular rate||||||uthealth_sense_distribution|||0.451
+RR||rr||respiratory rate||||||uthealth_sense_distribution|||0.547
+UA||ua||urinalysis||||||uthealth_sense_distribution|||1.0
+NA||na||normal axis||||||uthealth_sense_distribution|||0.02002002002
+NA||na||not applicable||||||uthealth_sense_distribution|||0.00600600600601
+NA||na||sodium||||||uthealth_sense_distribution|||0.965965965966
+PMH||pmh||past medical history||||||uthealth_sense_distribution|||1.0
+CATH||cath||catheter||||||uthealth_sense_distribution|||0.002
+CATH||cath||catheterization||||||uthealth_sense_distribution|||0.998
+DC||d/c||deceased||||||uthealth_sense_distribution|||0.002
+DC||d/c||diarrhea/constipation||||||uthealth_sense_distribution|||0.087
+DC||d/c||discharge||||||uthealth_sense_distribution|||0.884
+DC||d/c||discontinue||||||uthealth_sense_distribution|||0.027
+HHA||hha||home health aide||||||uthealth_sense_distribution|||1.0
+NC||nc||nasal canula||||||uthealth_sense_distribution|||0.242
+NC||nc||non-contributory||||||uthealth_sense_distribution|||0.682
+NC||nc||normocephalic||||||uthealth_sense_distribution|||0.076
+LVH||lvh||left ventricular hypertrophy||||||uthealth_sense_distribution|||1.0
+DM2||dm2||diabetes mellitus type 2||||||uthealth_sense_distribution|||1.0
+CX||cx||circumflex||||||uthealth_sense_distribution|||0.003
+CX||cx||culture||||||uthealth_sense_distribution|||0.997
+PNA||pna||pneumonia||||||uthealth_sense_distribution|||1.0
+QHS||qhs||at bedtime||||||uthealth_sense_distribution|||1.0
+COPD||copd||chronic obstructive pulmonary disease||||||uthealth_sense_distribution|||1.0
+CO||c/o||complains of||||||uthealth_sense_distribution|||1.0
+CW||c/w||consistent with||||||uthealth_sense_distribution|||0.983967935872
+CW||c/w||continue with||||||uthealth_sense_distribution|||0.0160320641283
+TOB||tob||tobacco||||||uthealth_sense_distribution|||1.0
+EMS||ems||emergency medical service||||||uthealth_sense_distribution|||1.0
+NV||n/v||nausea/vomiting||||||uthealth_sense_distribution|||1.0
+PHOS||phos||phosphorus||||||uthealth_sense_distribution|||1.0
+ABX||abx||antibiotics||||||uthealth_sense_distribution|||1.0
+RO||r/o||rule out||||||uthealth_sense_distribution|||1.0
+O2||o2||oxygen||||||uthealth_sense_distribution|||1.0
+AFIB||afib||atrial fibrillation||||||uthealth_sense_distribution|||1.0
+SX||sx||surgery||||||uthealth_sense_distribution|||0.015
+SX||sx||symptoms||||||uthealth_sense_distribution|||0.985
+CCE||cce||cyanosis, clubbing or edema||||||uthealth_sense_distribution|||1.0
+BID||bid||twice a day||||||uthealth_sense_distribution|||1.0
+MCV||mcv||mean corpuscular volume||||||uthealth_sense_distribution|||1.0
+CTAB||ctab||clear to auscultation bilaterlly||||||uthealth_sense_distribution|||1.0
+MRI||mri||magnetic resonance imaging||||||uthealth_sense_distribution|||1.0
+IVF||ivf||intravenous fluid||||||uthealth_sense_distribution|||1.0
+PND||pnd||paroxysmal nocturnal dyspnea||||||uthealth_sense_distribution|||1.0
+HA||ha||headache||||||uthealth_sense_distribution|||0.947895791583
+HA||ha||health aide||||||uthealth_sense_distribution|||0.0521042084168
+FS||fs||fingerstick||||||uthealth_sense_distribution|||0.992529348986
+III||iii||roman numeral for the number 3||||||uthealth_sense_distribution|||1.0
+CHEM||chem||chemistry||||||uthealth_sense_distribution|||1.0
+CRI||cri||chornic renal insufficiency||||||uthealth_sense_distribution|||1.0
+CK||ck||check||||||uthealth_sense_distribution|||0.004
+CK||ck||creatine kinase||||||uthealth_sense_distribution|||0.977
+ST||st||saint||||||uthealth_sense_distribution|||0.199790794979
+ST||st||street||||||uthealth_sense_distribution|||0.0366108786611
+TWI||twi||T-wave inversions||||||uthealth_sense_distribution|||1.0
+UTI||uti||urinary tract infection||||||uthealth_sense_distribution|||1.0
+AST||ast||aspartate aminotransferase||||||uthealth_sense_distribution|||1.0
+PULM||pulm||pulmonary||||||uthealth_sense_distribution|||1.0
+AIM||aim||associates in internal medicine||||||uthealth_sense_distribution|||1.0
+HIV||hiv||human immunodeficiency virus||||||uthealth_sense_distribution|||1.0
+CL||cl||chloride||||||uthealth_sense_distribution|||0.984817813765
+CL||cl||clearance||||||uthealth_sense_distribution|||0.00506072874494
+CL||cl||consult liason||||||uthealth_sense_distribution|||0.0101214574899
+DR||dr||Domican Republic||||||uthealth_sense_distribution|||0.0752032520325
+DR||dr||doctor||||||uthealth_sense_distribution|||0.924796747967
+VS||vs||versus||||||uthealth_sense_distribution|||0.033
+VS||vs||vital signs||||||uthealth_sense_distribution|||0.967
+ALT||alt||alanine aminotransferase||||||uthealth_sense_distribution|||0.996
+ALT||alt||alternalte||||||uthealth_sense_distribution|||0.002
+ALT||alt||alternans||||||uthealth_sense_distribution|||0.002
+PERRL||perrl||pupils equal, round, reactive to light||||||uthealth_sense_distribution|||1.0
+ID||id||identification||||||uthealth_sense_distribution|||0.002
+ID||id||infectious disease||||||uthealth_sense_distribution|||0.998
+HCTZ||hctz||hydrochlorothiazide||||||uthealth_sense_distribution|||1.0
+NS||ns||nasal spray||||||uthealth_sense_distribution|||0.002
+NS||ns||neurosurgery||||||uthealth_sense_distribution|||0.312
+NS||ns||night sweats||||||uthealth_sense_distribution|||0.145
+NS||ns||nonspecific||||||uthealth_sense_distribution|||0.004
+NS||ns||normal saline||||||uthealth_sense_distribution|||0.537
+GERD||gerd||gastroesophageal reflux disease||||||uthealth_sense_distribution|||1.0
+X3||x3||for 3||||||uthealth_sense_distribution|||0.141
+X3||x3||three times||||||uthealth_sense_distribution|||0.369
+HSM||hsm||hepatosplenomegaly||||||uthealth_sense_distribution|||0.944
+HSM||hsm||holosystolic murmur||||||uthealth_sense_distribution|||0.056
+CVAT||cvat||costovertebral angle tenderness||||||uthealth_sense_distribution|||1.0
+MRG||m/r/g||murmurs/rubs/gallops||||||uthealth_sense_distribution|||1.0
+P||p||pain||||||uthealth_sense_distribution|||0.00212539851222
+P||p||parasites||||||uthealth_sense_distribution|||0.124335812965
+P||p||pending||||||uthealth_sense_distribution|||0.36344314559
+P||p||physical||||||uthealth_sense_distribution|||0.00212539851222
+P||p||pulse||||||uthealth_sense_distribution|||0.507970244421
+RBC||rbc||red blood cell||||||uthealth_sense_distribution|||1.0
+NEBS||nebs||nebulizers||||||uthealth_sense_distribution|||1.0
+BMP||bmp||basic metabolic panel||||||uthealth_sense_distribution|||1.0
+SXS||sxs||symptoms||||||uthealth_sense_distribution|||1.0
+OP||op||opening pressure||||||uthealth_sense_distribution|||0.00205549845838
+OP||op||operation||||||uthealth_sense_distribution|||0.016443987667
+OP||op||oropharynx||||||uthealth_sense_distribution|||0.968139773895
+OP||op||outpatient||||||uthealth_sense_distribution|||0.0133607399794
+MM||mm||millimeter||||||uthealth_sense_distribution|||0.427
+MM||mm||moist membranes||||||uthealth_sense_distribution|||0.554
+MM||mm||multiple myeloma||||||uthealth_sense_distribution|||0.011
+B||b||basophils||||||uthealth_sense_distribution|||0.143763213531
+B||b||beeper||||||uthealth_sense_distribution|||0.0253699788584
+B||b||bilaterally||||||uthealth_sense_distribution|||0.794926004228
+B||b||brain||||||uthealth_sense_distribution|||0.014799154334
+B||b||brother||||||uthealth_sense_distribution|||0.0211416490486
+LFT||lft||left||||||uthealth_sense_distribution|||0.0976837865055
+LFT||lft||liver function tests||||||uthealth_sense_distribution|||0.902316213494
+II||ii||roman numeral for the number 2||||||uthealth_sense_distribution|||1.0
+PTA||pta||prior to admission||||||uthealth_sense_distribution|||1.0
+PPD||ppd||Purified Protein Derivative||||||uthealth_sense_distribution|||1.0
+WO||w/o||without||||||uthealth_sense_distribution|||1.0
+WU||w/u||work-up||||||uthealth_sense_distribution|||1.0
+SW||sw||social work||||||uthealth_sense_distribution|||1.0
+YO||y/o||years old||||||uthealth_sense_distribution|||1.0
+HEME||heme||hematology||||||uthealth_sense_distribution|||0.861
+FC||f/c||fevers/chills||||||uthealth_sense_distribution|||1.0
+DIFF||diff||differential||||||uthealth_sense_distribution|||0.703
+DIFF||diff||differentiated||||||uthealth_sense_distribution|||0.008
+DIFF||diff||difficile||||||uthealth_sense_distribution|||0.285
+DIFF||diff||diffuse||||||uthealth_sense_distribution|||0.004
+CABG||cabg||coronary artery bypass graft||||||uthealth_sense_distribution|||1.0
+X1||x1||for one||||||uthealth_sense_distribution|||0.011
+X1||x1||once||||||uthealth_sense_distribution|||0.98
+C||c||caesarean||||||uthealth_sense_distribution|||0.0134436401241
+C||c||cellular phone||||||uthealth_sense_distribution|||0.0517063081696
+C||c||clostridium||||||uthealth_sense_distribution|||0.283350568769
+C||c||constipation||||||uthealth_sense_distribution|||0.0124095139607
+C||c||curettage||||||uthealth_sense_distribution|||0.0113753877973
+C||c||cyanosis or clubbing||||||uthealth_sense_distribution|||0.0196483971044
+C||c||with||||||uthealth_sense_distribution|||0.395036194416
+PTT||ptt||partial thromboplastin time||||||uthealth_sense_distribution|||1.0
+EGD||egd||esophagogastroduodenoscopy||||||uthealth_sense_distribution|||1.0
+DX||dx||diagnosis||||||uthealth_sense_distribution|||0.994
+DX||dx||disease||||||uthealth_sense_distribution|||0.006
+N||n||nausea||||||uthealth_sense_distribution|||0.0794392523364
+N||n||neutrophils||||||uthealth_sense_distribution|||0.911214953271
+N||n||north||||||uthealth_sense_distribution|||0.00233644859813
+CN||cn||cranial nerves||||||uthealth_sense_distribution|||1.0
+ETT||ett||endotracheal tube||||||uthealth_sense_distribution|||0.011
+ETT||ett||exercise tolerance||||||uthealth_sense_distribution|||0.104
+ETT||ett||exercise tolerance test||||||uthealth_sense_distribution|||0.885
+ECG||ecg||electrocardiogram||||||uthealth_sense_distribution|||1.0
+DP||dp||dorsalis pedis||||||uthealth_sense_distribution|||1.0
+W||w||week||||||uthealth_sense_distribution|||0.002
+W||w||well||||||uthealth_sense_distribution|||0.009
+W||w||west||||||uthealth_sense_distribution|||0.016
+W||w||white blood cells||||||uthealth_sense_distribution|||0.148
+W||w||with||||||uthealth_sense_distribution|||0.054
+W||w||woman||||||uthealth_sense_distribution|||0.751
+W||w||work||||||uthealth_sense_distribution|||0.02
+DOE||doe||dyspnea on exertion||||||uthealth_sense_distribution|||1.0
+PCN||pcn||penicillin||||||uthealth_sense_distribution|||1.0
+GLUC||gluc||gluconate||||||uthealth_sense_distribution|||0.005
+GLUC||gluc||glucose||||||uthealth_sense_distribution|||0.995
+DZ||dz||disease||||||uthealth_sense_distribution|||1.0
+BILI||bili||bilirubin||||||uthealth_sense_distribution|||1.0
+MVI||mvi||multivitamin||||||uthealth_sense_distribution|||1.0
+EVAL||eval||evaluate||||||uthealth_sense_distribution|||0.721
+EVAL||eval||evaluation||||||uthealth_sense_distribution|||0.279
+ESRD||esrd||end-stage renal disease||||||uthealth_sense_distribution|||1.0
+WWP||wwp||warm and well-perfused||||||uthealth_sense_distribution|||1.0
+PMHX||pmhx||past medical history||||||uthealth_sense_distribution|||1.0
+DL||dl||deciliter||||||uthealth_sense_distribution|||1.0
+CPMC||cpmc||columbia presbyterian medical center||||||uthealth_sense_distribution|||1.0
+CB||c/b||complicated by||||||uthealth_sense_distribution|||1.0
+LLE||lle||left lower extremity||||||uthealth_sense_distribution|||1.0
+MR||mr||mister||||||uthealth_sense_distribution|||0.773
+MR||mr||mitral regurgitation||||||uthealth_sense_distribution|||0.225
+MR||mr||murmurs/rubs||||||uthealth_sense_distribution|||0.002
+BL||bl||baseline||||||uthealth_sense_distribution|||0.548484848485
+BL||bl||bilateral||||||uthealth_sense_distribution|||0.434343434343
+UTOX||utox||urine toxicology||||||uthealth_sense_distribution|||1.0
+PEG||peg||percutaneous endoscopic gastrostomy||||||uthealth_sense_distribution|||1.0
+SQ||sq||subcutaneous||||||uthealth_sense_distribution|||1.0
+D||d||day||||||uthealth_sense_distribution|||0.913043478261
+D||d||diarrhea||||||uthealth_sense_distribution|||0.0434782608696
+D||d||disorder||||||uthealth_sense_distribution|||0.0434782608696
+LV||lv||left ventricle||||||uthealth_sense_distribution|||0.989
+LV||lv||leucovorin||||||uthealth_sense_distribution|||0.011
+U||u||unit||||||uthealth_sense_distribution|||0.881
+U||u||upper||||||uthealth_sense_distribution|||0.002
+U||u||urine||||||uthealth_sense_distribution|||0.117
+DISPO||dispo||disposition||||||uthealth_sense_distribution|||1.0
+BPM||bpm||beats per minute||||||uthealth_sense_distribution|||1.0
+HGB||hgb||hemoglobin||||||uthealth_sense_distribution|||0.992
+TB||tb||total bilirubin||||||uthealth_sense_distribution|||0.264
+TB||tb||tuberculosis||||||uthealth_sense_distribution|||0.736
+C7||c7||chemistry 7||||||uthealth_sense_distribution|||1.0
+HCO3||hco3||bicarbonate||||||uthealth_sense_distribution|||1.0
+URI||uri||upper respiratory tract infection||||||uthealth_sense_distribution|||1.0
+MD||md||medical doctor||||||uthealth_sense_distribution|||1.0
+OCC||occ||occasional||||||uthealth_sense_distribution|||1.0
+OSH||osh||outside hospital||||||uthealth_sense_distribution|||1.0
+IVDU||ivdu||intravenous drug use||||||uthealth_sense_distribution|||1.0
+NTND||ntnd||nontender/nondistended||||||uthealth_sense_distribution|||1.0
+MS||ms||Miss||||||uthealth_sense_distribution|||0.431
+MS||ms||mental status||||||uthealth_sense_distribution|||0.394
+MS||ms||milliseconds||||||uthealth_sense_distribution|||0.089
+MS||ms||morphine sulfate||||||uthealth_sense_distribution|||0.039
+MS||ms||multiple sclerosis||||||uthealth_sense_distribution|||0.006
+MS||ms||muscle strength||||||uthealth_sense_distribution|||0.041
+AP||ap||abdomen and pelvis||||||uthealth_sense_distribution|||0.00401606425703
+AP||ap||alkaline phosphatase||||||uthealth_sense_distribution|||0.578313253012
+AP||ap||allen pavilion||||||uthealth_sense_distribution|||0.0923694779116
+AP||ap||anterior-posterior||||||uthealth_sense_distribution|||0.153614457831
+AP||ap||assessment and plan||||||uthealth_sense_distribution|||0.0200803212851
+USOH||usoh||usual state of health||||||uthealth_sense_distribution|||1.0
+MCG||mcg||micrograms||||||uthealth_sense_distribution|||1.0
+CO2||co2||bicarbonate||||||uthealth_sense_distribution|||0.973
+CO2||co2||carbon dioxide||||||uthealth_sense_distribution|||0.027
+EXT||ext||extension||||||uthealth_sense_distribution|||0.00201612903226
+EXT||ext||external||||||uthealth_sense_distribution|||0.0110887096774
+EXT||ext||extremities||||||uthealth_sense_distribution|||0.98689516129
+ET||et||and others||||||uthealth_sense_distribution|||0.00400801603206
+ET||et||endotracheal||||||uthealth_sense_distribution|||0.0140280561122
+ET||et||exercise tolerance||||||uthealth_sense_distribution|||0.981963927856
+LOC||loc||loss of consciousness||||||uthealth_sense_distribution|||1.0
+BB||bb||bedbound||||||uthealth_sense_distribution|||0.004
+BB||bb||beta blocker||||||uthealth_sense_distribution|||0.996
+PVC||pvc||premature ventricular contraction||||||uthealth_sense_distribution|||0.0250501002004
+PVC||pvc||pulmonary vascular congestion||||||uthealth_sense_distribution|||0.9749498998
+RX||rx||prescription||||||uthealth_sense_distribution|||0.006
+RX||rx||treatment||||||uthealth_sense_distribution|||0.994
+MMHG||mmhg||millimeters of mercury||||||uthealth_sense_distribution|||1.0
+HRS||hrs||hours||||||uthealth_sense_distribution|||1.0
+ACS||acs||acute coronary syndrome||||||uthealth_sense_distribution|||0.996
+ACS||acs||administration for child services||||||uthealth_sense_distribution|||0.004
+POS||pos||by mouth (From Latin: per os)||||||uthealth_sense_distribution|||0.771
+POS||pos||positive||||||uthealth_sense_distribution|||0.229
+BRBPR||brbpr||bright red blood per rectum||||||uthealth_sense_distribution|||1.0
+MRG||mrg||murmumrs, rubs, gallops||||||uthealth_sense_distribution|||1.0
+NABS||nabs||normoactive bowel sounds||||||uthealth_sense_distribution|||1.0
+NH||nh||nursing home||||||uthealth_sense_distribution|||0.86
+BNP||bnp||brain natriuretic peptide||||||uthealth_sense_distribution|||1.0
+UCX||ucx||urine culture||||||uthealth_sense_distribution|||1.0
+TTP||ttp||tenderness to palpation||||||uthealth_sense_distribution|||0.958
+TTP||ttp||thrombotic thrombocytopenic purpura||||||uthealth_sense_distribution|||0.042
+RLE||rle||right lower extremity||||||uthealth_sense_distribution|||1.0
+PPI||ppi||proton pump inhibitor||||||uthealth_sense_distribution|||1.0
+SSCP||sscp||substernal chest pain||||||uthealth_sense_distribution|||1.0
+JVP||jvp||jugular venous pressure||||||uthealth_sense_distribution|||1.0
+ALK||alk||alkaline||||||uthealth_sense_distribution|||1.0
+SBP||sbp||spontaneous bacterial peritonitis||||||uthealth_sense_distribution|||0.693
+SBP||sbp||systolic blood pressure||||||uthealth_sense_distribution|||0.307
+MICU||micu||medical intensive care unit||||||uthealth_sense_distribution|||1.0
+PUD||pud||peptic ulcer disease||||||uthealth_sense_distribution|||1.0
+CUMC||cumc||columbia university medical center||||||uthealth_sense_distribution|||1.0
+MIN||min||minimal||||||uthealth_sense_distribution|||0.748
+MIN||min||minutes||||||uthealth_sense_distribution|||0.252
+RUQ||ruq||right upper quadrant||||||uthealth_sense_distribution|||1.0
+RCA||rca||right coronary artery||||||uthealth_sense_distribution|||1.0
+PA||pa||pennsylvania||||||uthealth_sense_distribution|||0.121
+PA||pa||physician assistant||||||uthealth_sense_distribution|||0.006
+PA||pa||posterior-anterior||||||uthealth_sense_distribution|||0.82
+PA||pa||pulmonary artery||||||uthealth_sense_distribution|||0.053
+PVD||pvd||peripheral vascular disease||||||uthealth_sense_distribution|||1.0
+AF||af||afebrile||||||uthealth_sense_distribution|||0.903
+AF||af||atrial fibrillation||||||uthealth_sense_distribution|||0.097
+LAN||lan||lymphadenopathy||||||uthealth_sense_distribution|||1.0
+DNR||dnr||do not resuscitate||||||uthealth_sense_distribution|||1.0
+AFEB||afeb||afebrile||||||uthealth_sense_distribution|||1.0
+NPO||npo||nothing by mouth (From Latin: 'Nil per os')||||||uthealth_sense_distribution|||1.0
+TR||tr||trace||||||uthealth_sense_distribution|||0.327
+TR||tr||tricuspid regurgitation||||||uthealth_sense_distribution|||0.673
+US||us||ultrasound||||||uthealth_sense_distribution|||0.629032258065
+US||us||united states||||||uthealth_sense_distribution|||0.220766129032
+NVD||n/v/d||nause, vomiting, diarrhea||||||uthealth_sense_distribution|||1.0
+BPH||bph||benign prostatic hypertrophy||||||uthealth_sense_distribution|||1.0
+RV||rv||right ventricle||||||uthealth_sense_distribution|||1.0
+TID||tid||three times a day||||||uthealth_sense_distribution|||1.0
+WK||wk||week||||||uthealth_sense_distribution|||1.0
+ECASA||ecasa||enteric coated acetylsalicylic acid||||||uthealth_sense_distribution|||1.0
+PPM||ppm||pacemaker||||||uthealth_sense_distribution|||1.0
+B12||b12||vitamin b12||||||uthealth_sense_distribution|||0.781
+ENDO||endo||endocrinology||||||uthealth_sense_distribution|||0.998
+ENDO||endo||endoscopy||||||uthealth_sense_distribution|||0.002
+NPH||nph||NPH insulin||||||uthealth_sense_distribution|||0.95
+NPH||nph||normal pressure hydrocephalus||||||uthealth_sense_distribution|||0.05
+O||o||old||||||uthealth_sense_distribution|||0.064
+O||o||oriented||||||uthealth_sense_distribution|||0.52
+O||o||ova||||||uthealth_sense_distribution|||0.043
+ADLS||adls||activities of daily living||||||uthealth_sense_distribution|||1.0
+PROT||prot||protein||||||uthealth_sense_distribution|||1.0
+QAM||qam||every morning||||||uthealth_sense_distribution|||1.0
+SR||sr||senior||||||uthealth_sense_distribution|||0.052
+SR||sr||sinus rhythm||||||uthealth_sense_distribution|||0.873
+SR||sr||sustained release||||||uthealth_sense_distribution|||0.075
+DW||d/w||discussed with||||||uthealth_sense_distribution|||1.0
+OA||oa||osteoarthritis||||||uthealth_sense_distribution|||1.0
+RF||rf||renal failure||||||uthealth_sense_distribution|||0.0100704934542
+RF||rf||rheumatoid factor||||||uthealth_sense_distribution|||0.0412890231621
+RF||rf||risk factors||||||uthealth_sense_distribution|||0.948640483384
+BX||bx||biopsy||||||uthealth_sense_distribution|||0.975951903808
+BX||bx||blood culture||||||uthealth_sense_distribution|||0.0200400801603
+BX||bx||bronx||||||uthealth_sense_distribution|||0.00400801603206
+Q||q||every||||||uthealth_sense_distribution|||0.676381909548
+Q||q||subq = subcutaneous||||||uthealth_sense_distribution|||0.0381909547739
+NTG||ntg||nitroglycerin||||||uthealth_sense_distribution|||1.0
+PM||pm||afternoon||||||uthealth_sense_distribution|||0.981
+PM||pm||pacemaker||||||uthealth_sense_distribution|||0.019
+AVF||avf||arteriovenous fistula||||||uthealth_sense_distribution|||0.188
+MOD||mod||moderate||||||uthealth_sense_distribution|||1.0
+LDL||ldl||low-density lipoprotein||||||uthealth_sense_distribution|||1.0
+NEURO||neuro||neurologic||||||uthealth_sense_distribution|||0.023
+NEURO||neuro||neurology||||||uthealth_sense_distribution|||0.977
+RESP||resp||respirations||||||uthealth_sense_distribution|||0.135
+RESP||resp||respiratory||||||uthealth_sense_distribution|||0.865
+FSG||fsg||finger stick glucose||||||uthealth_sense_distribution|||1.0
+CHOL||chol||cholesterol||||||uthealth_sense_distribution|||1.0
+E||e||Enterococcus||||||uthealth_sense_distribution|||0.019
+E||e||Escherichia||||||uthealth_sense_distribution|||0.259
+E||e||east||||||uthealth_sense_distribution|||0.022
+E||e||edema||||||uthealth_sense_distribution|||0.072
+E||e||eosin||||||uthealth_sense_distribution|||0.006
+E||e||eosinophils||||||uthealth_sense_distribution|||0.338
+E||e||ethanol (alcohol)||||||uthealth_sense_distribution|||0.042
+TWF||twf||T wave flattening||||||uthealth_sense_distribution|||1.0
+VSS||vss||vital signs stable||||||uthealth_sense_distribution|||1.0
+ACEI||acei||angiotensin converting enzyme inhibitor||||||uthealth_sense_distribution|||1.0
+US||u/s||ultrasound||||||uthealth_sense_distribution|||1.0
+ABG||abg||arterial blood gas||||||uthealth_sense_distribution|||1.0
+TP||tp||posterior tibial||||||uthealth_sense_distribution|||0.0115546218487
+TP||tp||toilet paper||||||uthealth_sense_distribution|||0.00840336134454
+TP||tp||total protein||||||uthealth_sense_distribution|||0.980042016807
+DTR||dtr||daughter||||||uthealth_sense_distribution|||0.929
+DTR||dtr||deep tendon reflex||||||uthealth_sense_distribution|||0.071
+HCV||hcv||hepatitis C virus||||||uthealth_sense_distribution|||1.0
+FX||fx||family history||||||uthealth_sense_distribution|||0.085
+FX||fx||fracture||||||uthealth_sense_distribution|||0.524
+FX||fx||function||||||uthealth_sense_distribution|||0.391
+A1C||a1c||hemoglobin A1C||||||uthealth_sense_distribution|||1.0
+REG||reg||regimen||||||uthealth_sense_distribution|||0.002
+REG||reg||regular||||||uthealth_sense_distribution|||0.994
+REG||reg||regular insulin||||||uthealth_sense_distribution|||0.004
+LAE||lae||left atrial enlargement||||||uthealth_sense_distribution|||1.0
+UE||ue||upper extremity||||||uthealth_sense_distribution|||1.0
+TED||t/e/d||tobacco, ethanol, drugs||||||uthealth_sense_distribution|||1.0
+GLU||glu||glucose||||||uthealth_sense_distribution|||1.0
+WKS||wks||weeks||||||uthealth_sense_distribution|||1.0
+AICD||aicd||Automatic Implantable Cardioverter Defibrillator||||||uthealth_sense_distribution|||1.0
+Q6||q6||every 6||||||uthealth_sense_distribution|||0.00228050171038
+Q6||q6||every 6 hours||||||uthealth_sense_distribution|||0.99771949829
+AV||av||aortic valve||||||uthealth_sense_distribution|||0.151151151151
+AV||av||arteriovenous||||||uthealth_sense_distribution|||0.339339339339
+AV||av||atrioventricular||||||uthealth_sense_distribution|||0.50950950951
+GDL||g/dl||grams per deciliter||||||uthealth_sense_distribution|||1.0
+RBBB||rbbb||right bundle branch block||||||uthealth_sense_distribution|||1.0
+DO||d/o||died of||||||uthealth_sense_distribution|||0.00200400801603
+DO||d/o||disorder||||||uthealth_sense_distribution|||0.997995991984
+LEE||lee||lower extremitiy edema||||||uthealth_sense_distribution|||0.708
+XRT||xrt||radiation therapy||||||uthealth_sense_distribution|||1.0
+SL||sl||slight||||||uthealth_sense_distribution|||0.0293193717277
+SL||sl||sublingual||||||uthealth_sense_distribution|||0.851308900524
+TW||tw||T wave||||||uthealth_sense_distribution|||1.0
+DNI||dni||do not intubate||||||uthealth_sense_distribution|||1.0
+ARF||arf||acute renal failure||||||uthealth_sense_distribution|||1.0
+GIB||gib||gastrointestinal bleed||||||uthealth_sense_distribution|||1.0
+DDX||ddx||differential diagnosis||||||uthealth_sense_distribution|||1.0
+H||h||H&H is hemoglobin and hematocrit||||||uthealth_sense_distribution|||0.00316957210777
+H||h||helicobacter||||||uthealth_sense_distribution|||0.426307448494
+H||h||high||||||uthealth_sense_distribution|||0.144215530903
+H||h||home||||||uthealth_sense_distribution|||0.261489698891
+H||h||hours||||||uthealth_sense_distribution|||0.164817749604
+PSA||psa||polysubstance abuse||||||uthealth_sense_distribution|||0.813925570228
+PSA||psa||prostate specific antigen||||||uthealth_sense_distribution|||0.186074429772
+HBA1C||hba1c||hemoglobin A1c||||||uthealth_sense_distribution|||1.0
+MGR||m/g/r||murmurs, gallops, rubs||||||uthealth_sense_distribution|||1.0
+ESR||esr||erythrocyte sedimentation rate||||||uthealth_sense_distribution|||1.0
+SEM||sem||systolic ejection murmur||||||uthealth_sense_distribution|||1.0
+COAG||coag||coagulation||||||uthealth_sense_distribution|||1.0
+PSH||psh||past surgical history||||||uthealth_sense_distribution|||1.0
+CAP||cap||capillary||||||uthealth_sense_distribution|||0.045
+CAP||cap||captain||||||uthealth_sense_distribution|||0.002
+CAP||cap||community-acquired pneumonia||||||uthealth_sense_distribution|||0.919
+VNS||vns||visiting nurse services||||||uthealth_sense_distribution|||1.0
+SZ||sz||seizure||||||uthealth_sense_distribution|||0.981458590853
+SZ||sz||size||||||uthealth_sense_distribution|||0.0185414091471
+NML||nml||normal||||||uthealth_sense_distribution|||1.0
+PLTS||plts||platelets||||||uthealth_sense_distribution|||1.0
+S||s||intitial of physician||||||uthealth_sense_distribution|||0.00625651720542
+S||s||s&s = swish and swallow||||||uthealth_sense_distribution|||0.00417101147028
+S||s||smear||||||uthealth_sense_distribution|||0.00834202294056
+S||s||soft||||||uthealth_sense_distribution|||0.207507820647
+S||s||staphylococcus||||||uthealth_sense_distribution|||0.0125130344108
+CCU||ccu||cardiac care unit||||||uthealth_sense_distribution|||1.0
+BC||b/c||b and c||||||uthealth_sense_distribution|||0.078860898138
+BC||b/c||because||||||uthealth_sense_distribution|||0.921139101862
+ROMI||romi||rule out myocardial infarction||||||uthealth_sense_distribution|||1.0
+LBP||lbp||low back pain||||||uthealth_sense_distribution|||1.0
+V||v||roman numeral for the number 5||||||uthealth_sense_distribution|||0.0588235294118
+V||v||ventricular||||||uthealth_sense_distribution|||0.0661764705882
+V||v||versus||||||uthealth_sense_distribution|||0.0426470588235
+V||v||vessel||||||uthealth_sense_distribution|||0.622058823529
+V||v||vomiting||||||uthealth_sense_distribution|||0.207352941176
+VIT||vit||vitamin||||||uthealth_sense_distribution|||1.0
+SNF||snf||skilled nursing facility||||||uthealth_sense_distribution|||1.0
+RT||rt||radiation therapy||||||uthealth_sense_distribution|||0.616891064871
+RT||rt||rebound tenderness||||||uthealth_sense_distribution|||0.144430844553
+RT||rt||right||||||uthealth_sense_distribution|||0.238678090575
+ENT||ent||ear nose throat||||||uthealth_sense_distribution|||1.0
+ONC||onc||oncology||||||uthealth_sense_distribution|||1.0
+PCP||pcp||phencyclidine||||||uthealth_sense_distribution|||0.0283870967742
+PCP||pcp||pneumocystis pneumonia||||||uthealth_sense_distribution|||0.113548387097
+PCP||pcp||primary care physician||||||uthealth_sense_distribution|||0.855483870968
+PCP||pcp||proximal carpal phalanx||||||uthealth_sense_distribution|||0.00258064516129
+DJD||djd||degenerative joint disease||||||uthealth_sense_distribution|||0.975292587776
+BCX||bcx||blood culture||||||uthealth_sense_distribution|||1.0
+LDH||ldh||lactate dehydrogenase||||||uthealth_sense_distribution|||1.0
+CD4||cd4||cluster of differentiation 4||||||uthealth_sense_distribution|||1.0
+Q6H||q6h||every 6 hours||||||uthealth_sense_distribution|||1.0
+LAT||lat||lateral||||||uthealth_sense_distribution|||1.0
+GU||gu||genitourinary||||||uthealth_sense_distribution|||1.0
+INT||int||internal||||||uthealth_sense_distribution|||0.0336538461538
+INT||int||interval||||||uthealth_sense_distribution|||0.966346153846
+HDL||hdl||high-density lipoprotein||||||uthealth_sense_distribution|||1.0
+LBBB||lbbb||left bundle branch block||||||uthealth_sense_distribution|||1.0
+HCP||hcp||health care proxy||||||uthealth_sense_distribution|||1.0
+HB||hb||heart block||||||uthealth_sense_distribution|||0.0601915184679
+HB||hb||hemoglobin||||||uthealth_sense_distribution|||0.939808481532
+LLQ||llq||left lower quadrant||||||uthealth_sense_distribution|||1.0
+DMII||dmii||diabetes mellitus type 2||||||uthealth_sense_distribution|||1.0
+SM||sm||senior medicine||||||uthealth_sense_distribution|||0.00547945205479
+SM||sm||small||||||uthealth_sense_distribution|||0.0205479452055
+SM||sm||smith||||||uthealth_sense_distribution|||0.0123287671233
+SM||sm||smooth muscle||||||uthealth_sense_distribution|||0.0041095890411
+SM||sm||systolic murmur||||||uthealth_sense_distribution|||0.957534246575
+PFTS||pfts||pulmonary function tests||||||uthealth_sense_distribution|||1.0
+RDW||rdw||red cell distribution width||||||uthealth_sense_distribution|||1.0
+HH||h/h||hemoglobin and hematocrit||||||uthealth_sense_distribution|||1.0
+OX3||ox3||oriented times 3||||||uthealth_sense_distribution|||1.0
+TM||tm||maximum temperature||||||uthealth_sense_distribution|||0.504672897196
+TM||tm||thyromegaly||||||uthealth_sense_distribution|||0.489096573209
+TM||tm||tympanic membrane||||||uthealth_sense_distribution|||0.00623052959502
+ICU||icu||intensive care unit||||||uthealth_sense_distribution|||1.0
+QDAY||qday||everyday||||||uthealth_sense_distribution|||1.0
+LUE||lue||left upper extremity||||||uthealth_sense_distribution|||1.0
+WDWN||wdwn||well-developed, well-nourished||||||uthealth_sense_distribution|||1.0
+THAL||thal||thalassemia||||||uthealth_sense_distribution|||0.185074626866
+THAL||thal||thalium||||||uthealth_sense_distribution|||0.814925373134
+SB||sb||sinus bradycardia||||||uthealth_sense_distribution|||0.976780185759
+SB||sb||small bowel||||||uthealth_sense_distribution|||0.0201238390093
+SB||sb||sternal border||||||uthealth_sense_distribution|||0.0030959752322
+KG||kg||kilogram||||||uthealth_sense_distribution|||0.64546899841
+ACE||ace||angiontensin converting enzyme inhibitor||||||uthealth_sense_distribution|||0.969879518072
+ACE||ace||angiotensin converting enzyme||||||uthealth_sense_distribution|||0.0180722891566
+LA||la||left atrium||||||uthealth_sense_distribution|||0.512658227848
+LA||la||lymphadenopathy||||||uthealth_sense_distribution|||0.335443037975
+BLD||bld||blood||||||uthealth_sense_distribution|||1.0
+PICC||picc||partnership for innovative comprehensive care||||||uthealth_sense_distribution|||0.0061919504644
+PICC||picc||peripherally inserted central catheter||||||uthealth_sense_distribution|||0.993808049536
+ROS||ros||review of systems||||||uthealth_sense_distribution|||1.0
+LVEF||lvef||left ventricular ejection fraction||||||uthealth_sense_distribution|||1.0
+YOF||yof||year old female||||||uthealth_sense_distribution|||1.0
+PH||ph||phone||||||uthealth_sense_distribution|||0.002
+MDI||mdi||metered-dose inhaler||||||uthealth_sense_distribution|||1.0
+IVDA||ivda||intravenous drug abuse||||||uthealth_sense_distribution|||1.0
+IIXII||ii-xii||cranial nerves 2-12||||||uthealth_sense_distribution|||0.00745156482861
+LP||lp||lumbar puncture||||||uthealth_sense_distribution|||1.0
+PR||pr||per||||||uthealth_sense_distribution|||0.00261096605744
+PR||pr||per rectum||||||uthealth_sense_distribution|||0.186684073107
+PR||pr||progesterone receptor||||||uthealth_sense_distribution|||0.0522193211488
+PR||pr||puerto rico||||||uthealth_sense_distribution|||0.100522193211
+PR||pr||pulmonic regurgitation||||||uthealth_sense_distribution|||0.0600522193211
+VI||vi||roman numeral for the number 6||||||uthealth_sense_distribution|||0.986956521739
+INH||inh||inhaler||||||uthealth_sense_distribution|||0.133884297521
+INH||inh||isabella nursing home||||||uthealth_sense_distribution|||0.0198347107438
+INH||inh||isoniazid||||||uthealth_sense_distribution|||0.846280991736
+TDC||tdc||tunnel dialysis catheter||||||uthealth_sense_distribution|||1.0
+MULT||mult||multiple||||||uthealth_sense_distribution|||1.0
+TG||tg||anti-tissue transglutaminase||||||uthealth_sense_distribution|||0.00830564784053
+TG||tg||triglycerides||||||uthealth_sense_distribution|||0.991694352159
+UL||u/l||units per liter||||||uthealth_sense_distribution|||0.997264021888
+UL||u/l||upper and lower||||||uthealth_sense_distribution|||0.00273597811218
+RLL||rll||right lower lobe||||||uthealth_sense_distribution|||1.0
+DKA||dka||diabetic ketoacidosis||||||uthealth_sense_distribution|||1.0
+HAART||haart||highly active antiretroviral therapy||||||uthealth_sense_distribution|||1.0
+AFVSS||afvss||afebrile vital signs stable||||||uthealth_sense_distribution|||1.0
+QPM||qpm||every afternoon||||||uthealth_sense_distribution|||1.0
+DT||d/t||direct and total||||||uthealth_sense_distribution|||0.00329489291598
+DT||d/t||due to||||||uthealth_sense_distribution|||0.996705107084
+PMI||pmi||point of maximal impulse||||||uthealth_sense_distribution|||1.0
+IR||ir||intermediate release||||||uthealth_sense_distribution|||0.0295081967213
+IR||ir||interventional radiology||||||uthealth_sense_distribution|||0.803278688525
+IR||ir||irregular||||||uthealth_sense_distribution|||0.00655737704918
+HI||hi||high||||||uthealth_sense_distribution|||0.116959064327
+HI||hi||homicidal ideation||||||uthealth_sense_distribution|||0.879142300195
+APPT||appt||appointment||||||uthealth_sense_distribution|||1.0
+Q12||q12||every 12 hours||||||uthealth_sense_distribution|||1.0
+TAH||tah||total abdominal hysterectomy||||||uthealth_sense_distribution|||1.0
+IVC||ivc||inverior vena cava||||||uthealth_sense_distribution|||1.0
+LLL||lll||left lower lobe||||||uthealth_sense_distribution|||1.0
+CIGS||cigs||cigarettes||||||uthealth_sense_distribution|||1.0
+EKGS||ekgs||electrocardiogram||||||uthealth_sense_distribution|||1.0
+HEP||hep||heparin||||||uthealth_sense_distribution|||0.083
+HEP||hep||hepatic panel||||||uthealth_sense_distribution|||0.015
+HEP||hep||hepatitis||||||uthealth_sense_distribution|||0.902
+FROM||from||full range of motion||||||uthealth_sense_distribution|||0.029
+OP||o/p||oropharynx||||||uthealth_sense_distribution|||0.796875
+OP||o/p||outpatient||||||uthealth_sense_distribution|||0.190104166667
+OP||o/p||ova and parasites||||||uthealth_sense_distribution|||0.0130208333333
+FEN||fen||fluid electrolytes nutrition||||||uthealth_sense_distribution|||1.0
+PAF||paf||paroxysmal atrial fibrillation||||||uthealth_sense_distribution|||1.0
+AXR||axr||abdominal x-ray||||||uthealth_sense_distribution|||1.0
+LT||lt||left||||||uthealth_sense_distribution|||0.308737864078
+LT||lt||light touch||||||uthealth_sense_distribution|||0.66213592233
+APTT||aptt||activated partial thromboplastin time||||||uthealth_sense_distribution|||1.0
+GLC||glc||glucose||||||uthealth_sense_distribution|||1.0
+RUE||rue||right upper extremity||||||uthealth_sense_distribution|||1.0
+MRA||mra||magnetic resonance angiogram||||||uthealth_sense_distribution|||1.0
+NF||nf||night float||||||uthealth_sense_distribution|||0.687969924812
+NF||nf||nonfocal||||||uthealth_sense_distribution|||0.312030075188
+OT||ot||occupational therapy||||||uthealth_sense_distribution|||0.976525821596
+RUSB||rusb||right upper sternal border||||||uthealth_sense_distribution|||1.0
+ABNL||abnl||abnormal||||||uthealth_sense_distribution|||0.186379928315
+ABNL||abnl||abnormality||||||uthealth_sense_distribution|||0.813620071685
+YOM||yom||year old male||||||uthealth_sense_distribution|||1.0
+QAC||qac||every morning||||||uthealth_sense_distribution|||1.0
+RVR||rvr||rapid ventricular response||||||uthealth_sense_distribution|||1.0
+SF||s/f||significant for||||||uthealth_sense_distribution|||1.0
+TOL||tol||tolerance||||||uthealth_sense_distribution|||0.945205479452
+TOL||tol||tolerated||||||uthealth_sense_distribution|||0.0547945205479
+AIDS||aids||acquired immunodeficiency syndrome||||||uthealth_sense_distribution|||0.949090909091
+VL||vl||viral load||||||uthealth_sense_distribution|||1.0
+OSA||osa||obstructive sleep apnea||||||uthealth_sense_distribution|||1.0
+DERM||derm||dermatology||||||uthealth_sense_distribution|||1.0
+LN||ln||lupus nephritis||||||uthealth_sense_distribution|||0.0084388185654
+LN||ln||lymph node||||||uthealth_sense_distribution|||0.985232067511
+LN||ln||natural logarithm||||||uthealth_sense_distribution|||0.00632911392405
+MOS||mos||months||||||uthealth_sense_distribution|||1.0
+SLE||sle||systemic lupus erythematosus||||||uthealth_sense_distribution|||1.0
+SI||si||sign||||||uthealth_sense_distribution|||0.0334008097166
+SI||si||suicidal ideation||||||uthealth_sense_distribution|||0.964574898785
+SI||si||suicide||||||uthealth_sense_distribution|||0.00202429149798
+BM||bm||bone marrow||||||uthealth_sense_distribution|||0.0756476683938
+BM||bm||bowel movement||||||uthealth_sense_distribution|||0.924352331606
+LS||ls||lumbosacral||||||uthealth_sense_distribution|||0.833333333333
+LS||ls||lung sounds||||||uthealth_sense_distribution|||0.166666666667
+SS||ss||Hemoglobin SS||||||uthealth_sense_distribution|||0.489898989899
+SS||ss||single strength||||||uthealth_sense_distribution|||0.0378787878788
+SS||ss||sliding scale||||||uthealth_sense_distribution|||0.0959595959596
+SS||ss||social security||||||uthealth_sense_distribution|||0.00505050505051
+SS||ss||substernal||||||uthealth_sense_distribution|||0.0858585858586
+TIA||tia||transient ischemic attack||||||uthealth_sense_distribution|||1.0
+ICD||icd||implantable cardioverter defibrillator||||||uthealth_sense_distribution|||1.0
+ITP||itp||idiopathic thrombocytopenic purpura||||||uthealth_sense_distribution|||1.0
+AD||ad||Alzheimer's disease||||||uthealth_sense_distribution|||0.83064516129
+AD||ad||adenosine||||||uthealth_sense_distribution|||0.153225806452
+AD||ad||advertisement||||||uthealth_sense_distribution|||0.0161290322581
+HS||hs||Hudson South||||||uthealth_sense_distribution|||0.0155945419103
+HS||hs||at bedtime||||||uthealth_sense_distribution|||0.555555555556
+HS||hs||heart sounds||||||uthealth_sense_distribution|||0.399610136452
+HS||hs||high school||||||uthealth_sense_distribution|||0.00584795321637
+HS||hs||history||||||uthealth_sense_distribution|||0.0233918128655
+TSH||tsh||thyroid stimulating hormone||||||uthealth_sense_distribution|||1.0
+AG||ag||anion gap||||||uthealth_sense_distribution|||0.593
+AG||ag||antigen||||||uthealth_sense_distribution|||0.098
+GTT||gtt||drip||||||uthealth_sense_distribution|||0.904
+GTT||gtt||drop||||||uthealth_sense_distribution|||0.096
+MRSA||mrsa||Methicillin-resistant Staphylococcus aureus||||||uthealth_sense_distribution|||1.0
+MED||med||medication||||||uthealth_sense_distribution|||0.614
+MED||med||medicine||||||uthealth_sense_distribution|||0.386
+CC||cc||chief complaint||||||uthealth_sense_distribution|||0.78
+CC||cc||clubbing, cyanosis||||||uthealth_sense_distribution|||0.011
+CC||cc||cubic centimeter||||||uthealth_sense_distribution|||0.209
+MG||mg||magnesium||||||uthealth_sense_distribution|||0.051
+MG||mg||milligram||||||uthealth_sense_distribution|||0.949
+CM||cm||cardiomegaly||||||uthealth_sense_distribution|||0.011
+CM||cm||cardiomyopathy||||||uthealth_sense_distribution|||0.03
+CM||cm||centimeter||||||uthealth_sense_distribution|||0.952
+MI||mi||myocardial infarction||||||uthealth_sense_distribution|||1.0
+LAD||lad||anterior descending branch of left coronary artery||||||uthealth_sense_distribution|||0.041
+LAD||lad||left atrial dilation||||||uthealth_sense_distribution|||0.19
+LAD||lad||left axis deviation||||||uthealth_sense_distribution|||0.086
+LAD||lad||lymphadenopathy||||||uthealth_sense_distribution|||0.683
+DM||dm||diabetes mellitus||||||uthealth_sense_distribution|||0.995
+PE||pe||physical exam||||||uthealth_sense_distribution|||0.257
+PE||pe||pulmonary embolism||||||uthealth_sense_distribution|||0.743
+LE||le||leukocyte esterase||||||uthealth_sense_distribution|||0.136
+LE||le||lower extremity||||||uthealth_sense_distribution|||0.864
+RA||ra||rheumatoid arthritis||||||uthealth_sense_distribution|||0.125125125125
+RA||ra||right atrium||||||uthealth_sense_distribution|||0.016016016016
+RA||ra||room air||||||uthealth_sense_distribution|||0.858858858859
+PT||pt||patient||||||uthealth_sense_distribution|||0.953
+PT||pt||physical therapy||||||uthealth_sense_distribution|||0.01
+PT||pt||prothrombin time||||||uthealth_sense_distribution|||0.037
+CA||ca||calcium||||||uthealth_sense_distribution|||0.486
+CA||ca||carcinoma||||||uthealth_sense_distribution|||0.514
+HD||hd||heart disease||||||uthealth_sense_distribution|||0.002
+HD||hd||hemodialysis||||||uthealth_sense_distribution|||0.884
+HD||hd||hemodynamic||||||uthealth_sense_distribution|||0.114

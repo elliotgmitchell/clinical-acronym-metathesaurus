@@ -1,0 +1,2288 @@
+NSF|NSFUI|SF|SFUI|LF|LFUI|PLF|PLFUI|UMLS CUI|MetaMap CUI|Source|SFEUI|LFEUI|Prevalence
+DISP||DISP||disposition||||C0743223||vanderbilt_clinic_notes|||0.369
+QOW||QOW||every other week||||C0585332||vanderbilt_clinic_notes|||1.0
+QOW||qow||every other week||||C0585332||vanderbilt_clinic_notes|||1.0
+GU||GU||genitourinary||||C0042066||vanderbilt_clinic_notes|||0.996
+GU||gu||guage||||C0456564||vanderbilt_clinic_notes|||0.004
+GT||GT||gastrostomy tube||||C0150595||vanderbilt_clinic_notes|||0.9618
+GT||gt||gastrostomy tube||||C0150595||vanderbilt_clinic_notes|||0.9618
+GT||gt||great||||C1704243||vanderbilt_clinic_notes|||0.0332
+GT||GT||glutamyl transpeptidase||||C0017040||vanderbilt_clinic_notes|||0.005
+ROM||ROM||range of motion||||C2607871||vanderbilt_clinic_notes|||0.995
+ROM||ROM||rupture of membranes||||C0948106||vanderbilt_clinic_notes|||0.005
+PTH||PTH||parathyroid hormone||||C0030520||vanderbilt_clinic_notes|||1.0
+PTH||pth||parathyroid hormone||||C0030520||vanderbilt_clinic_notes|||1.0
+SCD||SCD||sickle cell disease||||C0002895||vanderbilt_clinic_notes|||0.002
+SCD||SCD||sequential compression device||||C2711456||vanderbilt_clinic_notes|||0.998
+SCD||scd||sequential compression device||||C2711456||vanderbilt_clinic_notes|||0.998
+LLQ||LLQ||left lower quadrant||||C0439737||vanderbilt_clinic_notes|||1.0
+LLQ||llq||left lower quadrant||||C0439737||vanderbilt_clinic_notes|||1.0
+CDI||c/d/i||clean, dry, and intact||||C2116810,C0205222,C0205266||vanderbilt_clinic_notes|||1.0
+SCC||SCC||squamous cell carcinoma||||C0007137||vanderbilt_clinic_notes|||0.422
+SCC||scc||squamous cell carcinoma||||C0007137||vanderbilt_clinic_notes|||0.422
+SCC||s.c.c.||surgical critical care||||C1690590||vanderbilt_clinic_notes|||0.578
+TIBC||TIBC||total iron binding capacit||||C0439810,C1148613||vanderbilt_clinic_notes|||1.0
+TIBC||tibc||total iron binding capacit||||C0439810,C1148613||vanderbilt_clinic_notes|||1.0
+OSH||OSH||outside hospital||||C0205101||vanderbilt_clinic_notes|||1.0
+DERM||DERM||dermatology||||C0011627||vanderbilt_clinic_notes|||0.987
+DERM||derm||dermatology||||C0011627||vanderbilt_clinic_notes|||0.987
+DERM||Derm||dermatology||||C0011627||vanderbilt_clinic_notes|||0.987
+DERM||derm||dermatitis||||C0011603||vanderbilt_clinic_notes|||0.013
+CMPS||cmps||complete metabolic panels||||C0519825||vanderbilt_clinic_notes|||1.0
+CMPS||CMPs||complete metabolic panels||||C0519825||vanderbilt_clinic_notes|||1.0
+PCO2||pCO2||partial pressure of carbon dioxide||||C0391839||vanderbilt_clinic_notes|||1.0
+PCO2||PCO2||partial pressure of carbon dioxide||||C0391839||vanderbilt_clinic_notes|||1.0
+ACTH||ACTH||adrenocorticotropic hormone||||C0001655||vanderbilt_clinic_notes|||1.0
+ACTH||acth||adrenocorticotropic hormone||||C0001655||vanderbilt_clinic_notes|||1.0
+GA||GA.||gestational age||||C0017504||vanderbilt_clinic_notes|||0.0895
+GA||GA||gestational age||||C0017504||vanderbilt_clinic_notes|||0.0895
+GA||GA||georgia||||C0017452||vanderbilt_clinic_notes|||0.0539
+GA||ga||gauge||||C0456564||vanderbilt_clinic_notes|||0.8566
+PTX||ptx||pneumothorax||||C0032326||vanderbilt_clinic_notes|||1.0
+PTX||PTx||pneumothorax||||C0032326||vanderbilt_clinic_notes|||1.0
+PTX||PTX||pneumothorax||||C0032326||vanderbilt_clinic_notes|||1.0
+OSA||OSA||obstructive sleep apnea||||C0520679||vanderbilt_clinic_notes|||1.0
+OSA||OSa||obstructive sleep apnea||||C0520679||vanderbilt_clinic_notes|||1.0
+OSA||osa||obstructive sleep apnea||||C0520679||vanderbilt_clinic_notes|||1.0
+SCT||SCT||stem cell transplant||||C1504389||vanderbilt_clinic_notes|||1.0
+GM||GM||grandmother||||C0337474||vanderbilt_clinic_notes|||0.012
+GM||gm||gram||||C0439208||vanderbilt_clinic_notes|||0.988
+GM||Gm||gram||||C0439208||vanderbilt_clinic_notes|||0.988
+ROS||ROS||review of systems||||C0489633||vanderbilt_clinic_notes|||1.0
+PTS||pts||patient's||||C0030705,C1546511||vanderbilt_clinic_notes|||1.0
+PTS||Pts.||patient's||||C0030705,C1546511||vanderbilt_clinic_notes|||1.0
+PTS||Pts||patient's||||C0030705,C1546511||vanderbilt_clinic_notes|||1.0
+PTS||pts.||patient's||||C0030705,C1546511||vanderbilt_clinic_notes|||1.0
+INPT||inpt.||inpatient||||C0021562||vanderbilt_clinic_notes|||1.0
+INPT||INPT||inpatient||||C0021562||vanderbilt_clinic_notes|||1.0
+INPT||Inpt||inpatient||||C0021562||vanderbilt_clinic_notes|||1.0
+INPT||inpt||inpatient||||C0021562||vanderbilt_clinic_notes|||1.0
+GI||GI||gastrointestinal||||C0521362||vanderbilt_clinic_notes|||1.0
+GI||gi||gastrointestinal||||C0521362||vanderbilt_clinic_notes|||1.0
+GH||GH||growth hormone||||C0037663||vanderbilt_clinic_notes|||1.0
+GH||gh||growth hormone||||C0037663||vanderbilt_clinic_notes|||1.0
+GH||Gh||growth hormone||||C0037663||vanderbilt_clinic_notes|||1.0
+AUA||AUA||american urological association||||||vanderbilt_clinic_notes|||1.0
+PKT||pkt||packet||||C1337567||vanderbilt_clinic_notes|||1.0
+PKT||PKT||packet||||C1337567||vanderbilt_clinic_notes|||1.0
+TX||tx.||treatment||||C0087111||vanderbilt_clinic_notes|||0.9899
+TX||Tx||treatment||||C0087111||vanderbilt_clinic_notes|||0.9899
+TX||tx||treatment||||C0087111||vanderbilt_clinic_notes|||0.9899
+TX||tx||transplant||||C0040732||vanderbilt_clinic_notes|||0.0101
+TX||TX||transplant||||C0040732||vanderbilt_clinic_notes|||0.0101
+RE||RE||regarding||||C0562401||vanderbilt_clinic_notes|||1.0
+RE||Re||regarding||||C0562401||vanderbilt_clinic_notes|||1.0
+RE||re||regarding||||C0562401||vanderbilt_clinic_notes|||1.0
+TV||TV||television||||C0039461||vanderbilt_clinic_notes|||0.2405
+TV||TV||tricuspid valve||||C1269006||vanderbilt_clinic_notes|||0.0972
+TV||TV||transvaginal||||C0175672||vanderbilt_clinic_notes|||0.012
+TV||TV||tidal volume||||C0040210||vanderbilt_clinic_notes|||0.6503
+TV||Tv||tidal volume||||C0040210||vanderbilt_clinic_notes|||0.6503
+JVP||JVP||jugular venous pressure||||C0428897||vanderbilt_clinic_notes|||1.0
+TR||TR||tricuspid regurgitation||||C0040961||vanderbilt_clinic_notes|||0.6917
+TR||TR||trach||||C0749607||vanderbilt_clinic_notes|||0.0091
+TR||TR||thursday||||C0585028||vanderbilt_clinic_notes|||0.0023
+TR||tr||trace||||C0442822||vanderbilt_clinic_notes|||0.19
+TR||Tr||trace||||C0442822||vanderbilt_clinic_notes|||0.19
+TR||tr||trough||||C0444506||vanderbilt_clinic_notes|||0.1069
+TR||TR||trough||||C0444506||vanderbilt_clinic_notes|||0.1069
+SPEP||SPEP||serum protein electrophoresis||||C0201720||vanderbilt_clinic_notes|||1.0
+TM||tm||tympanic membrane||||C1268971||vanderbilt_clinic_notes|||0.9671
+TM||TM||tympanic membrane||||C1268971||vanderbilt_clinic_notes|||0.9671
+TM||Tm||temperature||||C0039476||vanderbilt_clinic_notes|||0.0255
+TM||TM||temporomandibular||||C0039493||vanderbilt_clinic_notes|||0.0074
+NCPAP||NCPAP||nasal continuous positive airway pressure||||C1258045||vanderbilt_clinic_notes|||1.0
+NCPAP||nCPAP||nasal continuous positive airway pressure||||C1258045||vanderbilt_clinic_notes|||1.0
+TH||Th||thursday||||C0585028||vanderbilt_clinic_notes|||1.0
+TH||TH||thursday||||C0585028||vanderbilt_clinic_notes|||1.0
+TF||TF||tube feeding||||C0041281||vanderbilt_clinic_notes|||1.0
+TG||TG||triglycerides||||C0041004||vanderbilt_clinic_notes|||0.832
+TG||Tg||thyroglobulin||||C0040123||vanderbilt_clinic_notes|||0.168
+TD||Td||tetanus and diptheria||||C0058773||vanderbilt_clinic_notes|||0.9505
+TD||TD||tetanus and diptheria||||C0058773||vanderbilt_clinic_notes|||0.9505
+TD||TD||transcription date||||C0282229,C0011008||vanderbilt_clinic_notes|||0.0495
+C4||C4||cervical four||||C0223131||vanderbilt_clinic_notes|||0.2104
+C4||C4||complement component 4||||C0009516||vanderbilt_clinic_notes|||0.7896
+C4||c4||complement component 4||||C0009516||vanderbilt_clinic_notes|||0.7896
+TB||TB||total bilirubin||||C0368753||vanderbilt_clinic_notes|||0.007
+TB||TB||tuberculosis||||C0041296||vanderbilt_clinic_notes|||0.9829
+TB||TB||tuberculin||||C0041289||vanderbilt_clinic_notes|||0.01
+TC||TC||taxotere/cytoxan||||C0699967,C0699319||vanderbilt_clinic_notes|||0.002
+TC||TC||throat culture||||C0848397||vanderbilt_clinic_notes|||0.0031
+TC||Tc||temperature||||C0039476||vanderbilt_clinic_notes|||0.3014
+TC||TC||total cholesterol||||C0543421||vanderbilt_clinic_notes|||0.5652
+TC||TC||transverse colon||||C0227386||vanderbilt_clinic_notes|||0.002
+TC||Tc||technetium||||C0039411||vanderbilt_clinic_notes|||0.002
+TC||TC||thought content||||C1314756||vanderbilt_clinic_notes|||0.002
+TC||TC||trach collar||||C1736431||vanderbilt_clinic_notes|||0.1222
+JVD||JVD||jugular venous distention||||C0425687||vanderbilt_clinic_notes|||1.0
+HMD||HMD||hyaline membrane disease||||C0020192||vanderbilt_clinic_notes|||1.0
+HMD||hmd||hyaline membrane disease||||C0020192||vanderbilt_clinic_notes|||1.0
+LFTS||LFTs||liver function tests||||C0023901||vanderbilt_clinic_notes|||1.0
+LFTS||LFTS||liver function tests||||C0023901||vanderbilt_clinic_notes|||1.0
+FAX||FAX||facsimile||||C0599936||vanderbilt_clinic_notes|||1.0
+FAX||fax||facsimile||||C0599936||vanderbilt_clinic_notes|||1.0
+FAX||Fax||facsimile||||C0599936||vanderbilt_clinic_notes|||1.0
+G0||G0||gravida 0||||C0232995||vanderbilt_clinic_notes|||1.0
+KCL||kcl||potassium chloride||||C0032825||vanderbilt_clinic_notes|||1.0
+KCL||KCl||potassium chloride||||C0032825||vanderbilt_clinic_notes|||1.0
+KCL||KCL||potassium chloride||||C0032825||vanderbilt_clinic_notes|||1.0
+MG||mg||milligram||||C0439210||vanderbilt_clinic_notes|||1.0
+MPH||MPH||master of public health||||C1513008||vanderbilt_clinic_notes|||0.4058
+MPH||mph||methylphenidate||||C0025810||vanderbilt_clinic_notes|||0.1072
+MPH||MPH||methylphenidate||||C0025810||vanderbilt_clinic_notes|||0.1072
+MPH||MPH||miles per hour||||C0439495||vanderbilt_clinic_notes|||0.487
+MPH||mph||miles per hour||||C0439495||vanderbilt_clinic_notes|||0.487
+HEME||heme||hematology/hematological||||C0018943||vanderbilt_clinic_notes|||1.0
+HEME||Heme||hematology/hematological||||C0018943||vanderbilt_clinic_notes|||1.0
+HEME||HEME||hematology/hematological||||C0018943||vanderbilt_clinic_notes|||1.0
+PCOS||PCOS||polycystic ovarian syndrome||||C0032460||vanderbilt_clinic_notes|||1.0
+FAM||fam||family||||C0015576||vanderbilt_clinic_notes|||1.0
+FAM||fam.||family||||C0015576||vanderbilt_clinic_notes|||1.0
+FAM||Fam||family||||C0015576||vanderbilt_clinic_notes|||1.0
+NEUT||Neut||neutrophils||||C0027950||vanderbilt_clinic_notes|||1.0
+NSGY||NSGY||neurosurgery||||C0027926||vanderbilt_clinic_notes|||1.0
+NSGY||nsgy||neurosurgery||||C0027926||vanderbilt_clinic_notes|||1.0
+NSGY||Nsgy||neurosurgery||||C0027926||vanderbilt_clinic_notes|||1.0
+UNITRI||UNitri||urinary nitrites||||C0580333||vanderbilt_clinic_notes|||1.0
+UBLOOD||UBlood||urinary blood||||C0018965||vanderbilt_clinic_notes|||1.0
+L4L5||L4-L5||lumbar 4- lumbar 5||||C0223537,C0223552||vanderbilt_clinic_notes|||1.0
+ICP||ICP||intracranial pressure||||C0021880||vanderbilt_clinic_notes|||1.0
+UPH||UpH||urinary power of hydrogen||||||vanderbilt_clinic_notes|||1.0
+T4||T4||tumor||||C0027651||vanderbilt_clinic_notes|||0.045
+T4||T4||thyroxine||||C0040165||vanderbilt_clinic_notes|||0.955
+T4||t4||thyroxine||||C0040165||vanderbilt_clinic_notes|||0.955
+T2||T2||second thoracic vertebrae||||C0459936||vanderbilt_clinic_notes|||0.9072
+T2||T2||t2dm||||C0011860||vanderbilt_clinic_notes|||0.0206
+T2||T2||twins two||||C0041427,C0205448||vanderbilt_clinic_notes|||0.0722
+DW||d/w||discussed with / discuss with||||C0557061||vanderbilt_clinic_notes|||1.0
+DT||d/t||due to||||C0678226||vanderbilt_clinic_notes|||1.0
+PTTPT||PTT-pt||partial thromboplastin time-prothrombin time||||C0033707,C0030605||vanderbilt_clinic_notes|||1.0
+IVFS||IVFs||intravenous fluids||||C1289919||vanderbilt_clinic_notes|||1.0
+IVFS||ivfs||intravenous fluids||||C1289919||vanderbilt_clinic_notes|||1.0
+NAWB||Na-WB||sodium-whole blood||||C0853174||vanderbilt_clinic_notes|||1.0
+FLP||FLP||fasting lipid profile||||C0430044||vanderbilt_clinic_notes|||1.0
+HCG||HCG||human chorionic gonadotropin||||C0018062||vanderbilt_clinic_notes|||1.0
+HCG||hCG||human chorionic gonadotropin||||C0018062||vanderbilt_clinic_notes|||1.0
+HCG||hcg||human chorionic gonadotropin||||C0018062||vanderbilt_clinic_notes|||1.0
+DC||d/c||discharge||||C0030685||vanderbilt_clinic_notes|||0.932
+DC||d/c||diarrhea/constipation||||C0011991,C0009806||vanderbilt_clinic_notes|||0.015
+DC||d/c||discontinue||||C1706472||vanderbilt_clinic_notes|||0.05
+DC||d/c||dilation and curettage||||C0010468||vanderbilt_clinic_notes|||0.003
+LVEF||LVEF||left ventricular ejection fraction||||C0428772||vanderbilt_clinic_notes|||1.0
+DIP||DIP||diptheria||||C0012546||vanderbilt_clinic_notes|||0.002
+DIP||DIP||distal interphalangeal joint||||C0932510||vanderbilt_clinic_notes|||0.7749
+DIP||DIP||diabetes improvement program||||C0011849,C2986411,C2728259||vanderbilt_clinic_notes|||0.006
+DEPO||Depo||depo-provera||||C0699700||vanderbilt_clinic_notes|||0.826
+DEPO||depo||depo-provera||||C0699700||vanderbilt_clinic_notes|||0.826
+DEPO||DEPO||depo-provera||||C0699700||vanderbilt_clinic_notes|||0.826
+DEPO||Depo||depo-medrol||||C0057476||vanderbilt_clinic_notes|||0.174
+DIR||dir.||directed||||C0700157,C1947931||vanderbilt_clinic_notes|||1.0
+DIR||dir||directed||||C0700157,C1947931||vanderbilt_clinic_notes|||1.0
+CMP||CMP||comprehensive metabolic panel||||C0519825||vanderbilt_clinic_notes|||1.0
+MN||mn||midnight||||C0332172||vanderbilt_clinic_notes|||0.991
+MN||Mn||midnight||||C0332172||vanderbilt_clinic_notes|||0.991
+MN||MN||midnight||||C0332172||vanderbilt_clinic_notes|||0.991
+MN||MN||minnesota||||C0026183||vanderbilt_clinic_notes|||0.002
+MN||Mn||manganese||||C0024706||vanderbilt_clinic_notes|||0.004
+MN||mn||mononitrate||||||vanderbilt_clinic_notes|||0.003
+TEL||TEL||telephone||||C0039457||vanderbilt_clinic_notes|||1.0
+TEL||tel||telephone||||C0039457||vanderbilt_clinic_notes|||1.0
+TEL||Tel||telephone||||C0039457||vanderbilt_clinic_notes|||1.0
+PEDS||peds||pediatrics||||C0030755||vanderbilt_clinic_notes|||1.0
+PEDS||Peds||pediatrics||||C0030755||vanderbilt_clinic_notes|||1.0
+PEDS||PEDS||pediatrics||||C0030755||vanderbilt_clinic_notes|||1.0
+PEDS||PEds||pediatrics||||C0030755||vanderbilt_clinic_notes|||1.0
+HTN||HTN||hypertension||||C0020538||vanderbilt_clinic_notes|||1.0
+HTN||htn||hypertension||||C0020538||vanderbilt_clinic_notes|||1.0
+LLL||LLL||left lower lobe||||C1261077||vanderbilt_clinic_notes|||0.9977
+LLL||LLL||left lower lid||||C1289044||vanderbilt_clinic_notes|||0.0023
+TEE||TEE||transesophageal echocardiogram||||C0206054||vanderbilt_clinic_notes|||1.0
+ROP||ROP||retinopathy of prematurity||||C0035344||vanderbilt_clinic_notes|||1.0
+BG||BG||baby girl||||C0419385||vanderbilt_clinic_notes|||0.006
+BG||BG||blood glucose||||C0392201||vanderbilt_clinic_notes|||0.994
+BG||bg||blood glucose||||C0392201||vanderbilt_clinic_notes|||0.994
+CVP||CVP||central venous pressure||||C0428640||vanderbilt_clinic_notes|||1.0
+NA||n/a.||not applicable||||C1272460||vanderbilt_clinic_notes|||1.0
+NA||N/A||not applicable||||C1272460||vanderbilt_clinic_notes|||1.0
+NA||n/a||not applicable||||C1272460||vanderbilt_clinic_notes|||1.0
+PMH||PMH||past medical history||||C0455458||vanderbilt_clinic_notes|||1.0
+ALT||alt||alternate||||C1523987||vanderbilt_clinic_notes|||0.757
+ALT||ALT||alanine aminotransferase||||C0001899,C0057041||vanderbilt_clinic_notes|||0.243
+ALT||Alt||alanine aminotransferase||||C0001899,C0057041||vanderbilt_clinic_notes|||0.243
+ALT||alt||alanine aminotransferase||||C0001899,C0057041||vanderbilt_clinic_notes|||0.243
+STDS||STDs||sexually transmitted diseases||||C0036916||vanderbilt_clinic_notes|||1.0
+STDS||stds||sexually transmitted diseases||||C0036916||vanderbilt_clinic_notes|||1.0
+STDS||stds.||sexually transmitted diseases||||C0036916||vanderbilt_clinic_notes|||1.0
+PTT||ptt||partial thromboplastin time||||C0030605||vanderbilt_clinic_notes|||1.0
+PTT||PTT||partial thromboplastin time||||C0030605||vanderbilt_clinic_notes|||1.0
+ABD||Abd||abduction||||C0231456||vanderbilt_clinic_notes|||0.002
+ABD||abd||abdominal||||C0000726||vanderbilt_clinic_notes|||0.1075
+ABD||abd.||abdominal||||C0000726||vanderbilt_clinic_notes|||0.1075
+ABD||ABD||abdomen||||C0000726||vanderbilt_clinic_notes|||0.8905
+ABD||Abd||abdomen||||C0000726||vanderbilt_clinic_notes|||0.8905
+ABD||abd||abdomen||||C0000726||vanderbilt_clinic_notes|||0.8905
+ABG||ABG||arterial blood gas||||C0150411||vanderbilt_clinic_notes|||1.0
+ABG||abg||arterial blood gas||||C0150411||vanderbilt_clinic_notes|||1.0
+NEG||Neg||negative||||C0205160||vanderbilt_clinic_notes|||1.0
+NEG||NEG||negative||||C0205160||vanderbilt_clinic_notes|||1.0
+NEG||neg||negative||||C0205160||vanderbilt_clinic_notes|||1.0
+MCHC||MCHC||mean corpuscular hemoglobin concentration||||C0474535||vanderbilt_clinic_notes|||1.0
+NEB||neb||nebulizer||||C0027524||vanderbilt_clinic_notes|||1.0
+NEB||Neb||nebulizer||||C0027524||vanderbilt_clinic_notes|||1.0
+NEC||NEC||not elsewhere specified||||||vanderbilt_clinic_notes|||0.009
+NEC||NEC||necrotizing enterocolitis||||C0520459||vanderbilt_clinic_notes|||0.989
+NEC||nec||necrotizing enterocolitis||||C0520459||vanderbilt_clinic_notes|||0.989
+NEC||nec||necrotizing||||C0439664||vanderbilt_clinic_notes|||0.002
+ABP||ABP||arterial blood pressure||||C1272641||vanderbilt_clinic_notes|||1.0
+RLE||RLE||right lower extremity||||C0230415||vanderbilt_clinic_notes|||1.0
+RLE||rle||right lower extremity||||C0230415||vanderbilt_clinic_notes|||1.0
+MV||MV||mitral valve||||C0026264||vanderbilt_clinic_notes|||0.7783
+MV||mV||millivolt||||C0456691||vanderbilt_clinic_notes|||0.1041
+MV||MV||millivolt||||C0456691||vanderbilt_clinic_notes|||0.1041
+MV||MV||mechanical ventilation||||C0199470||vanderbilt_clinic_notes|||0.0314
+MV||mv||multivitamin||||C0301532||vanderbilt_clinic_notes|||0.0862
+MV||M.V||multivitamin||||C0301532||vanderbilt_clinic_notes|||0.0862
+LLE||LLE||left lower extremity||||C0230416||vanderbilt_clinic_notes|||1.0
+LLE||lle||left lower extremity||||C0230416||vanderbilt_clinic_notes|||1.0
+ABX||abx||antibiotics||||C0003232||vanderbilt_clinic_notes|||1.0
+ABX||Abx||antibiotics||||C0003232||vanderbilt_clinic_notes|||1.0
+ABX||ABX||antibiotics||||C0003232||vanderbilt_clinic_notes|||1.0
+KUB||KUB||kidney, ureter, bladder||||C1979912||vanderbilt_clinic_notes|||1.0
+KUB||kub||kidney, ureter, bladder||||C1979912||vanderbilt_clinic_notes|||1.0
+GGT||GGT||gamma glutamyl transpeptidase||||C0017040||vanderbilt_clinic_notes|||0.981
+GGT||ggt||drops||||C1321095||vanderbilt_clinic_notes|||0.004
+GGT||ggt||drip||||C1321095||vanderbilt_clinic_notes|||0.015
+HASN||hasn||has not||||C0332197||vanderbilt_clinic_notes|||1.0
+LUQ||LUQ||left upper quadrant||||C0439735||vanderbilt_clinic_notes|||1.0
+LUQ||luq||left upper quadrant||||C0439735||vanderbilt_clinic_notes|||1.0
+EGFRAA||eGFRAA||estimated glomular filtration rate african american||||C2733005,C0085756||vanderbilt_clinic_notes|||1.0
+UGLUC||UGluc||urinary glucose||||C0017979||vanderbilt_clinic_notes|||1.0
+ASAP||ASAP||asthma, sinus and allergy program||||C3242129,C0020517,C0004096,C0497341||vanderbilt_clinic_notes|||0.819
+ASAP||asap.||as soon as possible||||C0439609||vanderbilt_clinic_notes|||0.181
+ASAP||ASAP||as soon as possible||||C0439609||vanderbilt_clinic_notes|||0.181
+VUMS||VUMS||vanderbilt university medical school||||C0036378||vanderbilt_clinic_notes|||1.0
+MEQ||meq||milliequivalent||||C0439152||vanderbilt_clinic_notes|||1.0
+MEQ||mEq||milliequivalent||||C0439152||vanderbilt_clinic_notes|||1.0
+SLE||SLE||systemic lupus erythematosus||||C0024141||vanderbilt_clinic_notes|||1.0
+ACHS||achs||before meals and at bedtime||||C1879794||vanderbilt_clinic_notes|||1.0
+ACHS||ACHS||before meals and at bedtime||||C1879794||vanderbilt_clinic_notes|||1.0
+VUMC||VUMC||vanderbilt university medical center||||C0000872||vanderbilt_clinic_notes|||1.0
+EGA||EGA||estimated gestational age||||C0262472||vanderbilt_clinic_notes|||1.0
+EGA||ega||estimated gestational age||||C0262472||vanderbilt_clinic_notes|||1.0
+RDW||RDW||red cell distribution width||||C0427460||vanderbilt_clinic_notes|||1.0
+IBS||ibs||irritable bowel syndrome||||C0022104||vanderbilt_clinic_notes|||1.0
+IBS||IBS||irritable bowel syndrome||||C0022104||vanderbilt_clinic_notes|||1.0
+CTS||CTS||carpal tunnel syndrome||||C0007286||vanderbilt_clinic_notes|||0.7996
+CTS||cts||counts||||C0439157||vanderbilt_clinic_notes|||0.0264
+CTS||Cts||counts||||C0439157||vanderbilt_clinic_notes|||0.0264
+CTS||CTs||chest tubes||||C0008034||vanderbilt_clinic_notes|||0.0549
+CTS||CTs||computed tomography scans||||C0040405,C0441633||vanderbilt_clinic_notes|||0.097
+CTS||CTS||computed tomography scans||||C0040405,C0441633||vanderbilt_clinic_notes|||0.097
+CTS||cts||computed tomography scans||||C0040405,C0441633||vanderbilt_clinic_notes|||0.097
+CTS||CTS||computed tomography||||C0040405||vanderbilt_clinic_notes|||0.0222
+EKG||EKG||electrocardiogram||||C0013798||vanderbilt_clinic_notes|||1.0
+EKG||ekg||electrocardiogram||||C0013798||vanderbilt_clinic_notes|||1.0
+PICU||PICU||pediatric intensive care unit||||C0021710||vanderbilt_clinic_notes|||1.0
+TDAP||TdaP||tetanus, diphtheria and acellular pertussis||||C0535644||vanderbilt_clinic_notes|||1.0
+TDAP||TDAP||tetanus, diphtheria and acellular pertussis||||C0535644||vanderbilt_clinic_notes|||1.0
+CBIL||CBil||concentration of bilirubin||||C0427734||vanderbilt_clinic_notes|||1.0
+CTA||CTA||computerized tomography angiogram||||C1536105||vanderbilt_clinic_notes|||0.002
+CTA||CTA||clear to auscultation||||C2963144,C0004339||vanderbilt_clinic_notes|||0.998
+CTA||cta||clear to auscultation||||C2963144,C0004339||vanderbilt_clinic_notes|||0.998
+CTM||CTM||continue to monitor||||C0030695||vanderbilt_clinic_notes|||1.0
+CTM||ctm||continue to monitor||||C0030695||vanderbilt_clinic_notes|||1.0
+DEG||deg||degrees||||C0449286||vanderbilt_clinic_notes|||1.0
+BK||BK||below the knee||||C0230433||vanderbilt_clinic_notes|||0.0135
+BK||BK||bk virus (genus polyomavirus)||||C0005670||vanderbilt_clinic_notes|||0.9865
+BK||Bk||bk virus (genus polyomavirus)||||C0005670||vanderbilt_clinic_notes|||0.9865
+PICC||PICC||peripherally inserted central catheter||||C0179740||vanderbilt_clinic_notes|||1.0
+PICC||picc||peripherally inserted central catheter||||C0179740||vanderbilt_clinic_notes|||1.0
+WO||w/o||without||||C0332288||vanderbilt_clinic_notes|||1.0
+WO||W/O||without||||C0332288||vanderbilt_clinic_notes|||1.0
+WIC||WIC||women, infants and children||||C0043210,C0021270,C0008059||vanderbilt_clinic_notes|||0.331
+PXR||PXR||portable x-ray||||C0438653||vanderbilt_clinic_notes|||1.0
+PXR||Pxr||portable x-ray||||C0438653||vanderbilt_clinic_notes|||1.0
+SBE||SBE||self breast exam||||C0085105||vanderbilt_clinic_notes|||0.241
+SBE||SBE||subacute bacterial endocarditis||||C0014122||vanderbilt_clinic_notes|||0.759
+EGFR||eGFR||estimated glomerular filtration rate||||C0750572,C1561549||vanderbilt_clinic_notes|||1.0
+EGFR||EGFR||estimated glomerular filtration rate||||C0750572,C1561549||vanderbilt_clinic_notes|||1.0
+EGFR||egfr||estimated glomerular filtration rate||||C0750572,C1561549||vanderbilt_clinic_notes|||1.0
+VASAP||VASAP||vanderbilt asthma, sinus and allergy program||||C3242129,C0020517,C0004096,C0497341||vanderbilt_clinic_notes|||1.0
+ESRD||ESRD||end stage renal disease||||C0374846||vanderbilt_clinic_notes|||1.0
+ESRD||esrd||end stage renal disease||||C0374846||vanderbilt_clinic_notes|||1.0
+APN||APN||advance practice nurse||||C1510818||vanderbilt_clinic_notes|||0.953
+APN||Apn||advance practice nurse||||C1510818||vanderbilt_clinic_notes|||0.953
+APN||apn||apnea||||C1963065||vanderbilt_clinic_notes|||0.047
+TP||TP||transverse process||||C1305534||vanderbilt_clinic_notes|||0.8938
+TP||TP||total protein||||C0439177||vanderbilt_clinic_notes|||0.0726
+TP||TP||thought process||||C0025361||vanderbilt_clinic_notes|||0.0228
+TP||TP||total parenteral||||C0030548||vanderbilt_clinic_notes|||0.0108
+VIT||Vit||vitamin||||C0042890||vanderbilt_clinic_notes|||1.0
+VIT||vit||vitamin||||C0042890||vanderbilt_clinic_notes|||1.0
+VIT||VIT||vitamin||||C0042890||vanderbilt_clinic_notes|||1.0
+RECS||RECS||recommendations||||C0034866||vanderbilt_clinic_notes|||1.0
+RECS||Recs||recommendations||||C0034866||vanderbilt_clinic_notes|||1.0
+RECS||recs||recommendations||||C0034866||vanderbilt_clinic_notes|||1.0
+WU||w/u||work up||||C0750430||vanderbilt_clinic_notes|||1.0
+HEENT||HEENT||head, eyes, ears, nose, throat||||C1512338||vanderbilt_clinic_notes|||1.0
+BT||BT||blalock-taussig shunt||||C0179328||vanderbilt_clinic_notes|||0.9904
+BT||bt||blalock-taussig shunt||||C0179328||vanderbilt_clinic_notes|||0.9904
+BT||Bt||birth||||C0005615||vanderbilt_clinic_notes|||0.0096
+NGT||NGT||nasogastric tube||||C0085678||vanderbilt_clinic_notes|||1.0
+NGT||ngt||nasogastric tube||||C0085678||vanderbilt_clinic_notes|||1.0
+NGT||nGT||nasogastric tube||||C0085678||vanderbilt_clinic_notes|||1.0
+SSN||SSN||social security number||||C1301821||vanderbilt_clinic_notes|||1.0
+MMF||MMF||maxillomandibular fixation||||C0376509||vanderbilt_clinic_notes|||0.03
+MMF||MMF||mycophenolate mofetil||||C0209368||vanderbilt_clinic_notes|||0.97
+MMF||mmf||mycophenolate mofetil||||C0209368||vanderbilt_clinic_notes|||0.97
+DNA||DNA||deoxyribonucleic acid||||C0012854||vanderbilt_clinic_notes|||1.0
+DNA||dna||deoxyribonucleic acid||||C0012854||vanderbilt_clinic_notes|||1.0
+PERF||perf.||perforated||||C0549099||vanderbilt_clinic_notes|||0.0237
+PERF||perf||perforation||||C0549099||vanderbilt_clinic_notes|||0.9763
+PERF||PERF||perforation||||C0549099||vanderbilt_clinic_notes|||0.9763
+GERD||GERD||gastroesophageal reflux disease||||C0017168||vanderbilt_clinic_notes|||1.0
+FEN||FEN||fluids, electrolytes, and nutrition||||C0518892,C1521739||vanderbilt_clinic_notes|||1.0
+FEN||Fen||fluids, electrolytes, and nutrition||||C0518892,C1521739||vanderbilt_clinic_notes|||1.0
+PRED||Pred||prednisone||||C0032952||vanderbilt_clinic_notes|||0.928
+PRED||pred.||prednisone||||C0032952||vanderbilt_clinic_notes|||0.928
+PRED||pred||prednisone||||C0032952||vanderbilt_clinic_notes|||0.928
+PRED||PRED||prednisone||||C0032952||vanderbilt_clinic_notes|||0.928
+PRED||pred||predicted||||C0681842||vanderbilt_clinic_notes|||0.072
+FEM||fem||femoral||||C0015811||vanderbilt_clinic_notes|||1.0
+FEM||Fem||femoral||||C0015811||vanderbilt_clinic_notes|||1.0
+MSN||MSN||masters of science in nursing||||C1549983||vanderbilt_clinic_notes|||1.0
+MSN||Msn||masters of science in nursing||||C1549983||vanderbilt_clinic_notes|||1.0
+MSK||MSK||musculoskeletal||||C0497254||vanderbilt_clinic_notes|||1.0
+MSK||msk||musculoskeletal||||C0497254||vanderbilt_clinic_notes|||1.0
+M0||M0||metastasis||||C0027627||vanderbilt_clinic_notes|||1.0
+MAEW||MAEW||moves all extremities well||||C0586175,C0205307||vanderbilt_clinic_notes|||1.0
+VI||VI||six||||C0205452||vanderbilt_clinic_notes|||1.0
+VI||vi||six||||C0205452||vanderbilt_clinic_notes|||1.0
+LYMABS||LymAbs||absolute lymphocyte count||||C0200635||vanderbilt_clinic_notes|||1.0
+MWF||mwf||monday, wednesday, friday||||C0585024,C0585027,C0585029||vanderbilt_clinic_notes|||1.0
+MWF||MWF||monday, wednesday, friday||||C0585024,C0585027,C0585029||vanderbilt_clinic_notes|||1.0
+NKA||NKA||no known allergies||||C0262580||vanderbilt_clinic_notes|||1.0
+NKA||nka||no known allergies||||C0262580||vanderbilt_clinic_notes|||1.0
+KGS||kgs||kilograms||||C0439209||vanderbilt_clinic_notes|||1.0
+OOB||OOB||out of bed||||C2987219||vanderbilt_clinic_notes|||1.0
+OOB||oob||out of bed||||C2987219||vanderbilt_clinic_notes|||1.0
+MUSC||Musc||muscular||||C0442025||vanderbilt_clinic_notes|||1.0
+MUSC||MUSC||muscular||||C0442025||vanderbilt_clinic_notes|||1.0
+MUSC||musc||muscular||||C0442025||vanderbilt_clinic_notes|||1.0
+IU||IU||international units||||C0439453||vanderbilt_clinic_notes|||1.0
+IU||iu||international units||||C0439453||vanderbilt_clinic_notes|||1.0
+CO||C/o||complaining of/complaints of||||C0277786||vanderbilt_clinic_notes|||1.0
+CO||c/o||complaining of/complaints of||||C0277786||vanderbilt_clinic_notes|||1.0
+VM||vm||voicemail||||||vanderbilt_clinic_notes|||1.0
+VM||VM||voicemail||||||vanderbilt_clinic_notes|||1.0
+BABS||BAbs||absolute basophils||||C0200641||vanderbilt_clinic_notes|||1.0
+WOUT||w/out||without||||C0332288||vanderbilt_clinic_notes|||1.0
+PFT||PFT||pulmonary function test||||C0024119||vanderbilt_clinic_notes|||1.0
+PFT||pft||pulmonary function test||||C0024119||vanderbilt_clinic_notes|||1.0
+CW||c/w||complicated with||||C0231242||vanderbilt_clinic_notes|||0.002
+CW||c/w||consistent with||||C0332290||vanderbilt_clinic_notes|||0.998
+CPH||C-pH||ph||||C0020283||vanderbilt_clinic_notes|||1.0
+CELLCEPT||cellcept||mycophenolate||||C0883242||vanderbilt_clinic_notes|||1.0
+CELLCEPT||CellCept||mycophenolate||||C0883242||vanderbilt_clinic_notes|||1.0
+CELLCEPT||Cellcept||mycophenolate||||C0883242||vanderbilt_clinic_notes|||1.0
+PCCU||PCCU||pediatric critical care unit||||C0021710||vanderbilt_clinic_notes|||1.0
+PCCU||pccu||pediatric critical care unit||||C0021710||vanderbilt_clinic_notes|||1.0
+MD||MD||doctor of medicine||||C1512018||vanderbilt_clinic_notes|||1.0
+MD||M.D||doctor of medicine||||C1512018||vanderbilt_clinic_notes|||1.0
+PHOS||Phos||phosphate||||C0031603||vanderbilt_clinic_notes|||0.995
+PHOS||phos||phosphate||||C0031603||vanderbilt_clinic_notes|||0.995
+PHOS||phos||phosphorous||||C0031705||vanderbilt_clinic_notes|||0.005
+DISPO||DISPO||disposition||||C0743223||vanderbilt_clinic_notes|||1.0
+DISPO||Dispo||disposition||||C0743223||vanderbilt_clinic_notes|||1.0
+DISPO||dispo||disposition||||C0743223||vanderbilt_clinic_notes|||1.0
+AVM||AVM||arteriovenous malformation||||C0334533||vanderbilt_clinic_notes|||1.0
+AVM||avm||arteriovenous malformation||||C0334533||vanderbilt_clinic_notes|||1.0
+MM||mm||millimeter||||C0439200||vanderbilt_clinic_notes|||0.9878
+MM||MM||mucous membranes||||C0026724||vanderbilt_clinic_notes|||0.0082
+MM||mm||mismatch||||C1881865||vanderbilt_clinic_notes|||0.002
+MM||MM||multiple myeloma||||C0026764||vanderbilt_clinic_notes|||0.002
+ML||ml||milliliter||||C0439242||vanderbilt_clinic_notes|||1.0
+ML||mL||milliliter||||C0439242||vanderbilt_clinic_notes|||1.0
+MO||mo||month/months||||C0439231||vanderbilt_clinic_notes|||1.0
+MO||Mo||month/months||||C0439231||vanderbilt_clinic_notes|||1.0
+DES||DES||diethylstilbestrol||||C0012203||vanderbilt_clinic_notes|||0.3569
+DES||Des||drug-eluting stent||||C1322815||vanderbilt_clinic_notes|||0.6431
+DES||DES||drug-eluting stent||||C1322815||vanderbilt_clinic_notes|||0.6431
+MI||MI||myocardial infarction||||C0027051||vanderbilt_clinic_notes|||0.998
+MI||mi||miles||||C0331865||vanderbilt_clinic_notes|||0.002
+MH||MH||mental health||||C0025353||vanderbilt_clinic_notes|||0.9186
+MH||MH||mental hospital||||C0020021||vanderbilt_clinic_notes|||0.0814
+OG||og||orogastric||||C0450104||vanderbilt_clinic_notes|||1.0
+IJ||IJ||internal jugular||||C1550269||vanderbilt_clinic_notes|||1.0
+IJ||ij||internal jugular||||C1550269||vanderbilt_clinic_notes|||1.0
+MP||MP||maculopapular||||C0443253||vanderbilt_clinic_notes|||0.0079
+MP||MP||mallampati||||C0451276||vanderbilt_clinic_notes|||0.168
+MP||MP||melphalan prednisone||||C0284383||vanderbilt_clinic_notes|||0.0571
+MP||MP||metacarpophalangeal||||C0025525||vanderbilt_clinic_notes|||0.7559
+MP||MP||melphalan||||C0025241||vanderbilt_clinic_notes|||0.0111
+MS||M.S||masters||||C0444649||vanderbilt_clinic_notes|||0.0166
+MS||MS||mental status||||C0278060||vanderbilt_clinic_notes|||0.0021
+MS||MS||musculoskeletal||||C0497254||vanderbilt_clinic_notes|||0.0323
+MS||ms||morphine sulfate||||C0066814||vanderbilt_clinic_notes|||0.0333
+MS||MS||multiple sclerosis||||C0026769||vanderbilt_clinic_notes|||0.0114
+MS||Ms||miss||||C2349206||vanderbilt_clinic_notes|||0.9011
+MS||ms||milliseconds||||C0439223||vanderbilt_clinic_notes|||0.0031
+MR||MR||medical record||||C0025102||vanderbilt_clinic_notes|||0.774
+MR||MR||mitral regurgitation||||C0026266||vanderbilt_clinic_notes|||0.003
+MR||Mr||mister||||C2347167||vanderbilt_clinic_notes|||0.223
+VT||VT||ventricular tachycardia||||C0042514||vanderbilt_clinic_notes|||0.237
+VT||VT||tidal volume||||C0040210||vanderbilt_clinic_notes|||0.763
+VT||Vt||tidal volume||||C0040210||vanderbilt_clinic_notes|||0.763
+DEC||Dec||december||||||vanderbilt_clinic_notes|||0.969
+DEC||dec||decrease||||C0547047||vanderbilt_clinic_notes|||0.029
+DEC||dec.||deceased||||C1549464||vanderbilt_clinic_notes|||0.002
+TBSA||TBSA||total body surface area||||C0005902||vanderbilt_clinic_notes|||1.0
+TBSA||tbsa||total body surface area||||C0005902||vanderbilt_clinic_notes|||1.0
+CAD||CAD||computer-aided detection||||C1139862||vanderbilt_clinic_notes|||0.004
+CAD||CAD||coronary artery disease||||C0010054||vanderbilt_clinic_notes|||0.996
+IO||I/O||intake and output||||C0204708||vanderbilt_clinic_notes|||1.0
+IO||i/o||intake and output||||C0204708||vanderbilt_clinic_notes|||1.0
+SPY||SPY||spy||||C1955540||vanderbilt_clinic_notes|||0.01
+SPY||spy||spray||||C2003858||vanderbilt_clinic_notes|||0.99
+ICD9||ICD-9||international classification of diseases book 9||||C1550213||vanderbilt_clinic_notes|||1.0
+SPO2||SpO2||pulse oximeter oxygen saturation||||C0182109,C0369768||vanderbilt_clinic_notes|||1.0
+SPO2||SPO2||pulse oximeter oxygen saturation||||C0182109,C0369768||vanderbilt_clinic_notes|||1.0
+SPO2||Spo2||pulse oximeter oxygen saturation||||C0182109,C0369768||vanderbilt_clinic_notes|||1.0
+TAB||Tab||tablet||||C0039225||vanderbilt_clinic_notes|||1.0
+TAB||tab||tablet||||C0039225||vanderbilt_clinic_notes|||1.0
+CARDIO||CARDIO||cardiology||||C0007189||vanderbilt_clinic_notes|||1.0
+CARDIO||cardio||cardiology||||C0007189||vanderbilt_clinic_notes|||1.0
+CARDIO||Cardio||cardiology||||C0007189||vanderbilt_clinic_notes|||1.0
+IC||IC||intercostal||||C0230136||vanderbilt_clinic_notes|||0.3747
+IC||IC||intercourse||||C0009253||vanderbilt_clinic_notes|||0.4153
+IC||IC||interstitial cystitis||||C0600040||vanderbilt_clinic_notes|||0.21
+FENGI||FENGI||fluids, electrolytes, nutrition, gastrointestinal||||C0518892,C1521739,C0521362||vanderbilt_clinic_notes|||1.0
+VZV||VZV||varicella zoster virus||||C0042338||vanderbilt_clinic_notes|||1.0
+SATS||Sats||saturation||||C0678572||vanderbilt_clinic_notes|||1.0
+SATS||sats||saturation||||C0678572||vanderbilt_clinic_notes|||1.0
+S3||S3||third heart sound||||C0232237||vanderbilt_clinic_notes|||1.0
+S2||s2||second heart sound||||C0232230||vanderbilt_clinic_notes|||1.0
+S2||S2||second heart sound||||C0232230||vanderbilt_clinic_notes|||1.0
+S1||S1||first heart sound||||C0232223||vanderbilt_clinic_notes|||1.0
+CSF||CSF||chloramphenicol, sulfanilamide, fungizone||||C0008168,C0038702,C0812405||vanderbilt_clinic_notes|||0.009
+CSF||CSF||cerebrospinal fluid||||C0007807||vanderbilt_clinic_notes|||0.991
+CSA||CSA||cyclosporine a||||C0010592||vanderbilt_clinic_notes|||1.0
+AFB||AFB||acid fast bacilli||||C0483226||vanderbilt_clinic_notes|||1.0
+S4||S4||fourth heart sound||||C0232240||vanderbilt_clinic_notes|||1.0
+PMI||PMI||point of maximum impulse||||C0425601||vanderbilt_clinic_notes|||1.0
+GCS||GCS||glasgow coma scale||||C0017594||vanderbilt_clinic_notes|||1.0
+ENT||ENT||ear nose throat||||C0150934||vanderbilt_clinic_notes|||1.0
+ENT||ent||ear nose throat||||C0150934||vanderbilt_clinic_notes|||1.0
+IVIG||ivig||intravenous immune globulin||||C0085297||vanderbilt_clinic_notes|||1.0
+IVIG||IVIG||intravenous immune globulin||||C0085297||vanderbilt_clinic_notes|||1.0
+IVIG||IVIg||intravenous immune globulin||||C0085297||vanderbilt_clinic_notes|||1.0
+CST||CST||central standard time||||||vanderbilt_clinic_notes|||1.0
+CST||cst||central standard time||||||vanderbilt_clinic_notes|||1.0
+CSP||CSP||cyclosporine||||C0010592||vanderbilt_clinic_notes|||1.0
+SNF||SNF||skilled nursing facility||||C0037265||vanderbilt_clinic_notes|||1.0
+SNF||snf||skilled nursing facility||||C0037265||vanderbilt_clinic_notes|||1.0
+VCUG||VCUG||voiding cystourethrogram||||C0203123||vanderbilt_clinic_notes|||1.0
+NPO||NPO||nil per os||||C0419179||vanderbilt_clinic_notes|||1.0
+NPO||npo||nil per os||||C0419179||vanderbilt_clinic_notes|||1.0
+FT||ft||feet||||C0347981||vanderbilt_clinic_notes|||0.7935
+FT||ft.||foot||||C0016504||vanderbilt_clinic_notes|||0.002
+FT||FT||full time||||C1553424||vanderbilt_clinic_notes|||0.0071
+FT||FT||full term||||C0239696||vanderbilt_clinic_notes|||0.1974
+FU||FU||fluorouracil||||C0016360||vanderbilt_clinic_notes|||0.018
+FU||fu||follow up||||C1522577||vanderbilt_clinic_notes|||0.982
+FU||Fu||follow up||||C1522577||vanderbilt_clinic_notes|||0.982
+FU||FU||follow up||||C1522577||vanderbilt_clinic_notes|||0.982
+LAD||LAD||lymphadenopathy||||C0497156||vanderbilt_clinic_notes|||0.532
+LAD||lad||lymphadenopathy||||C0497156||vanderbilt_clinic_notes|||0.532
+LAD||LAD||left anterior descending||||C0226032||vanderbilt_clinic_notes|||0.468
+CD33||CD33||cluster of differentiation 33||||C1955216||vanderbilt_clinic_notes|||1.0
+INCR||incr||increased||||C0442805||vanderbilt_clinic_notes|||1.0
+INCR||Incr||increased||||C0442805||vanderbilt_clinic_notes|||1.0
+INCR||inCR||increased||||C0442805||vanderbilt_clinic_notes|||1.0
+LAB||LAB||laboratory||||C0022877||vanderbilt_clinic_notes|||1.0
+LAB||lab||laboratory||||C0022877||vanderbilt_clinic_notes|||1.0
+LAB||Lab||laboratory||||C0022877||vanderbilt_clinic_notes|||1.0
+LAC||lac||laceration||||C0043246||vanderbilt_clinic_notes|||0.2867
+LAC||LAC||lactic acid||||C0064582||vanderbilt_clinic_notes|||0.7133
+RDWSD||RDWSD||standard deviation in red cell distribution width||||C0871420,C0427460||vanderbilt_clinic_notes|||1.0
+MAC||MAC||mycobacterium avium complex||||C0026914||vanderbilt_clinic_notes|||0.1662
+MAC||MAC||monitored anesthesia care||||C0497677||vanderbilt_clinic_notes|||0.6877
+MAC||Mac||macaroni||||C0452696||vanderbilt_clinic_notes|||0.0602
+MAC||Mac||macular||||C0332574||vanderbilt_clinic_notes|||0.086
+STIM||stim||stimulation||||C1292856||vanderbilt_clinic_notes|||1.0
+STIM||stim.||stimulation||||C1292856||vanderbilt_clinic_notes|||1.0
+FE||FE||forced expiration||||C0454504||vanderbilt_clinic_notes|||0.014
+FE||fe||iron||||C0302583||vanderbilt_clinic_notes|||0.975
+FE||FE||iron||||C0302583||vanderbilt_clinic_notes|||0.975
+FE||Fe||iron||||C0302583||vanderbilt_clinic_notes|||0.975
+FE||fe||female||||C0086287||vanderbilt_clinic_notes|||0.011
+MAG||mag||magnesium||||C0024467||vanderbilt_clinic_notes|||0.9849
+MAG||Mag||magnesium||||C0024467||vanderbilt_clinic_notes|||0.9849
+MAG||MAG||magnesium||||C0024467||vanderbilt_clinic_notes|||0.9849
+MAG||mag||magnesia||||C0024477||vanderbilt_clinic_notes|||0.0151
+FH||FH||family history||||C0241889||vanderbilt_clinic_notes|||1.0
+FH||fh||family history||||C0241889||vanderbilt_clinic_notes|||1.0
+GRM||G/R/M||gallops, rubs, murmurs||||C0018808,C0232200,C0232267||vanderbilt_clinic_notes|||1.0
+GRM||g/r/m||gallops, rubs, murmurs||||C0018808,C0232200,C0232267||vanderbilt_clinic_notes|||1.0
+FK||FK||tacrolimus||||C0085149||vanderbilt_clinic_notes|||1.0
+FK||Fk||tacrolimus||||C0085149||vanderbilt_clinic_notes|||1.0
+FK||fk||tacrolimus||||C0085149||vanderbilt_clinic_notes|||1.0
+PLTCT||Plt-Ct||platelet count||||C1287267||vanderbilt_clinic_notes|||1.0
+FK506||FK-506||tacrolimus||||C0085149||vanderbilt_clinic_notes|||1.0
+SZ||SZ||seizure||||C0036572||vanderbilt_clinic_notes|||0.993
+SZ||Sz||seizure||||C0036572||vanderbilt_clinic_notes|||0.993
+SZ||sz||seizure||||C0036572||vanderbilt_clinic_notes|||0.993
+SZ||SZ||sz phenotype of alpha-1-antitrypsin-deficiency||||C0221757||vanderbilt_clinic_notes|||0.007
+SX||Sx||symptoms||||C1457887||vanderbilt_clinic_notes|||0.997
+SX||SX||symptoms||||C1457887||vanderbilt_clinic_notes|||0.997
+SX||sx||symptoms||||C1457887||vanderbilt_clinic_notes|||0.997
+SX||Sx||surgery||||C0038894||vanderbilt_clinic_notes|||0.003
+LHC||LHC||left heart catheterization||||C0189897||vanderbilt_clinic_notes|||1.0
+SS||SS||social security||||C0037435||vanderbilt_clinic_notes|||0.0077
+SS||SS||standard score||||C0871421||vanderbilt_clinic_notes|||0.2623
+SS||ss||sliding scale||||C2937251||vanderbilt_clinic_notes|||0.7101
+SS||SS||sliding scale||||C2937251||vanderbilt_clinic_notes|||0.7101
+SS||SS||symptom score||||C3533163||vanderbilt_clinic_notes|||0.0061
+SS||SS||steri-strips||||C0727944||vanderbilt_clinic_notes|||0.0138
+SR||SR||sinus rhythm||||C0232201||vanderbilt_clinic_notes|||0.0041
+SR||SR||standard risk||||C0173322||vanderbilt_clinic_notes|||0.0062
+SR||sr||sustained release||||C1710261||vanderbilt_clinic_notes|||0.9897
+SR||s.r||sustained release||||C1710261||vanderbilt_clinic_notes|||0.9897
+SR||SR||sustained release||||C1710261||vanderbilt_clinic_notes|||0.9897
+SQ||SQ||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SQ||sq||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+CBE||C-BE||base excess||||C1330956,C0201985||vanderbilt_clinic_notes|||1.0
+SW||S.W||southwest||||C1710136||vanderbilt_clinic_notes|||0.0137
+SW||sw||swish||||C1699290||vanderbilt_clinic_notes|||0.0747
+SW||SW||swish||||C1699290||vanderbilt_clinic_notes|||0.0747
+SW||SW||social worker||||C0037444||vanderbilt_clinic_notes|||0.0305
+SW||SW||semmes-weinstein||||C2960149||vanderbilt_clinic_notes|||0.0515
+SW||SW||social work||||C0037441||vanderbilt_clinic_notes|||0.8297
+SW||sw||social work||||C0037441||vanderbilt_clinic_notes|||0.8297
+RCSPO2||rcSpO2||oxygen saturation||||C0369768||vanderbilt_clinic_notes|||1.0
+SGPT||SGPT||serum glutamic pyruvic transaminase||||C0001899||vanderbilt_clinic_notes|||1.0
+ST||ST||st segment||||C0429029||vanderbilt_clinic_notes|||0.1667
+ST||ST||st elevations||||C0520886||vanderbilt_clinic_notes|||0.1667
+ST||ST||sore throat||||C0242429||vanderbilt_clinic_notes|||0.1667
+ST||ST||speech therapy||||C0037831||vanderbilt_clinic_notes|||0.5
+SI||SI||sacroiliac||||C0555898||vanderbilt_clinic_notes|||0.7981
+SI||si||sacroiliac||||C0555898||vanderbilt_clinic_notes|||0.7981
+SI||SI||suicidal ideation||||C0424000||vanderbilt_clinic_notes|||0.1717
+SI||si||suicidal ideation||||C0424000||vanderbilt_clinic_notes|||0.1717
+SI||si||signs||||C0422819||vanderbilt_clinic_notes|||0.0302
+SH||sh||push||||C0580841||vanderbilt_clinic_notes|||0.014
+SH||sh||shampoo||||C0150765||vanderbilt_clinic_notes|||0.007
+SH||SH||she||||||vanderbilt_clinic_notes|||0.007
+SH||SH||social history||||C0424945||vanderbilt_clinic_notes|||0.972
+NSAIDS||NSAIDs||nonsteroidal anti-inflammatory drugs||||C0003211||vanderbilt_clinic_notes|||1.0
+NSAIDS||NSAIDS||nonsteroidal anti-inflammatory drugs||||C0003211||vanderbilt_clinic_notes|||1.0
+NSAIDS||nsaids||nonsteroidal anti-inflammatory drugs||||C0003211||vanderbilt_clinic_notes|||1.0
+SL||sl.||slightly||||C0750482||vanderbilt_clinic_notes|||0.2239
+SL||Sl||slightly||||C0750482||vanderbilt_clinic_notes|||0.2239
+SL||sl||slightly||||C0750482||vanderbilt_clinic_notes|||0.2239
+SL||SL||slightly||||C0750482||vanderbilt_clinic_notes|||0.2239
+SL||Sl||sublingual||||C0026638||vanderbilt_clinic_notes|||0.6564
+SL||SL||sublingual||||C0026638||vanderbilt_clinic_notes|||0.6564
+SL||sl||sublingual||||C0026638||vanderbilt_clinic_notes|||0.6564
+SL||sl||slight||||C2937276||vanderbilt_clinic_notes|||0.1196
+HFA||HFA||hydrofluoroalkane||||C1721232||vanderbilt_clinic_notes|||1.0
+HFA||hfa||hydrofluoroalkane||||C1721232||vanderbilt_clinic_notes|||1.0
+DZ||dz||disease||||C0012634||vanderbilt_clinic_notes|||1.0
+DZ||DZ||disease||||C0012634||vanderbilt_clinic_notes|||1.0
+DZ||Dz||disease||||C0012634||vanderbilt_clinic_notes|||1.0
+COAG||Coag||coagulation||||C0005778||vanderbilt_clinic_notes|||0.742
+COAG||coag||coagulation||||C0005778||vanderbilt_clinic_notes|||0.742
+COAG||coag||coagulase||||C0009118||vanderbilt_clinic_notes|||0.258
+PREOP||Pre-OP||pre-operative||||C0445204||vanderbilt_clinic_notes|||1.0
+BS||BS+||bowel sounds present||||C0278005||vanderbilt_clinic_notes|||1.0
+BS||bs+||bowel sounds present||||C0278005||vanderbilt_clinic_notes|||1.0
+RUE||RUE||right upper extremity||||C0230329||vanderbilt_clinic_notes|||1.0
+EGD||EGD||esophagogastroduodenoscopy||||C0079304||vanderbilt_clinic_notes|||1.0
+EGD||egd||esophagogastroduodenoscopy||||C0079304||vanderbilt_clinic_notes|||1.0
+AFSF||AFSF||anterior fontanelle soft and flat||||C0578480||vanderbilt_clinic_notes|||1.0
+VMG||VMG||vanderbilt medical group||||||vanderbilt_clinic_notes|||1.0
+TTP||TTP||tender to palpation||||C0234234,C0030247||vanderbilt_clinic_notes|||0.988
+TTP||ttp.||thrombotic thrombocytopenic purpura||||C0034155||vanderbilt_clinic_notes|||0.012
+TTP||TTP||thrombotic thrombocytopenic purpura||||C0034155||vanderbilt_clinic_notes|||0.012
+FIO2||FiO2||fraction of inspired oxygen||||C0428167||vanderbilt_clinic_notes|||1.0
+FIO2||FIO2||fraction of inspired oxygen||||C0428167||vanderbilt_clinic_notes|||1.0
+SGOT||SGOT||serum glutamic oxaloacetic transaminase||||C0242192||vanderbilt_clinic_notes|||1.0
+GTTS||gtts.||drops||||C1321095||vanderbilt_clinic_notes|||1.0
+GTTS||gtts||drops||||C1321095||vanderbilt_clinic_notes|||1.0
+GTTS||GTTS||drops||||C1321095||vanderbilt_clinic_notes|||1.0
+AFIB||A.fib||atrial fibrillation||||C0004238||vanderbilt_clinic_notes|||1.0
+AFIB||Afib||atrial fibrillation||||C0004238||vanderbilt_clinic_notes|||1.0
+AFIB||AFib||atrial fibrillation||||C0004238||vanderbilt_clinic_notes|||1.0
+AFIB||afib||atrial fibrillation||||C0004238||vanderbilt_clinic_notes|||1.0
+ETOH||EtOH||ethanol (alcohol)||||C0001975||vanderbilt_clinic_notes|||1.0
+ETOH||ETOH||ethanol (alcohol)||||C0001975||vanderbilt_clinic_notes|||1.0
+ETOH||etoh||ethanol (alcohol)||||C0001975||vanderbilt_clinic_notes|||1.0
+ETOH||Etoh||ethanol (alcohol)||||C0001975||vanderbilt_clinic_notes|||1.0
+LM||LM||leave message||||C0470166||vanderbilt_clinic_notes|||0.0074
+LM||lm||left message||||C2957131||vanderbilt_clinic_notes|||0.8449
+LM||LM||left message||||C2957131||vanderbilt_clinic_notes|||0.8449
+LM||LM||landmarks||||C0504075||vanderbilt_clinic_notes|||0.0169
+LM||LM||lower middle||||C0682202||vanderbilt_clinic_notes|||0.0084
+LM||LM||left main artery||||C1261082||vanderbilt_clinic_notes|||0.1224
+VMS||VMS||vanderbilt medical student||||C0038495||vanderbilt_clinic_notes|||0.998
+VMS||vms||voicemail service||||||vanderbilt_clinic_notes|||0.002
+TTE||TTE||transthoracic echocardiogram||||C0430462||vanderbilt_clinic_notes|||1.0
+CCLS||CCLS||certified child life specialist||||C1444167,C0029039||vanderbilt_clinic_notes|||1.0
+CCLS||ccls||certified child life specialist||||C1444167,C0029039||vanderbilt_clinic_notes|||1.0
+UOP||UoP||urinary output||||C0232856||vanderbilt_clinic_notes|||1.0
+UOP||UOP||urinary output||||C0232856||vanderbilt_clinic_notes|||1.0
+LB||lb||pounds||||C0439219||vanderbilt_clinic_notes|||1.0
+TSH||TSH||thyroid-stimulating hormone||||C0040160||vanderbilt_clinic_notes|||1.0
+TSH||tsh||thyroid-stimulating hormone||||C0040160||vanderbilt_clinic_notes|||1.0
+LA||LA||left atrium||||C1269894||vanderbilt_clinic_notes|||0.5764
+LA||LA||lactic acid||||C0064582||vanderbilt_clinic_notes|||0.0439
+LA||LA||long acting||||C0304870||vanderbilt_clinic_notes|||0.364
+LA||la||long acting||||C0304870||vanderbilt_clinic_notes|||0.364
+LA||LA||los angeles||||C0024015||vanderbilt_clinic_notes|||0.0157
+LN||LN||lymph node||||C0024204||vanderbilt_clinic_notes|||0.9947
+LN||Ln||lymph node||||C0024204||vanderbilt_clinic_notes|||0.9947
+LN||Ln||lane||||C1708639||vanderbilt_clinic_notes|||0.0053
+SD||SD||standard deviation||||C0871420||vanderbilt_clinic_notes|||1.0
+PCP||PCP||pneumocystis carinii pneumonia||||C0032305||vanderbilt_clinic_notes|||0.057
+PCP||PCP||phencyclidine||||C0031381||vanderbilt_clinic_notes|||0.011
+PCP||PCP||primary care provider/physician||||C0033131||vanderbilt_clinic_notes|||0.932
+SUBQ||subq||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SUBQ||SubQ||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SUBQ||Subq||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SUBQ||SUBQ||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SUBQ||subQ||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+PCV||PCV||packed cell volume||||C0018935||vanderbilt_clinic_notes|||0.997
+PCV||pcv||packed cell volume||||C0018935||vanderbilt_clinic_notes|||0.997
+PCV||Pcv||pressure controlled ventilation||||C0564626||vanderbilt_clinic_notes|||0.003
+NTABS||NtAbs||neutrophil absolute count||||C0948762||vanderbilt_clinic_notes|||1.0
+LV||LV||left ventricular/ left ventricle||||C0225897||vanderbilt_clinic_notes|||1.0
+LT||lt||light||||C1306462||vanderbilt_clinic_notes|||0.0132
+LT||lt||light touch||||C0423553||vanderbilt_clinic_notes|||0.0385
+LT||LT||left||||C0205091||vanderbilt_clinic_notes|||0.9483
+LT||lt||left||||C0205091||vanderbilt_clinic_notes|||0.9483
+LT||Lt||left||||C0205091||vanderbilt_clinic_notes|||0.9483
+PCI||PCI||percutaneous coronary intervention||||C1532338||vanderbilt_clinic_notes|||1.0
+GTT||GTT||glucose tolerance test||||C0017741||vanderbilt_clinic_notes|||0.005
+GTT||gtt||gutta||||C1321095||vanderbilt_clinic_notes|||0.995
+SSC||ssc||similac special care||||C3196396||vanderbilt_clinic_notes|||1.0
+SSC||SSC||similac special care||||C3196396||vanderbilt_clinic_notes|||1.0
+LP||LP||lumbar puncture||||C0037943||vanderbilt_clinic_notes|||0.9389
+LP||L.P||licensed practical||||C0237709||vanderbilt_clinic_notes|||0.0611
+PCA||pca||patient-controlled analgesia||||C0078944||vanderbilt_clinic_notes|||0.986
+PCA||PCA||patient-controlled analgesia||||C0078944||vanderbilt_clinic_notes|||0.986
+PCA||PCA||post conceptual age||||C2963526||vanderbilt_clinic_notes|||0.006
+PCA||PCA||posterior cerebral artery||||C1269013||vanderbilt_clinic_notes|||0.008
+CLS||CLS||child life specialist||||||vanderbilt_clinic_notes|||1.0
+QHS||qhs||quaque hora somni||||C1275563||vanderbilt_clinic_notes|||1.0
+QHS||QHS||quaque hora somni||||C1275563||vanderbilt_clinic_notes|||1.0
+YO||y.o||year old||||C0001779||vanderbilt_clinic_notes|||1.0
+YO||yo||year old||||C0001779||vanderbilt_clinic_notes|||1.0
+CPE||cpe||complete physical examination||||C0436120||vanderbilt_clinic_notes|||1.0
+CPE||CPE||complete physical examination||||C0436120||vanderbilt_clinic_notes|||1.0
+EMG||EMG||electromyogram||||C0013839||vanderbilt_clinic_notes|||1.0
+NIBP||NIBP||non-invasive blood pressure||||C0428889||vanderbilt_clinic_notes|||1.0
+MIVF||MIVF||maintenance intravenous fluids||||C0559692||vanderbilt_clinic_notes|||1.0
+MIVF||mivf||maintenance intravenous fluids||||C0559692||vanderbilt_clinic_notes|||1.0
+MGMT||mgmt||management||||C1273870||vanderbilt_clinic_notes|||1.0
+MGMT||Mgmt||management||||C1273870||vanderbilt_clinic_notes|||1.0
+PFSH||PFSH||past, family, and social history||||C3483724||vanderbilt_clinic_notes|||1.0
+PFSH||pFSH||past, family, and social history||||C3483724||vanderbilt_clinic_notes|||1.0
+MMHG||mmHg||millimeters of mercury||||C0439475||vanderbilt_clinic_notes|||1.0
+EXTR||Extr||extremities||||C0015385||vanderbilt_clinic_notes|||1.0
+EXTR||extr||extremities||||C0015385||vanderbilt_clinic_notes|||1.0
+EXTR||EXTR||extremities||||C0015385||vanderbilt_clinic_notes|||1.0
+PES||PEs||pulmonary embolisms||||C0034065||vanderbilt_clinic_notes|||0.2017
+LOZ||loz||lozenge||||C0991564||vanderbilt_clinic_notes|||1.0
+TROPNT||TropnT||troponin t||||C0077404||vanderbilt_clinic_notes|||1.0
+TUES||tues.||tuesday||||C0585026||vanderbilt_clinic_notes|||1.0
+TUES||tues||tuesday||||C0585026||vanderbilt_clinic_notes|||1.0
+TUES||TUES||tuesday||||C0585026||vanderbilt_clinic_notes|||1.0
+TUES||Tues||tuesday||||C0585026||vanderbilt_clinic_notes|||1.0
+L4||L4||lumbar 4||||C0223537||vanderbilt_clinic_notes|||1.0
+L5||L5||lumbar five||||C0223552||vanderbilt_clinic_notes|||1.0
+L5||l5||lumbar five||||C0223552||vanderbilt_clinic_notes|||1.0
+CCE||C/C/E||cyanosis, clubbing, edema||||C0149651,C0010520,C0013604||vanderbilt_clinic_notes|||1.0
+CCE||c/c/e||cyanosis, clubbing, edema||||C0149651,C0010520,C0013604||vanderbilt_clinic_notes|||1.0
+L3||L3||lumbar 3||||C0223522||vanderbilt_clinic_notes|||0.988
+L3||L3||3 living children||||C2229975||vanderbilt_clinic_notes|||0.012
+L1||L1||lumbar 1||||C0223492||vanderbilt_clinic_notes|||1.0
+ACCU||Accu||accu-check||||C3154176||vanderbilt_clinic_notes|||1.0
+ACCU||accu||accu-check||||C3154176||vanderbilt_clinic_notes|||1.0
+T1||T1||thoracic 1||||C0459933||vanderbilt_clinic_notes|||0.9846
+T1||T1||term births||||C0233324||vanderbilt_clinic_notes|||0.0132
+T1||t1||spin-lattice relaxation time||||C2697938||vanderbilt_clinic_notes|||0.0022
+LPM||LPM||liters per minute||||C0439393||vanderbilt_clinic_notes|||1.0
+LPM||lpm||liters per minute||||C0439393||vanderbilt_clinic_notes|||1.0
+MDI||MDi||metered-dose inhaler||||C0993596||vanderbilt_clinic_notes|||1.0
+MDI||MDI||metered-dose inhaler||||C0993596||vanderbilt_clinic_notes|||1.0
+MDI||mdi||metered-dose inhaler||||C0993596||vanderbilt_clinic_notes|||1.0
+MISCLABS||MiscLabs||miscellaneous labs||||C0813126||vanderbilt_clinic_notes|||1.0
+MAP||MAP||mean arterial pressure||||C0428886||vanderbilt_clinic_notes|||1.0
+GFR||GFR||glomerular filtration rate||||C0017654||vanderbilt_clinic_notes|||0.9
+GFR||GFR||grunting, flaring, retracting||||C0234892,C1517205,C0332523||vanderbilt_clinic_notes|||0.1
+ED||ED||emergency department||||C0562508||vanderbilt_clinic_notes|||0.989
+ED||ed||emergency department||||C0562508||vanderbilt_clinic_notes|||0.989
+ED||ed||educated||||C0524327||vanderbilt_clinic_notes|||0.005
+ED||ED||eating disorder||||C0013473||vanderbilt_clinic_notes|||0.002
+EF||EF||ejection fraction||||C2700378||vanderbilt_clinic_notes|||1.0
+UCATH||UCath||urine catheter||||C0179802||vanderbilt_clinic_notes|||1.0
+DJD||DJD||degenerative joint disease||||C0029408||vanderbilt_clinic_notes|||1.0
+DJD||djd||degenerative joint disease||||C0029408||vanderbilt_clinic_notes|||1.0
+EC||e.c||enteric coated||||C0039226||vanderbilt_clinic_notes|||0.8908
+EC||EC||enteric coated||||C0039226||vanderbilt_clinic_notes|||0.8908
+EC||ec||enteric coated||||C0039226||vanderbilt_clinic_notes|||0.8908
+EC||EC||enterocutaneous||||C0341318||vanderbilt_clinic_notes|||0.1092
+T3||T3||thoracic 3||||C0223245||vanderbilt_clinic_notes|||0.0799
+T3||T3||triiodothyronine||||C0041014||vanderbilt_clinic_notes|||0.9201
+LFT||LFT||liver function test||||C0023901||vanderbilt_clinic_notes|||0.997
+LFT||lft||liver function test||||C0023901||vanderbilt_clinic_notes|||0.997
+LFT||lft||left||||C0205091||vanderbilt_clinic_notes|||0.003
+NCAT||NCAT||normocephalic/atraumatic||||||vanderbilt_clinic_notes|||1.0
+MDS||MDS||myelodysplastic syndrome||||C0026986||vanderbilt_clinic_notes|||0.8749
+MDS||MDs||medical doctors||||C0031831||vanderbilt_clinic_notes|||0.1251
+HLD||HLD||hyperlipidemia||||C0020473||vanderbilt_clinic_notes|||1.0
+HLD||hld||hyperlipidemia||||C0020473||vanderbilt_clinic_notes|||1.0
+EP||E.P||electrophysiology||||C0013865||vanderbilt_clinic_notes|||1.0
+EP||EP||electrophysiology||||C0013865||vanderbilt_clinic_notes|||1.0
+HLA||HLA||human leukocyte antigen||||C0019721||vanderbilt_clinic_notes|||1.0
+HLA||hla||human leukocyte antigen||||C0019721||vanderbilt_clinic_notes|||1.0
+ER||ER||extended release||||C1707968||vanderbilt_clinic_notes|||0.1747
+ER||ER||emergency room||||C0562508||vanderbilt_clinic_notes|||0.8143
+ER||ER||estrogen receptor||||C0034804||vanderbilt_clinic_notes|||0.011
+RT||RT||respiratory therapy||||C0035239||vanderbilt_clinic_notes|||0.005
+RT||RT||radiation treatment||||C2094475||vanderbilt_clinic_notes|||0.014
+RT||rt||right||||C0205090||vanderbilt_clinic_notes|||0.981
+RT||Rt||right||||C0205090||vanderbilt_clinic_notes|||0.981
+RT||RT||right||||C0205090||vanderbilt_clinic_notes|||0.981
+SP||S/P||status post||||C0231290||vanderbilt_clinic_notes|||1.0
+SS||s/s||sliding scale||||C2937251||vanderbilt_clinic_notes|||0.033
+SS||s/s||signs/symptoms||||C0037088||vanderbilt_clinic_notes|||0.967
+HCQ||HCQ||hydroxychloroquine||||C0020336||vanderbilt_clinic_notes|||1.0
+BRBPR||BRBPR||bright red blood per rectum||||C0018932||vanderbilt_clinic_notes|||1.0
+BRBPR||brbpr||bright red blood per rectum||||C0018932||vanderbilt_clinic_notes|||1.0
+FTT||FTT||failure to thrive||||C0015544||vanderbilt_clinic_notes|||0.994
+FTT||ftt||failure to thrive||||C0015544||vanderbilt_clinic_notes|||0.994
+FTT||FTT||finger tapping test||||C0451161||vanderbilt_clinic_notes|||0.006
+RR||RR||regular rate and rhythm||||C0436766||vanderbilt_clinic_notes|||0.02
+RR||RR||regular rhythm||||C0436766||vanderbilt_clinic_notes|||0.013
+RR||RR||respiratory rate||||C0231832||vanderbilt_clinic_notes|||0.9609
+RR||RR||red reflex||||C0278244||vanderbilt_clinic_notes|||0.006
+VCH||vch||vanderbilt children's hospital||||C0020017||vanderbilt_clinic_notes|||1.0
+VCH||VCH||vanderbilt children's hospital||||C0020017||vanderbilt_clinic_notes|||1.0
+RX||rx||prescription||||C1521941||vanderbilt_clinic_notes|||1.0
+RX||Rx||prescription||||C1521941||vanderbilt_clinic_notes|||1.0
+RX||RX||prescription||||C1521941||vanderbilt_clinic_notes|||1.0
+L5S1||L5-S1||lumbar 5 - sacral 1||||C0223552||vanderbilt_clinic_notes|||1.0
+L5S1||l5-s1||lumbar 5 - sacral 1||||C0223552||vanderbilt_clinic_notes|||1.0
+RD||RD||registered dietician||||C1508821||vanderbilt_clinic_notes|||0.8841
+RD||RD||retinal detachment||||C0035305||vanderbilt_clinic_notes|||0.029
+RD||Rd||road||||C0442650||vanderbilt_clinic_notes|||0.087
+FX||fx||function||||C0542341||vanderbilt_clinic_notes|||0.002
+FX||fx||fracture||||C0016658||vanderbilt_clinic_notes|||0.998
+FX||Fx||fracture||||C0016658||vanderbilt_clinic_notes|||0.998
+RF||RF||refill||||C0807726||vanderbilt_clinic_notes|||0.3076
+RF||RF||rheumatoid factor||||C0035448||vanderbilt_clinic_notes|||0.1363
+RF||RF||radiofrequency||||C2347883||vanderbilt_clinic_notes|||0.5561
+RF||rf||radiofrequency||||C2347883||vanderbilt_clinic_notes|||0.5561
+CVICU||CVICU||cardiovascular intensive care unit||||C0587446||vanderbilt_clinic_notes|||1.0
+RA||RA||rheumatoid arthritis||||C0003873||vanderbilt_clinic_notes|||0.06
+RA||RA||room air||||C2709070||vanderbilt_clinic_notes|||0.918
+RA||RA||right atrium||||C1269890||vanderbilt_clinic_notes|||0.01
+RA||RA||right atrial||||C0225844||vanderbilt_clinic_notes|||0.012
+PERRL||PERRL||pupils equal, round, reactive to light||||C1642390||vanderbilt_clinic_notes|||1.0
+PERRL||perrl||pupils equal, round, reactive to light||||C1642390||vanderbilt_clinic_notes|||1.0
+BLE||BLE||bilateral lower extremity||||C1269079||vanderbilt_clinic_notes|||1.0
+BLE||ble||bilateral lower extremity||||C1269079||vanderbilt_clinic_notes|||1.0
+REC||rec||recommended||||C2964444||vanderbilt_clinic_notes|||0.9035
+REC||rec.||recommended||||C2964444||vanderbilt_clinic_notes|||0.9035
+REC||Rec||recommended||||C2964444||vanderbilt_clinic_notes|||0.9035
+REC||Rec||recreational||||C0034872||vanderbilt_clinic_notes|||0.0626
+REC||rec||recreational||||C0034872||vanderbilt_clinic_notes|||0.0626
+REC||rec||recipient||||C1709854||vanderbilt_clinic_notes|||0.0195
+REC||Rec||recipient||||C1709854||vanderbilt_clinic_notes|||0.0195
+REC||rec||recommendation||||C0034866||vanderbilt_clinic_notes|||0.0144
+RN||RN||registered nurse||||C0687673||vanderbilt_clinic_notes|||1.0
+RN||R.N||registered nurse||||C0687673||vanderbilt_clinic_notes|||1.0
+RH||RH||rhesus||||C0302050||vanderbilt_clinic_notes|||0.9486
+RH||Rh||rhesus||||C0302050||vanderbilt_clinic_notes|||0.9486
+RH||RH||right handed||||C0344333||vanderbilt_clinic_notes|||0.0352
+RH||Rh||right handed||||C0344333||vanderbilt_clinic_notes|||0.0352
+RH||RH||right heart||||C0225808||vanderbilt_clinic_notes|||0.0161
+RH||rh||right heart||||C0225808||vanderbilt_clinic_notes|||0.0161
+REG||reg.||regular||||C0205272||vanderbilt_clinic_notes|||0.995
+REG||reg||regular||||C0205272||vanderbilt_clinic_notes|||0.995
+REG||Reg||regular||||C0205272||vanderbilt_clinic_notes|||0.995
+REG||Reg||chemo regimen||||C0392920||vanderbilt_clinic_notes|||0.005
+PERRLA||PERRLA.||pupils equal, round, reactive to light and accommodation||||C1642390||vanderbilt_clinic_notes|||1.0
+PERRLA||PERRLA||pupils equal, round, reactive to light and accommodation||||C1642390||vanderbilt_clinic_notes|||1.0
+PERRLA||Perrla||pupils equal, round, reactive to light and accommodation||||C1642390||vanderbilt_clinic_notes|||1.0
+PERRLA||perrla||pupils equal, round, reactive to light and accommodation||||C1642390||vanderbilt_clinic_notes|||1.0
+FHX||fhx||family history||||C0241889||vanderbilt_clinic_notes|||1.0
+FHX||FHX||family history||||C0241889||vanderbilt_clinic_notes|||1.0
+FHX||FHx||family history||||C0241889||vanderbilt_clinic_notes|||1.0
+ECG||ECG||electrocardiogram||||C0013798||vanderbilt_clinic_notes|||1.0
+ECG||ecg||electrocardiogram||||C0013798||vanderbilt_clinic_notes|||1.0
+RLL||RLL||right lower lobe||||C1261075||vanderbilt_clinic_notes|||1.0
+RLL||rll||right lower lobe||||C1261075||vanderbilt_clinic_notes|||1.0
+SBP||SBP||systolic blood pressure||||C0871470||vanderbilt_clinic_notes|||0.984
+SBP||SBP||spontaneous bacterial peritonitis||||C0275551||vanderbilt_clinic_notes|||0.016
+AST||AST||aspartate aminotransferase||||C0004002||vanderbilt_clinic_notes|||1.0
+AST||ast||aspartate aminotransferase||||C0004002||vanderbilt_clinic_notes|||1.0
+LMP||LMP||last menstrual period||||C0425932||vanderbilt_clinic_notes|||1.0
+PUF||puf||puff||||C1533107||vanderbilt_clinic_notes|||1.0
+PUF||PUF||puff||||C1533107||vanderbilt_clinic_notes|||1.0
+ASD||ASD||atrial septal defect||||C0018817||vanderbilt_clinic_notes|||1.0
+ASD||asd||atrial septal defect||||C0018817||vanderbilt_clinic_notes|||1.0
+ASA||ASA||american society of anesthesiologists||||C2346733||vanderbilt_clinic_notes|||0.177
+ASA||ASA.||acetysalicylic acid||||C0004057||vanderbilt_clinic_notes|||0.823
+ASA||asa||acetysalicylic acid||||C0004057||vanderbilt_clinic_notes|||0.823
+ASA||ASA||acetysalicylic acid||||C0004057||vanderbilt_clinic_notes|||0.823
+CMV||CMV||cytomegalovirus||||C0010825||vanderbilt_clinic_notes|||1.0
+CMV||cmv||cytomegalovirus||||C0010825||vanderbilt_clinic_notes|||1.0
+CARB||carb||carbohydrate||||C0007004||vanderbilt_clinic_notes|||0.996
+CARB||Carb||carbohydrate||||C0007004||vanderbilt_clinic_notes|||0.996
+CARB||carb||carbonate||||C0007026||vanderbilt_clinic_notes|||0.004
+BASO||Baso||basophils||||C0004827||vanderbilt_clinic_notes|||1.0
+IUD||IUD||intrauterine device||||C0021900||vanderbilt_clinic_notes|||1.0
+RLQ||RLQ||right lower quadrant||||C0439736||vanderbilt_clinic_notes|||1.0
+RLQ||rlq||right lower quadrant||||C0439736||vanderbilt_clinic_notes|||1.0
+BAL||BAL||bronchoalveolar lavage||||C1535502||vanderbilt_clinic_notes|||1.0
+BAL||Bal||bronchoalveolar lavage||||C1535502||vanderbilt_clinic_notes|||1.0
+NTG||NTG||nitroglycerin||||C0017887||vanderbilt_clinic_notes|||1.0
+NTG||ntg||nitroglycerin||||C0017887||vanderbilt_clinic_notes|||1.0
+CMT||CMT||charcot-marie-tooth||||C0007959||vanderbilt_clinic_notes|||0.014
+CMT||CMT.||cervical motion tenderness||||C0238953||vanderbilt_clinic_notes|||0.986
+CMT||CMT||cervical motion tenderness||||C0238953||vanderbilt_clinic_notes|||0.986
+FT4||FT4||free thyroxine||||C0312452||vanderbilt_clinic_notes|||1.0
+MUGA||MUGA||multi gated acquisition scan||||C0521317||vanderbilt_clinic_notes|||1.0
+MUGA||Muga||multi gated acquisition scan||||C0521317||vanderbilt_clinic_notes|||1.0
+MUGA||muga||multi gated acquisition scan||||C0521317||vanderbilt_clinic_notes|||1.0
+CMS||cms||centimeters||||C0475210||vanderbilt_clinic_notes|||0.9979
+CMS||CMS||children's memory scale||||||vanderbilt_clinic_notes|||0.0021
+H1N1||h1n1.||hemoagglutinine-1 and neuroaminidase-1||||C0580264||vanderbilt_clinic_notes|||1.0
+H1N1||H1N1||hemoagglutinine-1 and neuroaminidase-1||||C0580264||vanderbilt_clinic_notes|||1.0
+H1N1||h1n1||hemoagglutinine-1 and neuroaminidase-1||||C0580264||vanderbilt_clinic_notes|||1.0
+MMOLL||mmol/L||millimoles per liter||||C1532563||vanderbilt_clinic_notes|||1.0
+MMOLL||mmol/l||millimoles per liter||||C1532563||vanderbilt_clinic_notes|||1.0
+MVA||MVA||mitral valve annulus||||C0225947||vanderbilt_clinic_notes|||0.0311
+MVA||MVA||motor vehicle accident||||C0000932||vanderbilt_clinic_notes|||0.9689
+MVA||mva||motor vehicle accident||||C0000932||vanderbilt_clinic_notes|||0.9689
+MVC||MVC||motor vehicle collision||||C0000932||vanderbilt_clinic_notes|||1.0
+MVC||mvc||motor vehicle collision||||C0000932||vanderbilt_clinic_notes|||1.0
+LTG||LTG||lamotrigine||||C0064636||vanderbilt_clinic_notes|||0.056
+LTG||LTG||long term goals||||C0443252,C0018017||vanderbilt_clinic_notes|||0.944
+UKETO||UKeto||urinary ketones||||C0162275||vanderbilt_clinic_notes|||1.0
+CAIO||CaIo||ionized calcium||||C0373561||vanderbilt_clinic_notes|||1.0
+MVI||mvi||multivitamin||||C0301532||vanderbilt_clinic_notes|||1.0
+MVI||MVI||multivitamin||||C0301532||vanderbilt_clinic_notes|||1.0
+YEST||yest||yesterday||||||vanderbilt_clinic_notes|||1.0
+UCOLOR||UColor||urinary color||||C0278030||vanderbilt_clinic_notes|||1.0
+ULUEST||ULuEst||urinary leukocyte esterase||||C0919675||vanderbilt_clinic_notes|||1.0
+ONC||ONC||oncology||||C0278627||vanderbilt_clinic_notes|||1.0
+ONC||onc||oncology||||C0278627||vanderbilt_clinic_notes|||1.0
+ONC||Onc||oncology||||C0278627||vanderbilt_clinic_notes|||1.0
+NHO||nho||notify house officer||||C0401975,C0422202||vanderbilt_clinic_notes|||1.0
+PGM||pGM||paternal grandmother||||C1273524||vanderbilt_clinic_notes|||1.0
+PGM||pgm||paternal grandmother||||C1273524||vanderbilt_clinic_notes|||1.0
+PGM||PGM||paternal grandmother||||C1273524||vanderbilt_clinic_notes|||1.0
+ECP||ECP||extracorporeal photopheresis||||C0206373||vanderbilt_clinic_notes|||0.998
+ECP||ECP||emergency contraceptive pill||||C1720756||vanderbilt_clinic_notes|||0.002
+LAT||LAT||lateral||||C0205093||vanderbilt_clinic_notes|||1.0
+LAT||lat||lateral||||C0205093||vanderbilt_clinic_notes|||1.0
+LAT||Lat||lateral||||C0205093||vanderbilt_clinic_notes|||1.0
+LAT||lat.||lateral||||C0205093||vanderbilt_clinic_notes|||1.0
+XR||XR||extended release||||C1707968||vanderbilt_clinic_notes|||0.985
+XR||XR||x-ray||||C1306645||vanderbilt_clinic_notes|||0.015
+XR||xr||x-ray||||C1306645||vanderbilt_clinic_notes|||0.015
+DPM||DPM||doctor of podiatric medicine||||C1512024||vanderbilt_clinic_notes|||1.0
+GRAMST||GramSt||gram stain||||C0061856||vanderbilt_clinic_notes|||1.0
+FMS||FMS||fibromyalgia syndrome||||C0016053||vanderbilt_clinic_notes|||1.0
+GPC||GPC||gram positive cocci||||C0018155||vanderbilt_clinic_notes|||1.0
+GPC||gpc||gram positive cocci||||C0018155||vanderbilt_clinic_notes|||1.0
+GCSF||gcsf||granulocyte colony stimulating factor||||C0079459||vanderbilt_clinic_notes|||1.0
+GCSF||GCSF||granulocyte colony stimulating factor||||C0079459||vanderbilt_clinic_notes|||1.0
+WBCCNT||WBCCnt||white blood cell count||||C0023508||vanderbilt_clinic_notes|||1.0
+TOB||Tob||tobacco||||C0040329||vanderbilt_clinic_notes|||1.0
+TOB||TOB||tobacco||||C0040329||vanderbilt_clinic_notes|||1.0
+TOB||tob.||tobacco||||C0040329||vanderbilt_clinic_notes|||1.0
+TOB||tob||tobacco||||C0040329||vanderbilt_clinic_notes|||1.0
+CVVHD||CVVHD||continuous veno-venous hemodialysis||||C0472681||vanderbilt_clinic_notes|||1.0
+CVVHD||cvvhd||continuous veno-venous hemodialysis||||C0472681||vanderbilt_clinic_notes|||1.0
+NSCLC||NSCLC||non-small cell lung cancer||||C0007131||vanderbilt_clinic_notes|||1.0
+NSCLC||nsclc||non-small cell lung cancer||||C0007131||vanderbilt_clinic_notes|||1.0
+LDLC||LDL-C||low-density lipoprotein cholesterol||||C0023824||vanderbilt_clinic_notes|||1.0
+DO||d/o||disorder||||C0012634||vanderbilt_clinic_notes|||1.0
+UDS||UDS||urine drug screen||||C0202274||vanderbilt_clinic_notes|||1.0
+UDS||UDs||urine drug screen||||C0202274||vanderbilt_clinic_notes|||1.0
+XRAYS||X-rays||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAYS||X-RAYS||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAYS||x-rays||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+CIRC||circ||circumflex||||C1880089||vanderbilt_clinic_notes|||0.2685
+CIRC||Circ||circumflex||||C1880089||vanderbilt_clinic_notes|||0.2685
+CIRC||circ||circumcision||||C0008819||vanderbilt_clinic_notes|||0.0598
+CIRC||Circ||circumcision||||C0008819||vanderbilt_clinic_notes|||0.0598
+CIRC||Circ||circumference||||C0332520||vanderbilt_clinic_notes|||0.5907
+CIRC||circ||circumcised||||C0920194||vanderbilt_clinic_notes|||0.0689
+CIRC||CIRC||circulation||||C0005775||vanderbilt_clinic_notes|||0.0122
+COPD||COPD||chronic obstructive pulmonary disease||||C0024117||vanderbilt_clinic_notes|||1.0
+GYN||GYN||gynecology||||C0018417||vanderbilt_clinic_notes|||0.705
+GYN||Gyn||gynecology||||C0018417||vanderbilt_clinic_notes|||0.705
+GYN||gyn||gynecology||||C0018417||vanderbilt_clinic_notes|||0.705
+GYN||GYN||gynecologist||||C0237419||vanderbilt_clinic_notes|||0.295
+GYM||gym||gymnasium||||C0442572||vanderbilt_clinic_notes|||1.0
+GYM||Gym||gymnasium||||C0442572||vanderbilt_clinic_notes|||1.0
+NCU||NCU||neurocare unit||||C1552761||vanderbilt_clinic_notes|||1.0
+HCTZ||HCtz||hydrochlorothiazide||||C0020261||vanderbilt_clinic_notes|||1.0
+HCTZ||HCTZ||hydrochlorothiazide||||C0020261||vanderbilt_clinic_notes|||1.0
+HCTZ||hctz||hydrochlorothiazide||||C0020261||vanderbilt_clinic_notes|||1.0
+DEF||def||deficiency||||C0011155||vanderbilt_clinic_notes|||0.983
+DEF||DEF||deficiency||||C0011155||vanderbilt_clinic_notes|||0.983
+DEF||def||definite||||C0439544||vanderbilt_clinic_notes|||0.017
+X2||X2||twice||||C1948050||vanderbilt_clinic_notes|||0.903
+X2||x2||twice||||C1948050||vanderbilt_clinic_notes|||0.903
+X2||x2||times 2||||C1720725||vanderbilt_clinic_notes|||0.097
+X3||x3||person, place, and time||||C0514143||vanderbilt_clinic_notes|||0.4484
+X3||X3||times 3||||C0449809,C0205449||vanderbilt_clinic_notes|||0.5516
+X3||x3||times 3||||C0449809,C0205449||vanderbilt_clinic_notes|||0.5516
+RSV||RSV||respiratory syncytial virus||||C0035236||vanderbilt_clinic_notes|||1.0
+RSV||rsv||respiratory syncytial virus||||C0035236||vanderbilt_clinic_notes|||1.0
+X1||x1||once||||C1720092||vanderbilt_clinic_notes|||1.0
+X1||X1||once||||C1720092||vanderbilt_clinic_notes|||1.0
+PND||PND||postural nocturnal dyspnea||||C0205278,C0344357||vanderbilt_clinic_notes|||0.041
+PND||PND||paroxysmal nocturnal dyspnea||||C0013405||vanderbilt_clinic_notes|||0.57
+PND||PND||post nasal drip||||C0032781||vanderbilt_clinic_notes|||0.389
+X4||x4||four||||C0205450||vanderbilt_clinic_notes|||1.0
+X5||x5||five||||C0205451||vanderbilt_clinic_notes|||1.0
+X5||X5||five||||C0205451||vanderbilt_clinic_notes|||1.0
+STD||STD||sexually transmitted disease||||C0036916||vanderbilt_clinic_notes|||1.0
+STD||std||sexually transmitted disease||||C0036916||vanderbilt_clinic_notes|||1.0
+STD||Std||sexually transmitted disease||||C0036916||vanderbilt_clinic_notes|||1.0
+NIDDM||NIDDM||noninsulin-dependent diabetes mellitus||||C0011860,C2697407||vanderbilt_clinic_notes|||1.0
+STG||STG||short term goals||||C0443303,C0018017||vanderbilt_clinic_notes|||1.0
+GSW||gsw||gunshot wound||||C0043252||vanderbilt_clinic_notes|||1.0
+GSW||GSW||gunshot wound||||C0043252||vanderbilt_clinic_notes|||1.0
+FU||f/u||follow-up||||C1522577||vanderbilt_clinic_notes|||1.0
+FU||F/U||follow-up||||C1522577||vanderbilt_clinic_notes|||1.0
+STR||str||straight||||C0445291||vanderbilt_clinic_notes|||0.005
+STR||str.||strength||||C0808080||vanderbilt_clinic_notes|||0.995
+STR||str||strength||||C0808080||vanderbilt_clinic_notes|||0.995
+RBCMOR||RBCMor||red blood cell morphology||||C0553084||vanderbilt_clinic_notes|||1.0
+DTR||DTR||deep tendon reflexes||||C0489815||vanderbilt_clinic_notes|||0.998
+DTR||Dtr||daughter||||C0011011||vanderbilt_clinic_notes|||0.002
+PVD||PVD||peripheral vascular disease||||C0085096||vanderbilt_clinic_notes|||1.0
+PVD||pvd||peripheral vascular disease||||C0085096||vanderbilt_clinic_notes|||1.0
+LBP||LBP||lower back pain||||C0024031||vanderbilt_clinic_notes|||1.0
+LBS||lbs||pounds||||C0439219||vanderbilt_clinic_notes|||1.0
+SP||SP||starpanel||||||vanderbilt_clinic_notes|||0.6125
+SP||SP||suprapubic tube||||C0150798||vanderbilt_clinic_notes|||0.0116
+SP||SP||spinal||||C0521329||vanderbilt_clinic_notes|||0.0305
+SP||SP||status post||||C0231290||vanderbilt_clinic_notes|||0.0305
+ANA||ANA||antinuclear antibody||||C0003243||vanderbilt_clinic_notes|||1.0
+ANA||Ana||antinuclear antibody||||C0003243||vanderbilt_clinic_notes|||1.0
+UUROB||UUrob||urinary urobilinogen||||C0427736||vanderbilt_clinic_notes|||1.0
+QPM||qPM||quaque die post meridiem||||C0585330||vanderbilt_clinic_notes|||1.0
+QPM||qpm||quaque die post meridiem||||C0585330||vanderbilt_clinic_notes|||1.0
+QPM||QPM||quaque die post meridiem||||C0585330||vanderbilt_clinic_notes|||1.0
+PRN||p.r.n.||pro re nata/as needed||||C1883728||vanderbilt_clinic_notes|||1.0
+PRN||prn.||pro re nata/as needed||||C1883728||vanderbilt_clinic_notes|||1.0
+PRN||PRN||pro re nata/as needed||||C1883728||vanderbilt_clinic_notes|||1.0
+PRN||prn||pro re nata/as needed||||C1883728||vanderbilt_clinic_notes|||1.0
+MSEC||msec||milliseconds||||C0439223||vanderbilt_clinic_notes|||1.0
+HCO3||HCO3||bicarbonate||||C0005367||vanderbilt_clinic_notes|||1.0
+UBILI||UBili||urinary bilirubin||||C0522139||vanderbilt_clinic_notes|||1.0
+ADHD||ADHD||attention deficit hyperactivity disorder||||C1263846||vanderbilt_clinic_notes|||1.0
+HEO||heo||horizon expert orders||||||vanderbilt_clinic_notes|||1.0
+SA||SA||sinoatrial||||C0037189||vanderbilt_clinic_notes|||0.0443
+SA||SA||suicide attempt||||C0038663||vanderbilt_clinic_notes|||0.0096
+SA||SA||sexual activity||||C0036864||vanderbilt_clinic_notes|||0.0299
+SA||SA||sexually active||||C0241028||vanderbilt_clinic_notes|||0.8934
+SA||sa||saturday||||C0585030||vanderbilt_clinic_notes|||0.0228
+SA||Sa||saturday||||C0585030||vanderbilt_clinic_notes|||0.0228
+OMFS||OMFS||oral and maxillofacial surgery||||C0812928||vanderbilt_clinic_notes|||1.0
+SUBQ||sub-q||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SUBQ||sub-Q||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+SUBQ||Sub-Q||subcutaneous||||C0443315||vanderbilt_clinic_notes|||1.0
+RT||r/t||related to||||C0439849,C1883351||vanderbilt_clinic_notes|||1.0
+RT||R/T||related to||||C0439849,C1883351||vanderbilt_clinic_notes|||1.0
+ARDS||ARDS||acute respiratory distress syndrome||||C0035222||vanderbilt_clinic_notes|||1.0
+FXS||fxs||fractures||||C0016658||vanderbilt_clinic_notes|||1.0
+FXS||Fxs||fractures||||C0016658||vanderbilt_clinic_notes|||1.0
+RRR||RRR||regular rate and rhythm||||C0436766,C0232188||vanderbilt_clinic_notes|||1.0
+RRR||rrr||regular rate and rhythm||||C0436766,C0232188||vanderbilt_clinic_notes|||1.0
+RO||R/O||rule out||||C0332196||vanderbilt_clinic_notes|||1.0
+RO||r/o||rule out||||C0332196||vanderbilt_clinic_notes|||1.0
+RO||R/o||rule out||||C0332196||vanderbilt_clinic_notes|||1.0
+XRT||XRT||radiation||||C0851346||vanderbilt_clinic_notes|||1.0
+XRT||xrt||radiation||||C0851346||vanderbilt_clinic_notes|||1.0
+NEBS||nebs||nebulizer||||C0027524||vanderbilt_clinic_notes|||1.0
+NEBS||Nebs||nebulizer||||C0027524||vanderbilt_clinic_notes|||1.0
+HGB||HGB||hemoglobin||||C0019046||vanderbilt_clinic_notes|||1.0
+HGB||Hgb||hemoglobin||||C0019046||vanderbilt_clinic_notes|||1.0
+HGB||HgB||hemoglobin||||C0019046||vanderbilt_clinic_notes|||1.0
+HGB||hgb||hemoglobin||||C0019046||vanderbilt_clinic_notes|||1.0
+MICU||MICU||medical intensive care unit||||C2711734||vanderbilt_clinic_notes|||1.0
+MICU||micu||medical intensive care unit||||C2711734||vanderbilt_clinic_notes|||1.0
+PUD||PUD||peptic ulcer disease||||C0030920||vanderbilt_clinic_notes|||1.0
+PUD||pud||peptic ulcer disease||||C0030920||vanderbilt_clinic_notes|||1.0
+SM||sm.||small||||C0700321||vanderbilt_clinic_notes|||0.6984
+SM||sm||small||||C0700321||vanderbilt_clinic_notes|||0.6984
+SM||sm||submandibular||||C1550309||vanderbilt_clinic_notes|||0.0225
+SM||SM||systolic murmur||||C0232257||vanderbilt_clinic_notes|||0.2791
+CLD||CLD||chronic lung disease||||C0746102||vanderbilt_clinic_notes|||1.0
+CLD||cld||chronic lung disease||||C0746102||vanderbilt_clinic_notes|||1.0
+VFSS||VFSS||videofluoroscopic swallowing study||||C0412099||vanderbilt_clinic_notes|||1.0
+SC||SC||subclavian||||C0589488||vanderbilt_clinic_notes|||0.6731
+SC||SC||subclavicular||||C0589488||vanderbilt_clinic_notes|||0.0409
+SC||sc||subclavicular||||C0589488||vanderbilt_clinic_notes|||0.0409
+SC||SC||stem cell||||C0038250||vanderbilt_clinic_notes|||0.0054
+SC||SC||hb sc||||C0019034||vanderbilt_clinic_notes|||0.0366
+SC||sc||subcutaneous||||C0443315||vanderbilt_clinic_notes|||0.0355
+SC||SC||sternoclavicular||||C0038291||vanderbilt_clinic_notes|||0.2086
+SC||sc||sternoclavicular||||C0038291||vanderbilt_clinic_notes|||0.2086
+BSN||BSN||bachelor of science in nursing||||C1549952||vanderbilt_clinic_notes|||1.0
+BSN||Bsn||bachelor of science in nursing||||C1549952||vanderbilt_clinic_notes|||1.0
+BSO||BSO||bilateral salpingo-oophorectomy||||C0195495||vanderbilt_clinic_notes|||1.0
+WNL||WNL||within normal limits||||C0205307||vanderbilt_clinic_notes|||1.0
+WNL||wnl||within normal limits||||C0205307||vanderbilt_clinic_notes|||1.0
+WNL||wnl.||within normal limits||||C0205307||vanderbilt_clinic_notes|||1.0
+DSCH||dsch||discharge||||C0030685,C2926602,C0012621||vanderbilt_clinic_notes|||1.0
+EMLA||EMLA||eutectic mixture of lidocaine and prilocaine||||C0059079||vanderbilt_clinic_notes|||1.0
+EMLA||Emla||eutectic mixture of lidocaine and prilocaine||||C0059079||vanderbilt_clinic_notes|||1.0
+EMLA||emla||eutectic mixture of lidocaine and prilocaine||||C0059079||vanderbilt_clinic_notes|||1.0
+BSA||BSA||body surface area||||C0005902||vanderbilt_clinic_notes|||0.989
+BSA||bsa||body surface area||||C0005902||vanderbilt_clinic_notes|||0.989
+BSA||BSA||broad spectrum antibiotics||||||vanderbilt_clinic_notes|||0.011
+CKD||CKD||chronic kidney disease||||C1561643||vanderbilt_clinic_notes|||1.0
+CKD||ckd||chronic kidney disease||||C1561643||vanderbilt_clinic_notes|||1.0
+NEURO||NEURO||neurological||||C0205494||vanderbilt_clinic_notes|||0.973
+NEURO||neuro||neurological||||C0205494||vanderbilt_clinic_notes|||0.973
+NEURO||Neuro||neurological||||C0205494||vanderbilt_clinic_notes|||0.973
+NEURO||Neuro||neurology||||C0027855||vanderbilt_clinic_notes|||0.027
+DOB||DOB||date of birth||||C0803906||vanderbilt_clinic_notes|||1.0
+TPN||tpn||total parenteral nutrition||||C0030548||vanderbilt_clinic_notes|||1.0
+TPN||TPN||total parenteral nutrition||||C0030548||vanderbilt_clinic_notes|||1.0
+PRBC||PRBC||packed red blood cells||||C2316467||vanderbilt_clinic_notes|||1.0
+PRBC||pRBC||packed red blood cells||||C2316467||vanderbilt_clinic_notes|||1.0
+PRBC||prbc||packed red blood cells||||C2316467||vanderbilt_clinic_notes|||1.0
+URI||URI||upper respiratory infection||||C0041912||vanderbilt_clinic_notes|||1.0
+MRS||Mrs||mrs.||||C1705492||vanderbilt_clinic_notes|||1.0
+NKDA||NKDA||no known drug allergies||||C0262581||vanderbilt_clinic_notes|||1.0
+NKDA||nkda||no known drug allergies||||C0262581||vanderbilt_clinic_notes|||1.0
+LPN||LPN||licensed practical nurse||||C0684004||vanderbilt_clinic_notes|||1.0
+LPN||Lpn||licensed practical nurse||||C0684004||vanderbilt_clinic_notes|||1.0
+EXT||ext||extremities||||C0015385||vanderbilt_clinic_notes|||0.995
+EXT||Ext||extremities||||C0015385||vanderbilt_clinic_notes|||0.995
+EXT||EXT||extremities||||C0015385||vanderbilt_clinic_notes|||0.995
+EXT||ext||extension||||C0231448||vanderbilt_clinic_notes|||0.005
+MRI||MRI||magnetic resonance imaging||||C0024485||vanderbilt_clinic_notes|||1.0
+DOS||DOS||date of service||||||vanderbilt_clinic_notes|||1.0
+RESPRT||RespRt||respiratory rate||||C0231832||vanderbilt_clinic_notes|||1.0
+MRG||MRG||murmurs, rubs, or gallops||||C0018808,C0232267,C0232200||vanderbilt_clinic_notes|||1.0
+MRG||mrg||murmurs, rubs, or gallops||||C0018808,C0232267,C0232200||vanderbilt_clinic_notes|||1.0
+MRA||mra||magnetic resonance angiogram||||C0243032||vanderbilt_clinic_notes|||1.0
+MRA||MRA||magnetic resonance angiogram||||C0243032||vanderbilt_clinic_notes|||1.0
+TUMS||Tums||tums (antacid)||||C0723950||vanderbilt_clinic_notes|||1.0
+TUMS||TUMs||tums (antacid)||||C0723950||vanderbilt_clinic_notes|||1.0
+TUMS||tums||tums (antacid)||||C0723950||vanderbilt_clinic_notes|||1.0
+TUMS||TUMS||tums (antacid)||||C0723950||vanderbilt_clinic_notes|||1.0
+RFLP||RFLP||restriction fragment length polymorphism||||C0035268||vanderbilt_clinic_notes|||1.0
+CDE||CDE||cumulative dissipated energy||||C1749901,C1511559||vanderbilt_clinic_notes|||0.695
+CDE||CDE||certified diabetes educator||||C1555973||vanderbilt_clinic_notes|||0.305
+CDE||cde||certified diabetes educator||||C1555973||vanderbilt_clinic_notes|||0.305
+UGI||UGI||upper gastrointestinal||||C3203348||vanderbilt_clinic_notes|||1.0
+PTTCTR||PTTCtr||partial thromboplastin time||||C0030605||vanderbilt_clinic_notes|||1.0
+CTAB||CTAB||clear to auscultation bilaterally||||C0231855||vanderbilt_clinic_notes|||1.0
+CTAB||ctab||clear to auscultation bilaterally||||C0231855||vanderbilt_clinic_notes|||1.0
+RTC||RTC||return to clinic||||C0332156,C0002424||vanderbilt_clinic_notes|||1.0
+RTC||rtc||return to clinic||||C0332156,C0002424||vanderbilt_clinic_notes|||1.0
+PBSC||PBSC||peripheral blood stem cell||||C1518999||vanderbilt_clinic_notes|||1.0
+PBSC||pbsc||peripheral blood stem cell||||C1518999||vanderbilt_clinic_notes|||1.0
+CDH||CDH||congenital diaphragmatic hernia||||C0235833||vanderbilt_clinic_notes|||1.0
+CDH||cdh||congenital diaphragmatic hernia||||C0235833||vanderbilt_clinic_notes|||1.0
+CDT||CDT||central daylight time||||||vanderbilt_clinic_notes|||1.0
+PNA||PNA||pneumonia||||C0032285||vanderbilt_clinic_notes|||1.0
+PNA||pna||pneumonia||||C0032285||vanderbilt_clinic_notes|||1.0
+PNA||pna.||pneumonia||||C0032285||vanderbilt_clinic_notes|||1.0
+QOD||qod.||every other day||||C0558287||vanderbilt_clinic_notes|||1.0
+QOD||qod||every other day||||C0558287||vanderbilt_clinic_notes|||1.0
+QOD||qOD||every other day||||C0558287||vanderbilt_clinic_notes|||1.0
+QOD||QOD||every other day||||C0558287||vanderbilt_clinic_notes|||1.0
+TPROT||TProt||total protein||||C1261360||vanderbilt_clinic_notes|||1.0
+HC||HC||hydrocortisone||||C0020268||vanderbilt_clinic_notes|||0.332
+HC||hc||hydrocortisone||||C0020268||vanderbilt_clinic_notes|||0.332
+HC||HC||head circumference||||C0262499||vanderbilt_clinic_notes|||0.668
+HC||Hc||head circumference||||C0262499||vanderbilt_clinic_notes|||0.668
+HC||hc||head circumference||||C0262499||vanderbilt_clinic_notes|||0.668
+SE||SE||southeast||||C1711190||vanderbilt_clinic_notes|||0.0071
+SE||SE||side effects||||C0879626||vanderbilt_clinic_notes|||0.9929
+SE||se||side effects||||C0879626||vanderbilt_clinic_notes|||0.9929
+DBS||DBS||deep brain stimulation||||C0394162||vanderbilt_clinic_notes|||1.0
+D5||d5||5% dextrose||||C0017725||vanderbilt_clinic_notes|||1.0
+D5||D5||5% dextrose||||C0017725||vanderbilt_clinic_notes|||1.0
+ZPAK||Z-Pak||azithromycin||||C0052796||vanderbilt_clinic_notes|||1.0
+ZPAK||z-Pak||azithromycin||||C0052796||vanderbilt_clinic_notes|||1.0
+ZPAK||Z-PAK||azithromycin||||C0052796||vanderbilt_clinic_notes|||1.0
+CR1||CR1||first complete remission||||C0677874,C0205435||vanderbilt_clinic_notes|||1.0
+RETICT||RetiCt||reticulocyte count||||C0206161||vanderbilt_clinic_notes|||1.0
+Q4||Q4||every 4 hours||||C1292426||vanderbilt_clinic_notes|||0.99
+Q4||q4||every 4 hours||||C1292426||vanderbilt_clinic_notes|||0.99
+Q4||Q4||every 4 weeks||||C1275555||vanderbilt_clinic_notes|||0.01
+Q4||q4||every 4 weeks||||C1275555||vanderbilt_clinic_notes|||0.01
+Q6||Q6||every six hours||||C0585325||vanderbilt_clinic_notes|||0.956
+Q6||q6||every six hours||||C0585325||vanderbilt_clinic_notes|||0.956
+Q6||q6||every six months||||C0585339||vanderbilt_clinic_notes|||0.044
+HRT||HRT||hormone replacement therapy||||C0282402||vanderbilt_clinic_notes|||0.977
+HRT||hrt||hormone replacement therapy||||C0282402||vanderbilt_clinic_notes|||0.977
+HRT||hrt||heart||||C0018787||vanderbilt_clinic_notes|||0.023
+HRT||HRT||heart||||C0018787||vanderbilt_clinic_notes|||0.023
+OCC||occ.||occasional||||C0521114||vanderbilt_clinic_notes|||1.0
+OCC||Occ||occasional||||C0521114||vanderbilt_clinic_notes|||1.0
+OCC||occ||occasional||||C0521114||vanderbilt_clinic_notes|||1.0
+OCC||Occ.||occasional||||C0521114||vanderbilt_clinic_notes|||1.0
+LYMPAB||LYMPAB||absolute lymphocytes||||C3544087||vanderbilt_clinic_notes|||1.0
+HRS||hrs||hours||||C0439227||vanderbilt_clinic_notes|||1.0
+HRS||HRS||hours||||C0439227||vanderbilt_clinic_notes|||1.0
+HRS||hrs.||hours||||C0439227||vanderbilt_clinic_notes|||1.0
+YO||y/o||year old||||C0001779||vanderbilt_clinic_notes|||1.0
+RASS||rass||richmond agitation sedation scale||||||vanderbilt_clinic_notes|||1.0
+RASS||RASS||richmond agitation sedation scale||||||vanderbilt_clinic_notes|||1.0
+IVP||IVP||intravenous push||||C1319196||vanderbilt_clinic_notes|||0.209
+IVP||IVP||intravenous pyelogram||||C0203108||vanderbilt_clinic_notes|||0.791
+PLTS||plts||platelets||||C0005821||vanderbilt_clinic_notes|||1.0
+PLTS||Plts||platelets||||C0005821||vanderbilt_clinic_notes|||1.0
+PLTS||PLTS||platelets||||C0005821||vanderbilt_clinic_notes|||1.0
+PLTS||PLTs||platelets||||C0005821||vanderbilt_clinic_notes|||1.0
+ATYLYM||AtyLym||atypical lymphocytes||||C0221277||vanderbilt_clinic_notes|||1.0
+OCP||OCP||oral contraceptive pill||||C0009905||vanderbilt_clinic_notes|||1.0
+INO||INO||internuclear ophthalmoplegia||||C0152134||vanderbilt_clinic_notes|||0.2472
+INO||iNO||inhaled nitric oxide||||C0004048,C0028128||vanderbilt_clinic_notes|||0.7528
+INO||INO||inhaled nitric oxide||||C0004048,C0028128||vanderbilt_clinic_notes|||0.7528
+LR||LR||living related||||C0748332||vanderbilt_clinic_notes|||0.0133
+LR||lr||lactated ringers||||C0073385||vanderbilt_clinic_notes|||0.5577
+LR||LR||lactated ringers||||C0073385||vanderbilt_clinic_notes|||0.5577
+LR||LR||light reflex||||C0234671||vanderbilt_clinic_notes|||0.4168
+LR||LR||lateral rectus||||C0224131||vanderbilt_clinic_notes|||0.0082
+LR||LR||lower right||||C0442067||vanderbilt_clinic_notes|||0.0041
+DM||DM||diabetes mellitus||||C0011849||vanderbilt_clinic_notes|||0.9769
+DM||dm||dextromethorphan||||C0011816||vanderbilt_clinic_notes|||0.0231
+DM||DM||dextromethorphan||||C0011816||vanderbilt_clinic_notes|||0.0231
+HIT||HIT||heparin-induced thrombocytopenia||||C0272285||vanderbilt_clinic_notes|||1.0
+MGF||MGF||maternal grandfather||||C1273523||vanderbilt_clinic_notes|||1.0
+MGF||mgf||maternal grandfather||||C1273523||vanderbilt_clinic_notes|||1.0
+HIV||HIV||human immunodeficiency virus||||C0019682||vanderbilt_clinic_notes|||1.0
+ALLO||allo||allotransplant||||C0040739||vanderbilt_clinic_notes|||1.0
+ALLO||ALLO||allotransplant||||C0040739||vanderbilt_clinic_notes|||1.0
+ALLO||Allo||allotransplant||||C0040739||vanderbilt_clinic_notes|||1.0
+DC||dc||discharge||||C0030685||vanderbilt_clinic_notes|||0.8122
+DC||DC||discharge||||C0030685||vanderbilt_clinic_notes|||0.8122
+DC||DC||direct current||||C0442831||vanderbilt_clinic_notes|||0.1359
+DC||DC||district of columbia||||C0012764||vanderbilt_clinic_notes|||0.0166
+DC||dc||discontinue||||C1706472||vanderbilt_clinic_notes|||0.0353
+DC||DC||discontinue||||C1706472||vanderbilt_clinic_notes|||0.0353
+MGM||mgm||milligrams||||C0439210||vanderbilt_clinic_notes|||0.053
+MGM||MGM||maternal grandmother||||C1273525||vanderbilt_clinic_notes|||0.947
+MGM||mgm||maternal grandmother||||C1273525||vanderbilt_clinic_notes|||0.947
+TBI||TBI||traumatic brain injury||||C0876926||vanderbilt_clinic_notes|||0.306
+TBI||tbi.||traumatic brain injury||||C0876926||vanderbilt_clinic_notes|||0.306
+TBI||TBI||total body irradiation||||C0043162||vanderbilt_clinic_notes|||0.694
+TBI||tbi||total body irradiation||||C0043162||vanderbilt_clinic_notes|||0.694
+MGR||MGR||mumurs, gallops, or rubs||||C0018808,C0232200,C0232267||vanderbilt_clinic_notes|||0.941
+MGR||mgr||mumurs, gallops, or rubs||||C0018808,C0232200,C0232267||vanderbilt_clinic_notes|||0.941
+MGR||mgr||manager||||C0335141||vanderbilt_clinic_notes|||0.059
+MGR||Mgr||manager||||C0335141||vanderbilt_clinic_notes|||0.059
+POIK||Poik||poikilocytes||||C0333798||vanderbilt_clinic_notes|||1.0
+SSI||SSI||sliding scale insulin||||C0557977||vanderbilt_clinic_notes|||1.0
+SSI||ssi||sliding scale insulin||||C0557977||vanderbilt_clinic_notes|||1.0
+DX||dx||diagnosed||||C0011900||vanderbilt_clinic_notes|||0.675
+DX||dx||diagnosis||||C0011900||vanderbilt_clinic_notes|||0.317
+DX||DX||diagnosis||||C0011900||vanderbilt_clinic_notes|||0.317
+DX||Dx||diagnosis||||C0011900||vanderbilt_clinic_notes|||0.317
+DX||Dx||diagnostic||||C0348026||vanderbilt_clinic_notes|||0.008
+CD3||cd3||cluster of differentiation 3||||C0430319||vanderbilt_clinic_notes|||1.0
+CD3||CD3||cluster of differentiation 3||||C0430319||vanderbilt_clinic_notes|||1.0
+TBA||tba||to be announced||||||vanderbilt_clinic_notes|||1.0
+TBA||TBA||to be announced||||||vanderbilt_clinic_notes|||1.0
+S||/s/||sound of letter S (phoneme)||||||vanderbilt_clinic_notes|||1.0
+INH||inh||inhaler||||C0021461||vanderbilt_clinic_notes|||0.871
+INH||INH||inhaler||||C0021461||vanderbilt_clinic_notes|||0.871
+INH||INH||isoniazid||||C0022209||vanderbilt_clinic_notes|||0.125
+INH||inh||inhibitor||||C1999216||vanderbilt_clinic_notes|||0.004
+FFP||FFP||fresh frozen plasma||||C0016709||vanderbilt_clinic_notes|||1.0
+DR||Dr||doctor||||C2348314||vanderbilt_clinic_notes|||1.0
+DS||DS||developers system||||C2363670||vanderbilt_clinic_notes|||0.0065
+DS||ds||double strength||||C1705765||vanderbilt_clinic_notes|||0.9665
+DS||DS||double strength||||C1705765||vanderbilt_clinic_notes|||0.9665
+DS||DS||double-stranded||||C1979882||vanderbilt_clinic_notes|||0.013
+DS||ds||double-stranded||||C1979882||vanderbilt_clinic_notes|||0.013
+DS||ds||disease||||C0012634||vanderbilt_clinic_notes|||0.0032
+DS||DS||discharge summary||||C0743221||vanderbilt_clinic_notes|||0.0108
+DP||DP||dorsalis pedis||||C0230462||vanderbilt_clinic_notes|||1.0
+CRP||CRP||c-reactive protein||||C0006560||vanderbilt_clinic_notes|||1.0
+EMA||EMA||early morning awakening||||C0541798||vanderbilt_clinic_notes|||0.1282
+EMA||EMA||endomysial antibody||||C0443906||vanderbilt_clinic_notes|||0.8718
+UTD||UTD||up to date||||||vanderbilt_clinic_notes|||1.0
+UTD||utd||up to date||||||vanderbilt_clinic_notes|||1.0
+EMU||EMU||epilepsy monitoring unit||||C1138901||vanderbilt_clinic_notes|||1.0
+EMU||emu||epilepsy monitoring unit||||C1138901||vanderbilt_clinic_notes|||1.0
+CKMBRE||CKMBRe||creatine kinase MB ratio||||||vanderbilt_clinic_notes|||1.0
+QD||q.d||quaque die||||C0332173||vanderbilt_clinic_notes|||1.0
+QD||qd||quaque die||||C0332173||vanderbilt_clinic_notes|||1.0
+QD||QD||quaque die||||C0332173||vanderbilt_clinic_notes|||1.0
+EMS||EMS||emergency medical services||||C0013961||vanderbilt_clinic_notes|||1.0
+BC||b/c||because||||C0678226||vanderbilt_clinic_notes|||1.0
+CRI||Cri||chronic renal insufficiency||||C0403447||vanderbilt_clinic_notes|||1.0
+CRI||CrI||chronic renal insufficiency||||C0403447||vanderbilt_clinic_notes|||1.0
+CRI||CRI||chronic renal insufficiency||||C0403447||vanderbilt_clinic_notes|||1.0
+TMPSMX||tmp-smx||trimethoprim-sulfamethoxazole||||C0041044||vanderbilt_clinic_notes|||1.0
+TMPSMX||TMP-SMX||trimethoprim-sulfamethoxazole||||C0041044||vanderbilt_clinic_notes|||1.0
+TMPSMX||Tmp-smx||trimethoprim-sulfamethoxazole||||C0041044||vanderbilt_clinic_notes|||1.0
+OW||o/w||otherwise||||||vanderbilt_clinic_notes|||1.0
+PVR||PVR||postvoid residual||||C0749943||vanderbilt_clinic_notes|||0.779
+PVR||PVR||peripheral vascular disease||||C0085096||vanderbilt_clinic_notes|||0.023
+PVR||PVR||pulmonary vascular resistance||||C0456261||vanderbilt_clinic_notes|||0.192
+PVR||PVR||pulmonary valve replacement||||C0190129||vanderbilt_clinic_notes|||0.006
+EBL||EBL||estimated blood loss||||C1443559||vanderbilt_clinic_notes|||1.0
+EBM||EBM||expressed breast milk||||C0452739||vanderbilt_clinic_notes|||1.0
+EBM||ebm||expressed breast milk||||C0452739||vanderbilt_clinic_notes|||1.0
+EBV||EBV||epstein-barr virus||||C0014644||vanderbilt_clinic_notes|||1.0
+EBV||ebv||epstein-barr virus||||C0014644||vanderbilt_clinic_notes|||1.0
+SED||Sed||sedimentation||||C0597428||vanderbilt_clinic_notes|||0.9935
+SED||sed||sedimentation||||C0597428||vanderbilt_clinic_notes|||0.9935
+SED||sed||sedated||||C0235195||vanderbilt_clinic_notes|||0.0065
+HPV||HPV||human papilloma virus||||C0021344||vanderbilt_clinic_notes|||1.0
+HPV||hpv||human papilloma virus||||C0021344||vanderbilt_clinic_notes|||1.0
+ARF||ARF||acute renal failure||||C0022660||vanderbilt_clinic_notes|||1.0
+ARF||arf||acute renal failure||||C0022660||vanderbilt_clinic_notes|||1.0
+DTRS||DTRS||deep tendon reflexes||||C0489815||vanderbilt_clinic_notes|||1.0
+DTRS||DTRs||deep tendon reflexes||||C0489815||vanderbilt_clinic_notes|||1.0
+SEM||SEM||systolic ejection murmur||||C0694547||vanderbilt_clinic_notes|||1.0
+ON||o/n||overnight||||C0439583||vanderbilt_clinic_notes|||1.0
+ON||O/N||overnight||||C0439583||vanderbilt_clinic_notes|||1.0
+NSTEMI||NSTEMI||non-st segment myocardial infarction||||C1536221||vanderbilt_clinic_notes|||1.0
+NSTEMI||nstemi||non-st segment myocardial infarction||||C1536221||vanderbilt_clinic_notes|||1.0
+CS||C/S||caesarean section||||C0007876||vanderbilt_clinic_notes|||0.9869
+CS||c/s||caesarean section||||C0007876||vanderbilt_clinic_notes|||0.9869
+CS||c/s||culture and sensitivity||||C0430388||vanderbilt_clinic_notes|||0.0131
+CO2||CO2||carbon dioxide||||C0007012||vanderbilt_clinic_notes|||1.0
+MEQL||mEq/L||milliequivalents/liter||||C0439375||vanderbilt_clinic_notes|||1.0
+MEQL||meq/L||milliequivalents/liter||||C0439375||vanderbilt_clinic_notes|||1.0
+MEQL||meq/l||milliequivalents/liter||||C0439375||vanderbilt_clinic_notes|||1.0
+MEQL||mEq/l||milliequivalents/liter||||C0439375||vanderbilt_clinic_notes|||1.0
+XRAY||Xray||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAY||xray||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAY||XRay||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+QDAY||qday||qua que daily||||C0332173||vanderbilt_clinic_notes|||1.0
+QDAY||Qday||qua que daily||||C0332173||vanderbilt_clinic_notes|||1.0
+D50||d50||50% dextrose||||C0308817||vanderbilt_clinic_notes|||1.0
+ACEI||Acei||angiotensin converting enzyme inhibitor||||C0003015||vanderbilt_clinic_notes|||1.0
+ACEI||ACEi||angiotensin converting enzyme inhibitor||||C0003015||vanderbilt_clinic_notes|||1.0
+ACEI||acei||angiotensin converting enzyme inhibitor||||C0003015||vanderbilt_clinic_notes|||1.0
+ACEI||ACEI||angiotensin converting enzyme inhibitor||||C0003015||vanderbilt_clinic_notes|||1.0
+WOB||WOB||work of breathing||||C0043229||vanderbilt_clinic_notes|||1.0
+WOB||wob||work of breathing||||C0043229||vanderbilt_clinic_notes|||1.0
+WF||WF||white female||||C0015780,C0043157||vanderbilt_clinic_notes|||1.0
+DLCO||DLCO||diffusing capacity of lung for carbon monoxide||||C2143174||vanderbilt_clinic_notes|||1.0
+WD||wd||word||||C1705313||vanderbilt_clinic_notes|||0.0691
+WD||WD||well-developed||||||vanderbilt_clinic_notes|||0.9309
+SEDRAT||SedRat||sedimentation rate||||C0086250||vanderbilt_clinic_notes|||1.0
+WK||wk||week||||C0439230||vanderbilt_clinic_notes|||1.0
+WM||wm||woman||||C0043210||vanderbilt_clinic_notes|||0.9388
+WM||WM||woman||||C0043210||vanderbilt_clinic_notes|||0.9388
+WM||wm||warm||||C0687712||vanderbilt_clinic_notes|||0.0492
+WM||WM||white male||||C0024554,C0043157||vanderbilt_clinic_notes|||0.01
+WM||WM||white matter||||C0682708||vanderbilt_clinic_notes|||0.002
+JP||JP||jackson pratt||||C0204831||vanderbilt_clinic_notes|||1.0
+JR||jr.||junior||||C1708595||vanderbilt_clinic_notes|||1.0
+JR||Jr||junior||||C1708595||vanderbilt_clinic_notes|||1.0
+JR||jr||junior||||C1708595||vanderbilt_clinic_notes|||1.0
+JR||JR||junior||||C1708595||vanderbilt_clinic_notes|||1.0
+CPPD||cppd||chest percussion and postural drainage||||C1285807,C0086915||vanderbilt_clinic_notes|||0.962
+CPPD||CPPD||chest percussion and postural drainage||||C1285807,C0086915||vanderbilt_clinic_notes|||0.962
+CPPD||CPPD||calcium pyrophosphate dihydrate disease||||C0553730||vanderbilt_clinic_notes|||0.038
+WT||Wt||weight||||C0043100||vanderbilt_clinic_notes|||1.0
+WT||WT||weight||||C0043100||vanderbilt_clinic_notes|||1.0
+WT||wt||weight||||C0043100||vanderbilt_clinic_notes|||1.0
+VRE||VRE||vancomycin-resistant enterococci||||C1265175||vanderbilt_clinic_notes|||1.0
+VRE||vre||vancomycin-resistant enterococci||||C1265175||vanderbilt_clinic_notes|||1.0
+ENDO||ENDO||endocrine||||C0521425||vanderbilt_clinic_notes|||0.769
+ENDO||Endo||endocrine||||C0521425||vanderbilt_clinic_notes|||0.769
+ENDO||endo||endocrine||||C0521425||vanderbilt_clinic_notes|||0.769
+ENDO||endo||endocrinology||||C0014137||vanderbilt_clinic_notes|||0.203
+ENDO||ENDO||endocrinology||||C0014137||vanderbilt_clinic_notes|||0.203
+ENDO||Endo||endocrinology||||C0014137||vanderbilt_clinic_notes|||0.203
+ENDO||endo||endocervix||||C0227837||vanderbilt_clinic_notes|||0.028
+COR||COR||cardiac||||C1522601||vanderbilt_clinic_notes|||0.968
+COR||Cor||cardiac||||C1522601||vanderbilt_clinic_notes|||0.968
+COR||Cor||cortisone||||C0010137||vanderbilt_clinic_notes|||0.0028
+COR||COR||coronary||||C1522318||vanderbilt_clinic_notes|||0.0292
+COR||Cor||coronary||||C1522318||vanderbilt_clinic_notes|||0.0292
+ETT||ETT||endotracheal tube||||C0336630||vanderbilt_clinic_notes|||0.9899
+ETT||ett||endotracheal tube||||C0336630||vanderbilt_clinic_notes|||0.9899
+ETT||ETT||exercise treadmill test||||C0430507||vanderbilt_clinic_notes|||0.0101
+FNP||FNP||family nurse practitioner||||C1552262||vanderbilt_clinic_notes|||1.0
+SUST||Sust||sustained||||C0443318||vanderbilt_clinic_notes|||1.0
+SUST||sust||sustained||||C0443318||vanderbilt_clinic_notes|||1.0
+TMAX||tmax||temperature maximum||||C0806909,C0039476||vanderbilt_clinic_notes|||1.0
+TMAX||Tmax||temperature maximum||||C0806909,C0039476||vanderbilt_clinic_notes|||1.0
+TMAX||TMax||temperature maximum||||C0806909,C0039476||vanderbilt_clinic_notes|||1.0
+TLC||TLC||total lung capacity||||C0040509||vanderbilt_clinic_notes|||0.134
+TLC||TLC||triple lumen catheter||||C1301750||vanderbilt_clinic_notes|||0.866
+TLC||tlc||triple lumen catheter||||C1301750||vanderbilt_clinic_notes|||0.866
+PCR||pcr||polymerase chain reaction||||C0032520||vanderbilt_clinic_notes|||1.0
+PCR||PCR||polymerase chain reaction||||C0032520||vanderbilt_clinic_notes|||1.0
+UC||UC||ulcerative colitis||||C0009324||vanderbilt_clinic_notes|||0.7772
+UC||UC||urine culture||||C0430404||vanderbilt_clinic_notes|||0.2228
+FNA||FNA||fine-needle aspiration||||C1510483||vanderbilt_clinic_notes|||1.0
+FNA||fna||fine-needle aspiration||||C1510483||vanderbilt_clinic_notes|||1.0
+W||w/||with||||C0332287||vanderbilt_clinic_notes|||1.0
+W||W/||with||||C0332287||vanderbilt_clinic_notes|||1.0
+TFTS||TFTs||thyroid function tests||||C0040130||vanderbilt_clinic_notes|||1.0
+ENMT||ENMT||ear, nose, mouth, and throat||||C0551661||vanderbilt_clinic_notes|||1.0
+LL||LL||lower lumbar||||C0024090,C0441994||vanderbilt_clinic_notes|||0.0228
+LL||ll||lower lumbar||||C0024090,C0441994||vanderbilt_clinic_notes|||0.0228
+LL||LL||left lateral||||C0205091,C0205093||vanderbilt_clinic_notes|||0.0105
+LL||LL||left leg||||C1279606||vanderbilt_clinic_notes|||0.1313
+LL||LL||left lower||||C0442068||vanderbilt_clinic_notes|||0.063
+LL||ll||overall||||C1561607||vanderbilt_clinic_notes|||0.0035
+LL||ll||two||||C0205448||vanderbilt_clinic_notes|||0.0193
+LL||LL||lithotripsy||||C0023878||vanderbilt_clinic_notes|||0.5517
+LL||LL||lower lobe||||C0225758||vanderbilt_clinic_notes|||0.1506
+LL||ll||balloon||||C1704777||vanderbilt_clinic_notes|||0.0333
+LL||LL||lower leg||||C1140621||vanderbilt_clinic_notes|||0.014
+PDA||PDA||posterior descending artery||||C0500492||vanderbilt_clinic_notes|||0.027
+PDA||PDA||patent ductus arteriosus||||C0013274||vanderbilt_clinic_notes|||0.973
+PDA||pda||patent ductus arteriosus||||C0013274||vanderbilt_clinic_notes|||0.973
+CK||CK||creatine kinase||||C0010287||vanderbilt_clinic_notes|||1.0
+CK||ck||creatine kinase||||C0010287||vanderbilt_clinic_notes|||1.0
+CK||Ck||creatine kinase||||C0010287||vanderbilt_clinic_notes|||1.0
+CXR||CXR||chest x-ray||||C0039985||vanderbilt_clinic_notes|||1.0
+RPR||rpr||rapid plasma reagin||||C1254816||vanderbilt_clinic_notes|||1.0
+RPR||RPR||rapid plasma reagin||||C1254816||vanderbilt_clinic_notes|||1.0
+CO||CO||cardiac output||||C0007165||vanderbilt_clinic_notes|||0.0968
+CO||co||copay||||C0680272||vanderbilt_clinic_notes|||0.0066
+CO||Co||company||||C0683757||vanderbilt_clinic_notes|||0.4763
+CO||CO||company||||C0683757||vanderbilt_clinic_notes|||0.4763
+CO||co||company||||C0683757||vanderbilt_clinic_notes|||0.4763
+CO||co||coworker||||C0681088||vanderbilt_clinic_notes|||0.0033
+CO||co||complex||||C0439855||vanderbilt_clinic_notes|||0.0022
+CO||Co||county||||C0079170||vanderbilt_clinic_notes|||0.0077
+CO||Co||coenzyme||||C0009235||vanderbilt_clinic_notes|||0.2233
+CO||C.O||chronic obstructive||||C0024117||vanderbilt_clinic_notes|||0.0055
+CO||CO||carbon monoxide||||C0007018||vanderbilt_clinic_notes|||0.176
+CO||Co||coagulase||||C0009118||vanderbilt_clinic_notes|||0.0022
+CN||CN||cranial nerve||||C0010268||vanderbilt_clinic_notes|||1.0
+CM||cm||centimeter||||C0475210||vanderbilt_clinic_notes|||0.99
+CM||CM||case manager||||C0687694||vanderbilt_clinic_notes|||0.01
+CL||Cl||chloride||||C0596019||vanderbilt_clinic_notes|||0.9676
+CL||cl||clear||||C2963144||vanderbilt_clinic_notes|||0.0071
+CL||cl||call||||||vanderbilt_clinic_notes|||0.0081
+CL||Cl||chlorine||||C0008209||vanderbilt_clinic_notes|||0.0172
+CC||CC||carbon copy||||C0175984||vanderbilt_clinic_notes|||0.004
+CC||cc||carbon copy||||C0175984||vanderbilt_clinic_notes|||0.004
+CC||cc||cubic centimeters||||C0439242||vanderbilt_clinic_notes|||0.91
+CC||CC||chief complaint||||C0277786||vanderbilt_clinic_notes|||0.002
+CC||cc||with meals (From Latin: 'cum cibo')||||C0589085||vanderbilt_clinic_notes|||0.084
+CA||Ca||calcium||||C0006675||vanderbilt_clinic_notes|||0.7164
+CA||ca||calcium||||C0006675||vanderbilt_clinic_notes|||0.7164
+CA||Ca||carcinoma||||C0007097||vanderbilt_clinic_notes|||0.004
+CA||CA||carcinoma||||C0007097||vanderbilt_clinic_notes|||0.004
+CA||CA||cancer||||C0006826||vanderbilt_clinic_notes|||0.2775
+CA||Ca||cancer||||C0006826||vanderbilt_clinic_notes|||0.2775
+CA||ca||cancer||||C0006826||vanderbilt_clinic_notes|||0.2775
+CA||CA||carbohydrate antigen||||C0443758||vanderbilt_clinic_notes|||0.002
+HCTWB||HCTWB||hematocrit whole blood||||C0018935||vanderbilt_clinic_notes|||1.0
+POS||pos||positive||||C1446409||vanderbilt_clinic_notes|||0.998
+POS||Pos||positive||||C1446409||vanderbilt_clinic_notes|||0.998
+POS||POS||positive||||C1446409||vanderbilt_clinic_notes|||0.998
+POS||POs||per os||||C1527415||vanderbilt_clinic_notes|||0.002
+CD||cd||controlled-delivery||||C0868939||vanderbilt_clinic_notes|||0.4889
+CD||CD||controlled-delivery||||C0868939||vanderbilt_clinic_notes|||0.4889
+CD||CD||crohn's disease||||C0010346||vanderbilt_clinic_notes|||0.006
+CD||CD||conduct disorder||||C0149654||vanderbilt_clinic_notes|||0.0111
+CD||CD||cluster of differentiation||||C1955216||vanderbilt_clinic_notes|||0.1066
+CD||CD||clomid days||||C0591268||vanderbilt_clinic_notes|||0.0171
+CD||CD||compact disc||||C0079141||vanderbilt_clinic_notes|||0.3702
+CD||cd||compact disc||||C0079141||vanderbilt_clinic_notes|||0.3702
+CX||Cx||culture||||C0430400||vanderbilt_clinic_notes|||1.0
+CX||CX||culture||||C0430400||vanderbilt_clinic_notes|||1.0
+CX||cx||culture||||C0430400||vanderbilt_clinic_notes|||1.0
+CR||CR||complete remission||||C0677874||vanderbilt_clinic_notes|||0.005
+CR||Cr||creatinine||||C0010294||vanderbilt_clinic_notes|||0.9104
+CR||cr||creatinine||||C0010294||vanderbilt_clinic_notes|||0.9104
+CR||CR||capillary refill||||C0425716||vanderbilt_clinic_notes|||0.003
+CR||CR||controlled release||||C0868939||vanderbilt_clinic_notes|||0.0816
+POD||POD||postoperative day||||C0032790,C0439228||vanderbilt_clinic_notes|||1.0
+POD||pod||postoperative day||||C0032790,C0439228||vanderbilt_clinic_notes|||1.0
+CP||CP||cardiopulmonary||||C0553534||vanderbilt_clinic_notes|||0.3765
+CP||CP||chest pain||||C0008031||vanderbilt_clinic_notes|||0.6194
+CP||CP||costophrenic||||C0230151||vanderbilt_clinic_notes|||0.004
+NTND||NTND||non-tender non-distended||||C0520960,C0700124||vanderbilt_clinic_notes|||1.0
+CV||C.V||cerebrovascular accident||||C0038454||vanderbilt_clinic_notes|||0.004
+CV||CV||consonant-vowel||||C0564171||vanderbilt_clinic_notes|||0.002
+CV||CV||cardiovascular||||C0007226||vanderbilt_clinic_notes|||0.994
+ORIF||ORIF||open reduction and internal fixation||||C1297885||vanderbilt_clinic_notes|||1.0
+ORIF||orif||open reduction and internal fixation||||C1297885||vanderbilt_clinic_notes|||1.0
+CT||CT||code treatment time||||||vanderbilt_clinic_notes|||0.002
+CT||CT||computerized tomography||||C0040405||vanderbilt_clinic_notes|||0.998
+PR||pr||partial response||||C1521726||vanderbilt_clinic_notes|||0.0061
+PR||PR||partial response||||C1521726||vanderbilt_clinic_notes|||0.0061
+PR||pr||per rectum||||C1527425||vanderbilt_clinic_notes|||0.9299
+PR||PR||per rectum||||C1527425||vanderbilt_clinic_notes|||0.9299
+PR||p.r||per rectum||||C1527425||vanderbilt_clinic_notes|||0.9299
+PR||PR||progesterone receptor||||C0034833||vanderbilt_clinic_notes|||0.064
+PS||PS||pressure support||||C0419008||vanderbilt_clinic_notes|||0.414
+PS||PS||peripheral (blood) stem cell transplant||||C1519005||vanderbilt_clinic_notes|||0.002
+PS||PS||postural stability||||C3166208||vanderbilt_clinic_notes|||0.006
+PS||P.S||post script||||C2347648||vanderbilt_clinic_notes|||0.07
+PS||PS||performance status||||C1518965||vanderbilt_clinic_notes|||0.508
+PT||pT||primary tumor||||C0677930||vanderbilt_clinic_notes|||0.003
+PT||Pt.||patient||||C0030705||vanderbilt_clinic_notes|||0.913
+PT||Pt||patient||||C0030705||vanderbilt_clinic_notes|||0.913
+PT||pt||patient||||C0030705||vanderbilt_clinic_notes|||0.913
+PT||pt||point||||C1552961||vanderbilt_clinic_notes|||0.052
+PT||PT||physical therapy||||C0949766||vanderbilt_clinic_notes|||0.022
+PT||PT||prothrombin||||C0033706||vanderbilt_clinic_notes|||0.002
+PT||PT||posterior tibial||||C0040184,C0205095||vanderbilt_clinic_notes|||0.008
+YAZ||YAZ||yasmin||||C0939533||vanderbilt_clinic_notes|||1.0
+YAZ||Yaz||yasmin||||C0939533||vanderbilt_clinic_notes|||1.0
+YAZ||yaz||yasmin||||C0939533||vanderbilt_clinic_notes|||1.0
+MSSA||MSSA||methicillin-sensitive staphylococcus aureus||||C1635274||vanderbilt_clinic_notes|||1.0
+FRI||Fri||friday||||C0585029||vanderbilt_clinic_notes|||1.0
+FRI||fri||friday||||C0585029||vanderbilt_clinic_notes|||1.0
+ANC||anc||ancillary||||C1549485||vanderbilt_clinic_notes|||0.287
+ANC||ANC||absolute neutrophil count||||C0948762||vanderbilt_clinic_notes|||0.713
+ANC||anc||absolute neutrophil count||||C0948762||vanderbilt_clinic_notes|||0.713
+PB||PB||peripheral blood||||C0229664||vanderbilt_clinic_notes|||0.9909
+PB||pb||peripheral blood||||C0229664||vanderbilt_clinic_notes|||0.9909
+PB||PB||pentobarbital||||C0030883||vanderbilt_clinic_notes|||0.0091
+PB||Pb||pentobarbital||||C0030883||vanderbilt_clinic_notes|||0.0091
+PA||P.A||physician assistant||||C0031833||vanderbilt_clinic_notes|||0.099
+PA||PA||prior authorization||||C0680281,C0332152||vanderbilt_clinic_notes|||0.5663
+PA||pa||pulmonary artery||||C1269026||vanderbilt_clinic_notes|||0.1622
+PA||PA||pulmonary artery||||C1269026||vanderbilt_clinic_notes|||0.1622
+PA||PA||posterior anterior||||C2827725||vanderbilt_clinic_notes|||0.1724
+PF||pf||puff||||C1533107||vanderbilt_clinic_notes|||0.7333
+PF||PF||patellofemoral||||C1269071||vanderbilt_clinic_notes|||0.1333
+PF||PF||posterior fontanelle||||C0224553||vanderbilt_clinic_notes|||0.1333
+PD||PD||parkinson's disease||||C0030567||vanderbilt_clinic_notes|||0.0377
+PD||PD||peritoneal dialysis||||C0031139||vanderbilt_clinic_notes|||0.949
+PD||PD||progressive disease||||C1335499||vanderbilt_clinic_notes|||0.0133
+PE||PE||physical exam||||C0031809||vanderbilt_clinic_notes|||0.65
+PE||pe||phenytoin equivalent||||C0020208||vanderbilt_clinic_notes|||0.005
+PE||PE||pulmonary embolism||||C0034065||vanderbilt_clinic_notes|||0.322
+PE||PE||pneumatic equalization||||C0222650||vanderbilt_clinic_notes|||0.023
+PCN||PCN||penicillin||||C0220892||vanderbilt_clinic_notes|||1.0
+PCN||pcn||penicillin||||C0220892||vanderbilt_clinic_notes|||1.0
+PH||ph||phone||||C0039457||vanderbilt_clinic_notes|||0.0245
+PH||Ph||phone||||C0039457||vanderbilt_clinic_notes|||0.0245
+PH||pH||ph||||C1304686||vanderbilt_clinic_notes|||0.9755
+PH||ph||ph||||C1304686||vanderbilt_clinic_notes|||0.9755
+DCIS||DCIS||ductal carcinoma in situ||||C0007124||vanderbilt_clinic_notes|||1.0
+PO||PO||post office||||C0442601||vanderbilt_clinic_notes|||0.002
+PO||po||per os/per oral||||C1527415||vanderbilt_clinic_notes|||0.998
+PO||P.O||per os/per oral||||C1527415||vanderbilt_clinic_notes|||0.998
+PO||PO||per os/per oral||||C1527415||vanderbilt_clinic_notes|||0.998
+PM||pM||p metastasis||||C0027627||vanderbilt_clinic_notes|||0.002
+PM||PM||post meridiem||||C1509133||vanderbilt_clinic_notes|||0.996
+PM||pm||post meridiem||||C1509133||vanderbilt_clinic_notes|||0.996
+PM||PM||pacemaker||||C0810633||vanderbilt_clinic_notes|||0.002
+C3||C3||complement component 3||||C0009506||vanderbilt_clinic_notes|||0.8978
+C3||C3||cervical 3||||C0223116||vanderbilt_clinic_notes|||0.1022
+IDDM||IDDM||insulin-dependent diabetes mellitus||||C0011854||vanderbilt_clinic_notes|||1.0
+IDDM||iddm||insulin-dependent diabetes mellitus||||C0011854||vanderbilt_clinic_notes|||1.0
+APRN||APRN||advanced practice registered nurse||||C1554708||vanderbilt_clinic_notes|||1.0
+BL||B/L||bilateral/bilaterally||||C0238767||vanderbilt_clinic_notes|||1.0
+BL||b/l||bilateral/bilaterally||||C0238767||vanderbilt_clinic_notes|||1.0
+MCH||MCH||mean corpuscular hemoglobin||||C1261502||vanderbilt_clinic_notes|||1.0
+MCG||mcg||micrograms||||C0439211||vanderbilt_clinic_notes|||1.0
+CPCO2||C-pCO2||pco2||||C0391839||vanderbilt_clinic_notes|||1.0
+BMI||bmi||body mass index||||C1305855||vanderbilt_clinic_notes|||1.0
+BMI||BMI||body mass index||||C1305855||vanderbilt_clinic_notes|||1.0
+GEN||gen||genetic||||C0314603||vanderbilt_clinic_notes|||0.013
+GEN||Gen||general||||C0205246||vanderbilt_clinic_notes|||0.987
+GEN||GEN||general||||C0205246||vanderbilt_clinic_notes|||0.987
+AL||AL||alabama||||C1551894||vanderbilt_clinic_notes|||0.9962
+AL||AL||aluminum||||C0002367||vanderbilt_clinic_notes|||0.0038
+BMS||BMS||bare metal stent||||C2825200||vanderbilt_clinic_notes|||0.025
+BMS||BMs||bowel movements||||C0011135||vanderbilt_clinic_notes|||0.975
+BMS||BMS||bowel movements||||C0011135||vanderbilt_clinic_notes|||0.975
+BMS||bms||bowel movements||||C0011135||vanderbilt_clinic_notes|||0.975
+BMP||BMP||basic metabolic panel||||C2237045||vanderbilt_clinic_notes|||1.0
+MCA||MCA||middle cerebral artery||||C0149566||vanderbilt_clinic_notes|||1.0
+BMT||BMT||bone marrow transplant||||C0005961||vanderbilt_clinic_notes|||0.899
+BMT||bmt||bone marrow transplant||||C0005961||vanderbilt_clinic_notes|||0.899
+BMT||BMT||bilateral myringotomy tube||||C0844319||vanderbilt_clinic_notes|||0.101
+BP||B/P||blood pressure||||C0005823||vanderbilt_clinic_notes|||1.0
+BP||B/P.||blood pressure||||C0005823||vanderbilt_clinic_notes|||1.0
+MCV||MCV||mean corpuscular volume||||C0524587||vanderbilt_clinic_notes|||1.0
+PATPT||Pat-PT||prothrombin time||||C0033707||vanderbilt_clinic_notes|||1.0
+C7||C7||cervical 7||||C1306475||vanderbilt_clinic_notes|||1.0
+OTU||OTU||outpatient transplant unit||||C0029921,C0040732||vanderbilt_clinic_notes|||1.0
+MCP||MCP||metacarpal phalangeal||||C0025525||vanderbilt_clinic_notes|||1.0
+P2||P2||pulmonic heart sound||||C2058291||vanderbilt_clinic_notes|||0.976
+P2||P2||para 2||||C0233071||vanderbilt_clinic_notes|||0.024
+PACU||PACU||post-anesthesia care unit||||C0034871||vanderbilt_clinic_notes|||1.0
+PACU||PACU.||post-anesthesia care unit||||C0034871||vanderbilt_clinic_notes|||1.0
+HDS||HDS||hemodynamically stable||||C0578150||vanderbilt_clinic_notes|||1.0
+HDS||hds||hemodynamically stable||||C0578150||vanderbilt_clinic_notes|||1.0
+RVR||RVR||rapid ventricular rate||||C0750191||vanderbilt_clinic_notes|||1.0
+RVR||rvr||rapid ventricular rate||||C0750191||vanderbilt_clinic_notes|||1.0
+EOMI||EOMI||extraocular movements intact||||C0522327||vanderbilt_clinic_notes|||1.0
+CVS||CVS||cardiovascular system||||C0007226||vanderbilt_clinic_notes|||0.549
+CVS||CVS||CVS Drugstore||||||vanderbilt_clinic_notes|||0.451
+CVS||cvs||CVS Drugstore||||||vanderbilt_clinic_notes|||0.451
+BILI||Bili||bilirubin||||C0005437||vanderbilt_clinic_notes|||1.0
+BILI||BILI||bilirubin||||C0005437||vanderbilt_clinic_notes|||1.0
+EOMS||EOMs||extraocular movements||||C0015413||vanderbilt_clinic_notes|||1.0
+EOMS||EOMS||extraocular movements||||C0015413||vanderbilt_clinic_notes|||1.0
+EVD||EVD||external ventricular drain||||C0042517||vanderbilt_clinic_notes|||0.998
+EVD||evd||external ventricular drain||||C0042517||vanderbilt_clinic_notes|||0.998
+EVD||EVD||enterovirus species D||||C1736901||vanderbilt_clinic_notes|||0.002
+CVL||CVL||central venous line||||C1145640||vanderbilt_clinic_notes|||1.0
+AR||AR||allergic rhinitis||||C2607914||vanderbilt_clinic_notes|||0.9693
+AR||AR||aortic regurgitation||||C0003504||vanderbilt_clinic_notes|||0.0127
+AR||AR||acute rejection||||C3273245||vanderbilt_clinic_notes|||0.018
+WFE||w/fe||with iron||||C0302583||vanderbilt_clinic_notes|||1.0
+HDL||HDL||high-density lipoprotein||||C0023821||vanderbilt_clinic_notes|||1.0
+RBC||RBC||red blood cell||||C0014792||vanderbilt_clinic_notes|||1.0
+CVC||CVC||central venous catheter||||C1145640||vanderbilt_clinic_notes|||0.768
+CVC||cvc||central venous catheter||||C1145640||vanderbilt_clinic_notes|||0.768
+CVC||CVC||consonant vowel consonant||||C0564171||vanderbilt_clinic_notes|||0.232
+CVA||CVA||costovertebral angle tenderness||||C0235634||vanderbilt_clinic_notes|||0.378
+CVA||CVA||cerebral vascular accident||||C0038454||vanderbilt_clinic_notes|||0.622
+CVA||cva||cerebral vascular accident||||C0038454||vanderbilt_clinic_notes|||0.622
+VA||VA||veterans affairs||||C1549054||vanderbilt_clinic_notes|||0.8156
+VA||VA.||veterans affairs||||C1549054||vanderbilt_clinic_notes|||0.8156
+VA||VA||ventricular atrial||||C0018827,C0018792||vanderbilt_clinic_notes|||0.0531
+VA||VA||visual acuity||||C0042812||vanderbilt_clinic_notes|||0.0782
+VA||va||visual acuity||||C0042812||vanderbilt_clinic_notes|||0.0782
+VA||VA||vacuum assisted||||C1956080||vanderbilt_clinic_notes|||0.0531
+VA||V.A||vacuum assisted||||C1956080||vanderbilt_clinic_notes|||0.0531
+IVF||IVF||intravenous fluids||||C1289919||vanderbilt_clinic_notes|||1.0
+IVF||ivf||intravenous fluids||||C1289919||vanderbilt_clinic_notes|||1.0
+CONT||cont||continuous||||C0549178||vanderbilt_clinic_notes|||0.0051
+CONT||Cont||continue||||C0549178||vanderbilt_clinic_notes|||0.9788
+CONT||cont.||continue||||C0549178||vanderbilt_clinic_notes|||0.9788
+CONT||cont||continue||||C0549178||vanderbilt_clinic_notes|||0.9788
+CONT||Cont.||continue||||C0549178||vanderbilt_clinic_notes|||0.9788
+CONT||CONT||contrast||||C1979874||vanderbilt_clinic_notes|||0.0162
+VE||VE||vaginal exam||||C0200048||vanderbilt_clinic_notes|||0.1249
+VE||ve||postivie||||C1446409||vanderbilt_clinic_notes|||0.0101
+VE||VE||minute ventilation||||C1301655||vanderbilt_clinic_notes|||0.0775
+VE||Ve||minute ventilation||||C1301655||vanderbilt_clinic_notes|||0.0775
+VE||ve||negative||||C0205160||vanderbilt_clinic_notes|||0.1782
+VE||ve||positive||||C1446409||vanderbilt_clinic_notes|||0.6093
+VE||Ve||positive||||C1446409||vanderbilt_clinic_notes|||0.6093
+IVC||IVC||inferior vena cava||||C1269024||vanderbilt_clinic_notes|||1.0
+IVC||ivc||inferior vena cava||||C1269024||vanderbilt_clinic_notes|||1.0
+IP||IP||inpatient||||C0021562||vanderbilt_clinic_notes|||0.6531
+IP||IP||intraperitoneal||||C0442120||vanderbilt_clinic_notes|||0.0099
+IP||IP||interphalangeal joint||||C1563055||vanderbilt_clinic_notes|||0.337
+NV||n/v.||nausea/vomiting||||C0027498||vanderbilt_clinic_notes|||1.0
+NV||n/v||nausea/vomiting||||C0027498||vanderbilt_clinic_notes|||1.0
+NV||N/V||nausea/vomiting||||C0027498||vanderbilt_clinic_notes|||1.0
+IR||IR||incomplete response||||||vanderbilt_clinic_notes|||0.002
+IR||IR||instant-release||||||vanderbilt_clinic_notes|||0.1329
+IR||ir||instant-release||||||vanderbilt_clinic_notes|||0.1329
+IR||IR||interventional radiology||||C0034602||vanderbilt_clinic_notes|||0.8338
+IR||IR||internal rotation||||C0231459||vanderbilt_clinic_notes|||0.0312
+IVH||IVH||intraventricular hemorrhage||||C0240059||vanderbilt_clinic_notes|||1.0
+IVH||ivh||intraventricular hemorrhage||||C0240059||vanderbilt_clinic_notes|||1.0
+BIL||bil.||bilaterally/bilateral||||C0238767||vanderbilt_clinic_notes|||1.0
+BIL||bil||bilaterally/bilateral||||C0238767||vanderbilt_clinic_notes|||1.0
+AVR||AVR||aortic valve replacement||||C0003506||vanderbilt_clinic_notes|||0.986
+AVR||avr||aortic valve replacement||||C0003506||vanderbilt_clinic_notes|||0.986
+AVR||aVR||augmented voltage right arm||||C0449217||vanderbilt_clinic_notes|||0.014
+IV||Iv||four||||C0205450||vanderbilt_clinic_notes|||0.036
+IV||IV||four||||C0205450||vanderbilt_clinic_notes|||0.036
+IV||iv||intravenous||||C0348016||vanderbilt_clinic_notes|||0.964
+IV||IV||intravenous||||C0348016||vanderbilt_clinic_notes|||0.964
+II||II||two||||C0205448||vanderbilt_clinic_notes|||1.0
+II||Ii||two||||C0205448||vanderbilt_clinic_notes|||1.0
+VS||vs||versus||||||vanderbilt_clinic_notes|||0.937
+VS||vs.||versus||||||vanderbilt_clinic_notes|||0.937
+VS||VS||vital signs||||C0518766||vanderbilt_clinic_notes|||0.063
+IM||im||intramuscular||||C0442117||vanderbilt_clinic_notes|||1.0
+IM||IM||intramuscular||||C0442117||vanderbilt_clinic_notes|||1.0
+IL||IL||intralipid||||C0733854||vanderbilt_clinic_notes|||1.0
+HO||h/o||history of||||C0262926||vanderbilt_clinic_notes|||1.0
+HO||H/O||history of||||C0262926||vanderbilt_clinic_notes|||1.0
+HO||H/o||history of||||C0262926||vanderbilt_clinic_notes|||1.0
+WKS||wks||weeks||||C0439230||vanderbilt_clinic_notes|||1.0
+AVG||avg.||average||||C1510992||vanderbilt_clinic_notes|||1.0
+AVG||Avg||average||||C1510992||vanderbilt_clinic_notes|||1.0
+AVG||avg||average||||C1510992||vanderbilt_clinic_notes|||1.0
+AVG||AVG||average||||C1510992||vanderbilt_clinic_notes|||1.0
+ID||ID||infectious disease||||C0009450||vanderbilt_clinic_notes|||0.981
+ID||I.D.||identification||||C0020792||vanderbilt_clinic_notes|||0.019
+ID||ID||identification||||C0020792||vanderbilt_clinic_notes|||0.019
+ID||id||identification||||C0020792||vanderbilt_clinic_notes|||0.019
+PAP||PAP||papanicolaou||||C0200845||vanderbilt_clinic_notes|||0.998
+PAP||PAP||positive airway pressure||||C1458048||vanderbilt_clinic_notes|||0.002
+ECMO||ecmo||extracorporeal membrane oxygenation||||C0015357||vanderbilt_clinic_notes|||1.0
+ECMO||ECMO||extracorporeal membrane oxygenation||||C0015357||vanderbilt_clinic_notes|||1.0
+UA||U/A||urine analysis||||C0042014||vanderbilt_clinic_notes|||1.0
+UA||u/a||urine analysis||||C0042014||vanderbilt_clinic_notes|||1.0
+CEA||CEA||carotid endarterectomy||||C0014099||vanderbilt_clinic_notes|||0.085
+CEA||CEA||carcinogenic embryonic antigen||||C0007082||vanderbilt_clinic_notes|||0.915
+UL||U/L||units per liter||||C0439339||vanderbilt_clinic_notes|||0.998
+UL||u/L||units per liter||||C0439339||vanderbilt_clinic_notes|||0.998
+UL||U/l||units per liter||||C0439339||vanderbilt_clinic_notes|||0.998
+UL||u/l||unilateral||||C0205092||vanderbilt_clinic_notes|||0.002
+US||U/S||ultrasound||||C0041618||vanderbilt_clinic_notes|||1.0
+US||u/s||ultrasound||||C0041618||vanderbilt_clinic_notes|||1.0
+CMC||CMC||carpometacarpal||||C0224620||vanderbilt_clinic_notes|||1.0
+CMC||cmc||carpometacarpal||||C0224620||vanderbilt_clinic_notes|||1.0
+PAC||PAC||pulmonary artery catheter||||C0179790||vanderbilt_clinic_notes|||0.4007
+PAC||PAC||pediatric acute care||||C1689990||vanderbilt_clinic_notes|||0.0182
+PAC||pac||pediatric acute care||||C1689990||vanderbilt_clinic_notes|||0.0182
+PAC||PAC||premature atrial contraction||||C0033036||vanderbilt_clinic_notes|||0.5812
+OINT||OINT||ointment||||C0028912||vanderbilt_clinic_notes|||1.0
+OINT||Oint||ointment||||C0028912||vanderbilt_clinic_notes|||1.0
+OINT||oint||ointment||||C0028912||vanderbilt_clinic_notes|||1.0
+QAM||qam||quaque die ante meridiem||||C0585329||vanderbilt_clinic_notes|||1.0
+QAM||QAM||quaque die ante meridiem||||C0585329||vanderbilt_clinic_notes|||1.0
+QAM||Qam||quaque die ante meridiem||||C0585329||vanderbilt_clinic_notes|||1.0
+QAM||q.a.m.||quaque die ante meridiem||||C0585329||vanderbilt_clinic_notes|||1.0
+DHT||DHT||dihydrotesterone||||C0038148||vanderbilt_clinic_notes|||0.011
+DHT||DHT||dobhoff tube||||C3204189||vanderbilt_clinic_notes|||0.989
+DHT||dht||dobhoff tube||||C3204189||vanderbilt_clinic_notes|||0.989
+SAH||SAH||subarachnoid hemorrhage||||C0038525||vanderbilt_clinic_notes|||1.0
+SAH||sah||subarachnoid hemorrhage||||C0038525||vanderbilt_clinic_notes|||1.0
+CPAP||CPAP||continuous positive airway pressure||||C0199451||vanderbilt_clinic_notes|||1.0
+ETD||ETD||eustachian tube dysfunction||||C0271468||vanderbilt_clinic_notes|||1.0
+ETD||etd||eustachian tube dysfunction||||C0271468||vanderbilt_clinic_notes|||1.0
+PHD||pHD||post hemodialysis||||C1264635||vanderbilt_clinic_notes|||0.004
+PHD||phd||doctor of philosophy||||C1512022||vanderbilt_clinic_notes|||0.996
+PHD||PhD||doctor of philosophy||||C1512022||vanderbilt_clinic_notes|||0.996
+PHD||PHD||doctor of philosophy||||C1512022||vanderbilt_clinic_notes|||0.996
+HIPAA||HIPAA||health insurance portability and accountability act||||C0600593||vanderbilt_clinic_notes|||1.0
+NABS||nabs||normo-active bowel sounds||||C0232693||vanderbilt_clinic_notes|||1.0
+NABS||NABS||normo-active bowel sounds||||C0232693||vanderbilt_clinic_notes|||1.0
+URICA||UricA||uric acid||||C0041980||vanderbilt_clinic_notes|||1.0
+NPH||nph||neutral protamine hagedorn||||C0021658||vanderbilt_clinic_notes|||1.0
+NPH||NPH||neutral protamine hagedorn||||C0021658||vanderbilt_clinic_notes|||1.0
+DDAVP||DDAVP||desmopressin||||C0011701||vanderbilt_clinic_notes|||1.0
+DDAVP||ddAVP||desmopressin||||C0011701||vanderbilt_clinic_notes|||1.0
+NEUTAB||NEUTAB||absolute neutrophils||||C0948762||vanderbilt_clinic_notes|||1.0
+ALKP||AlkP||alkaline phosphatase||||C0002059||vanderbilt_clinic_notes|||1.0
+ANGAP||AN-GAP||anion gap||||C0003074||vanderbilt_clinic_notes|||1.0
+ABSCR||Ab-Scr||antibody screen||||C0368676||vanderbilt_clinic_notes|||1.0
+EPO||EPO||erythropoietin||||C0014822||vanderbilt_clinic_notes|||1.0
+EPO||epo||erythropoietin||||C0014822||vanderbilt_clinic_notes|||1.0
+EPO||Epo||erythropoietin||||C0014822||vanderbilt_clinic_notes|||1.0
+PFTS||PFTs||pulmonary function tests||||C0024119||vanderbilt_clinic_notes|||1.0
+PFTS||pfts||pulmonary function tests||||C0024119||vanderbilt_clinic_notes|||1.0
+EPI||Epi||epinephrine||||C0014563||vanderbilt_clinic_notes|||1.0
+EPI||epi||epinephrine||||C0014563||vanderbilt_clinic_notes|||1.0
+EPI||epi.||epinephrine||||C0014563||vanderbilt_clinic_notes|||1.0
+EPI||EPI||epinephrine||||C0014563||vanderbilt_clinic_notes|||1.0
+PRBCS||PRBCs||packed red blood cells||||C2316467||vanderbilt_clinic_notes|||1.0
+PRBCS||pRBCs||packed red blood cells||||C2316467||vanderbilt_clinic_notes|||1.0
+PRBCS||prbcs||packed red blood cells||||C2316467||vanderbilt_clinic_notes|||1.0
+PTINR||PT-inr||prothrombin time/international normalized ratio||||C0033707,C0525032||vanderbilt_clinic_notes|||1.0
+SIMV||SIMV||synchronized intermittent mandatory ventilation||||C0278335||vanderbilt_clinic_notes|||1.0
+BLD||bld||bleeding||||C0019080||vanderbilt_clinic_notes|||0.004
+BLD||Bld||blood||||C0005767||vanderbilt_clinic_notes|||0.996
+BLD||bld||blood||||C0005767||vanderbilt_clinic_notes|||0.996
+BLD||BLD||blood||||C0005767||vanderbilt_clinic_notes|||0.996
+RESP||RESP||respiratory||||C0521346||vanderbilt_clinic_notes|||0.813
+LDH||LDH||lactate dehydrogenase||||C0022917||vanderbilt_clinic_notes|||1.0
+TFT||TFT||thyroid function test||||C0040130||vanderbilt_clinic_notes|||1.0
+TFT||tft||thyroid function test||||C0040130||vanderbilt_clinic_notes|||1.0
+LDL||LDL||low-density lipoprotein||||C0023823||vanderbilt_clinic_notes|||1.0
+LDL||ldl||low-density lipoprotein||||C0023823||vanderbilt_clinic_notes|||1.0
+UBACT||UBact||urinary bacteria||||C1262012||vanderbilt_clinic_notes|||1.0
+MBRAT||MBRat||creatine kinase MB ratio||||C0428616||vanderbilt_clinic_notes|||1.0
+PSYCH||PSYCH||psychiatric/psychiatry||||C0205487||vanderbilt_clinic_notes|||1.0
+PSYCH||Psych||psychiatric/psychiatry||||C0205487||vanderbilt_clinic_notes|||1.0
+PSYCH||psych||psychiatric/psychiatry||||C0205487||vanderbilt_clinic_notes|||1.0
+NG||ng||nanogram||||C0439212||vanderbilt_clinic_notes|||0.536
+NG||NG||nasogastric||||C3282907||vanderbilt_clinic_notes|||0.439
+NG||NG||no growth||||C0445119||vanderbilt_clinic_notes|||0.025
+GLUC||Gluc||glucose||||C0017725||vanderbilt_clinic_notes|||1.0
+RPT||RPT||report||||C0684224||vanderbilt_clinic_notes|||0.883
+RPT||rpt||report||||C0684224||vanderbilt_clinic_notes|||0.883
+RPT||rpt||repeat||||C0205341||vanderbilt_clinic_notes|||0.117
+RPT||Rpt||repeat||||C0205341||vanderbilt_clinic_notes|||0.117
+NTAUTO||NTAuto||neutrophil count, automatic||||C0200633||vanderbilt_clinic_notes|||1.0
+UALB||UAlb||urinary albumin||||C0042038||vanderbilt_clinic_notes|||1.0
+GDL||g/dL||grams per deciliter||||C0439267||vanderbilt_clinic_notes|||1.0
+GDL||g/dl||grams per deciliter||||C0439267||vanderbilt_clinic_notes|||1.0
+BNP||bnp.||brain natriuretic peptide||||C1095989||vanderbilt_clinic_notes|||1.0
+BNP||BNP||brain natriuretic peptide||||C1095989||vanderbilt_clinic_notes|||1.0
+FVC||FVC||forced vital capacity||||C0231958||vanderbilt_clinic_notes|||1.0
+MHAV||MHAV||my health at vanderbilt||||C0018684||vanderbilt_clinic_notes|||1.0
+MHAV||mhav||my health at vanderbilt||||C0018684||vanderbilt_clinic_notes|||1.0
+MHAV||MHaV||my health at vanderbilt||||C0018684||vanderbilt_clinic_notes|||1.0
+GMS||gms||grams||||C0439208||vanderbilt_clinic_notes|||1.0
+NRBC||NRBC||nucleated red blood cells||||C0014762||vanderbilt_clinic_notes|||1.0
+ADL||ADL||activities of daily living||||C0001288||vanderbilt_clinic_notes|||1.0
+ADL||adl||activities of daily living||||C0001288||vanderbilt_clinic_notes|||1.0
+NOS||nos||not otherwise specified||||C1518425||vanderbilt_clinic_notes|||1.0
+NOS||NOS||not otherwise specified||||C1518425||vanderbilt_clinic_notes|||1.0
+NOS||NOS.||not otherwise specified||||C1518425||vanderbilt_clinic_notes|||1.0
+NOS||Nos||not otherwise specified||||C1518425||vanderbilt_clinic_notes|||1.0
+ADJ||adj||adjective||||C0870098||vanderbilt_clinic_notes|||0.008
+ADJ||adj||adjusted||||C0456081||vanderbilt_clinic_notes|||0.949
+ADJ||adj||adjustment||||C0456081||vanderbilt_clinic_notes|||0.022
+ADJ||ADJ||adjustment||||C0456081||vanderbilt_clinic_notes|||0.022
+ADJ||adj.||adjustment||||C0456081||vanderbilt_clinic_notes|||0.022
+ADJ||adj||adjacent||||C0205117||vanderbilt_clinic_notes|||0.021
+PSH||PSH||past surgical history||||C3482452||vanderbilt_clinic_notes|||1.0
+GVHD||gvhd||graft versus host disease||||C0018133||vanderbilt_clinic_notes|||1.0
+GVHD||GVHD||graft versus host disease||||C0018133||vanderbilt_clinic_notes|||1.0
+QWK||QWK||weekly||||C0332174||vanderbilt_clinic_notes|||1.0
+QWK||qwk||weekly||||C0332174||vanderbilt_clinic_notes|||1.0
+AML||AML||acute myelogenous leukemia||||C0023467||vanderbilt_clinic_notes|||1.0
+AP||A/P||anterior/posterior||||C1999039||vanderbilt_clinic_notes|||0.0331
+AP||A/P||abdomen/pelvis||||C1508499||vanderbilt_clinic_notes|||0.008
+AP||A/P||assessment/plan||||C1827496||vanderbilt_clinic_notes|||0.9589
+MOS||mos||months||||C0439231||vanderbilt_clinic_notes|||1.0
+MOS||MOS||months||||C0439231||vanderbilt_clinic_notes|||1.0
+WA||w/a||wide awake||||C0234422||vanderbilt_clinic_notes|||0.1111
+WA||w/a||with a||||||vanderbilt_clinic_notes|||0.8889
+BID||bid||bis in die||||C0585361||vanderbilt_clinic_notes|||1.0
+BID||BID||bis in die||||C0585361||vanderbilt_clinic_notes|||1.0
+PSA||PSA||pseudomonas aeruginosa||||C0033809||vanderbilt_clinic_notes|||0.007
+PSA||psa||prostate-specific antigen||||C0138741||vanderbilt_clinic_notes|||0.993
+PSA||PSA||prostate-specific antigen||||C0138741||vanderbilt_clinic_notes|||0.993
+LCX||LCX||left circumflex||||C1305727||vanderbilt_clinic_notes|||1.0
+LCX||LCx||left circumflex||||C1305727||vanderbilt_clinic_notes|||1.0
+CF||CF||cold formula||||C0307698||vanderbilt_clinic_notes|||0.0031
+CF||CF||cystic fibrosis||||C0010674||vanderbilt_clinic_notes|||0.9969
+TID||TID||ter in die||||C0556984||vanderbilt_clinic_notes|||1.0
+TID||tid||ter in die||||C0556984||vanderbilt_clinic_notes|||1.0
+MON||Mon||monday||||C0585024||vanderbilt_clinic_notes|||1.0
+MOM||mom||milk of magnesia||||C0591789||vanderbilt_clinic_notes|||0.036
+MOM||mom||mother||||C0026591||vanderbilt_clinic_notes|||0.964
+MOM||Mom||mother||||C0026591||vanderbilt_clinic_notes|||0.964
+BIPAP||BiPAP||bilevel positive airway pressure||||C1611149||vanderbilt_clinic_notes|||1.0
+BIPAP||BIPAP||bilevel positive airway pressure||||C1611149||vanderbilt_clinic_notes|||1.0
+AMS||AMS||altered mental status||||C0278061||vanderbilt_clinic_notes|||1.0
+UCX||UCX||urine culture||||C0430404||vanderbilt_clinic_notes|||1.0
+UCX||UCx||urine culture||||C0430404||vanderbilt_clinic_notes|||1.0
+UCX||Ucx||urine culture||||C0430404||vanderbilt_clinic_notes|||1.0
+UCX||ucx||urine culture||||C0430404||vanderbilt_clinic_notes|||1.0
+NR||NR||no refills||||C0205160,C0807726||vanderbilt_clinic_notes|||0.6757
+NR||nr||no refills||||C0205160,C0807726||vanderbilt_clinic_notes|||0.6757
+NR||NR||normal rhythm||||C0231315||vanderbilt_clinic_notes|||0.2061
+NR||NR||nonreactive||||C1295728||vanderbilt_clinic_notes|||0.1182
+TRPI||TRPI||troponin 1||||C0041199||vanderbilt_clinic_notes|||1.0
+TRPI||TrpI||troponin 1||||C0041199||vanderbilt_clinic_notes|||1.0
+BPD||BPD||bronchopulmonary dysplasia||||C0006287||vanderbilt_clinic_notes|||1.0
+BPD||bpd||bronchopulmonary dysplasia||||C0006287||vanderbilt_clinic_notes|||1.0
+GBS||GBS||group b streptococcus||||C0579233||vanderbilt_clinic_notes|||0.926
+GBS||gbs||group b streptococcus||||C0579233||vanderbilt_clinic_notes|||0.926
+GBS||GBS||grgroup b streptococcus||||C0318154||vanderbilt_clinic_notes|||0.054
+GBS||GBS||guillain-barre syndrome||||C0018378||vanderbilt_clinic_notes|||0.02
+HDLC||HDL-C||high-density lipoprotein cholesterol||||C0023822||vanderbilt_clinic_notes|||1.0
+BPM||bpm||beats per minute||||C0439385||vanderbilt_clinic_notes|||0.646
+BPM||bpm||breaths per minute||||C0439386||vanderbilt_clinic_notes|||0.354
+BPS||bps||beats per second||||||vanderbilt_clinic_notes|||0.006
+BPS||BPs||blood pressures||||C0005823||vanderbilt_clinic_notes|||0.994
+BPS||bps||blood pressures||||C0005823||vanderbilt_clinic_notes|||0.994
+WBC||WBC||white blood cell||||C0023516||vanderbilt_clinic_notes|||1.0
+WBC||wbc||white blood cell||||C0023516||vanderbilt_clinic_notes|||1.0
+BPH||BPH||benign prostatic hyperplasia||||C0005001||vanderbilt_clinic_notes|||1.0
+EEG||EEG||electroencephalogram||||C1527380,C1547121||vanderbilt_clinic_notes|||1.0
+EEG||eeg||electroencephalogram||||C1527380,C1547121||vanderbilt_clinic_notes|||1.0
+KWB||K-WB||potassium whole blood||||C2702996||vanderbilt_clinic_notes|||1.0
+TAH||tah||total abdominal hysterectomy||||C0404079||vanderbilt_clinic_notes|||1.0
+TAH||TAH||total abdominal hysterectomy||||C0404079||vanderbilt_clinic_notes|||1.0
+VSS||VSS||visual swallow study||||C0412102||vanderbilt_clinic_notes|||0.0102
+VSS||VSS||vital signs stable||||C0277803||vanderbilt_clinic_notes|||0.9898
+VSS||vss||vital signs stable||||C0277803||vanderbilt_clinic_notes|||0.9898
+MOHS||Mohs||MOHS surgery||||C0079850||vanderbilt_clinic_notes|||1.0
+MOHS||MOHS||MOHS surgery||||C0079850||vanderbilt_clinic_notes|||1.0
+URBC||URBC||urine red blood cells||||C0221752||vanderbilt_clinic_notes|||1.0
+FEV1||FEV1||forced expiratory volume in 1 second||||C0429706||vanderbilt_clinic_notes|||1.0
+FEV1||fev1||forced expiratory volume in 1 second||||C0429706||vanderbilt_clinic_notes|||1.0
+CABG||CABG||coronary artery bypass grafting||||C0010055||vanderbilt_clinic_notes|||1.0
+RETABS||RetAbs||reticulocyte antibodies||||C0035286,C0003241||vanderbilt_clinic_notes|||1.0
+VSD||VSD||ventricular septal defect||||C0018818||vanderbilt_clinic_notes|||1.0
+VSD||vsd||ventricular septal defect||||C0018818||vanderbilt_clinic_notes|||1.0
+B1||b1||vitamin B1 (thiamine)||||C0039840||vanderbilt_clinic_notes|||1.0
+B1||B1||vitamin B1 (thiamine)||||C0039840||vanderbilt_clinic_notes|||1.0
+DIFF||diff||difficulty||||C1299586||vanderbilt_clinic_notes|||0.002
+DIFF||diff||difficile||||C0079134||vanderbilt_clinic_notes|||0.469
+DIFF||diff||differential||||C0443199||vanderbilt_clinic_notes|||0.529
+DIFF||Diff||differential||||C0443199||vanderbilt_clinic_notes|||0.529
+PHYS||PHYS||physician||||C0031831||vanderbilt_clinic_notes|||0.003
+PHYS||Phys||physics||||C0031837||vanderbilt_clinic_notes|||0.003
+PHYS||Phys||physical||||C0205485||vanderbilt_clinic_notes|||0.994
+PHYS||phys||physical||||C0205485||vanderbilt_clinic_notes|||0.994
+HCL||HCl||hydrochloride||||C1512523||vanderbilt_clinic_notes|||1.0
+HCL||HCL||hydrochloride||||C1512523||vanderbilt_clinic_notes|||1.0
+HCL||hcl||hydrochloride||||C1512523||vanderbilt_clinic_notes|||1.0
+MRSA||MRSA||methicillin resistant staphylococcus aureus||||C1265292||vanderbilt_clinic_notes|||1.0
+GVH||gvh||graft versus host||||C0018133||vanderbilt_clinic_notes|||1.0
+GVH||GVH||graft versus host||||C0018133||vanderbilt_clinic_notes|||1.0
+TMS||TMs||tympanic membranes||||C1268971||vanderbilt_clinic_notes|||1.0
+TMS||tms||tympanic membranes||||C1268971||vanderbilt_clinic_notes|||1.0
+CNS||CNS||coagulase negative staphylococcus||||C0445625||vanderbilt_clinic_notes|||0.3363
+CNS||CNS||central nervous system||||C0927232||vanderbilt_clinic_notes|||0.6637
+TL||T/L||thoracic/lumbar||||C0450219||vanderbilt_clinic_notes|||1.0
+TL||t/l||thoracic/lumbar||||C0450219||vanderbilt_clinic_notes|||1.0
+PET||pet||pet animal||||C0031268||vanderbilt_clinic_notes|||0.007
+PET||Pet||pet animal||||C0031268||vanderbilt_clinic_notes|||0.007
+PET||PET||pressure equalization tubes||||C2090933||vanderbilt_clinic_notes|||0.044
+PET||PET||positron emission tomography||||C0032743||vanderbilt_clinic_notes|||0.949
+ICA||iCa||ionized calcium||||C0373561||vanderbilt_clinic_notes|||0.032
+ICA||ICa||ionized calcium||||C0373561||vanderbilt_clinic_notes|||0.032
+ICA||ica||ionized calcium||||C0373561||vanderbilt_clinic_notes|||0.032
+ICA||ICA||internal carotid artery||||C0007276||vanderbilt_clinic_notes|||0.968
+ICA||ica||internal carotid artery||||C0007276||vanderbilt_clinic_notes|||0.968
+ICD||ICD||international classification of diseases||||C0870733||vanderbilt_clinic_notes|||0.134
+ICD||ICD||implantable cardioverter-defibrillator||||C0162589||vanderbilt_clinic_notes|||0.866
+MEDS||Meds||medications||||C0013227||vanderbilt_clinic_notes|||1.0
+MEDS||meds||medications||||C0013227||vanderbilt_clinic_notes|||1.0
+MEDS||meds.||medications||||C0013227||vanderbilt_clinic_notes|||1.0
+MEDS||MEDS||medications||||C0013227||vanderbilt_clinic_notes|||1.0
+EOABS||EoAbs||absolute eosinophils||||C0200638||vanderbilt_clinic_notes|||1.0
+T12||T12||thoracic twelve||||C0223371||vanderbilt_clinic_notes|||1.0
+TMG||TMG||toxic multinodular goiter||||C0154143||vanderbilt_clinic_notes|||1.0
+PED||ped||pediatric||||C1521725||vanderbilt_clinic_notes|||1.0
+PED||Ped||pediatric||||C1521725||vanderbilt_clinic_notes|||1.0
+L2||L2||lumbar 2||||C1305242||vanderbilt_clinic_notes|||0.9726
+L2||L2||2 living children||||C2229975,C0205448||vanderbilt_clinic_notes|||0.0274
+TMJ||TMJ||temporomandibular joint||||C0039493||vanderbilt_clinic_notes|||1.0
+PEG||PEG||polyethylene glycol||||C0032483||vanderbilt_clinic_notes|||0.0091
+PEG||PEG||percutaneous endoscopic gastrostomy||||C0176751||vanderbilt_clinic_notes|||0.9909
+PEG||Peg||percutaneous endoscopic gastrostomy||||C0176751||vanderbilt_clinic_notes|||0.9909
+PEG||peg||percutaneous endoscopic gastrostomy||||C0176751||vanderbilt_clinic_notes|||0.9909
+O2||O2||oxygen||||C0030054||vanderbilt_clinic_notes|||1.0
+ICU||ICU||intensive care unit||||C0021708||vanderbilt_clinic_notes|||1.0
+ICU||icu||intensive care unit||||C0021708||vanderbilt_clinic_notes|||1.0
+BD||BD||bronchodilator||||C0006280||vanderbilt_clinic_notes|||0.24
+BD||BD||bone density||||C0005938||vanderbilt_clinic_notes|||0.76
+BD||bd||bone density||||C0005938||vanderbilt_clinic_notes|||0.76
+PLT||Plt||platelet||||C0005821||vanderbilt_clinic_notes|||1.0
+PLT||plt||platelet||||C0005821||vanderbilt_clinic_notes|||1.0
+PLT||PLT||platelet||||C0005821||vanderbilt_clinic_notes|||1.0
+PLS||pls||please||||||vanderbilt_clinic_notes|||1.0
+PLS||Pls||please||||||vanderbilt_clinic_notes|||1.0
+EGS||EGS||emergency general surgery||||C0184893||vanderbilt_clinic_notes|||1.0
+RUL||RUL||right upper lobe||||C1261074||vanderbilt_clinic_notes|||0.996
+RUL||rul||right upper lobe||||C1261074||vanderbilt_clinic_notes|||0.996
+RUL||RUL||right upper lid||||C1289021||vanderbilt_clinic_notes|||0.004
+BC||BC||blood glucose||||C0005802||vanderbilt_clinic_notes|||0.0073
+BC||BC||blood culture||||C0200949||vanderbilt_clinic_notes|||0.818
+BC||bc||blood culture||||C0200949||vanderbilt_clinic_notes|||0.818
+BC||BC||blue cross||||C0005864||vanderbilt_clinic_notes|||0.0073
+BC||BC||blast crisis||||C0005699||vanderbilt_clinic_notes|||0.0085
+BC||BC||cimino-brescia||||C1142577||vanderbilt_clinic_notes|||0.0024
+BC||BC||birth control||||C0700589||vanderbilt_clinic_notes|||0.0291
+BC||BC||buffy coat||||C0443089||vanderbilt_clinic_notes|||0.1274
+BL||BL||body length||||C0005890||vanderbilt_clinic_notes|||0.0086
+BL||Bl||blood||||C0005767||vanderbilt_clinic_notes|||0.1305
+BL||bl||blood||||C0005767||vanderbilt_clinic_notes|||0.1305
+BL||BL||blood||||C0005767||vanderbilt_clinic_notes|||0.1305
+BL||BL||bilateral||||C0238767||vanderbilt_clinic_notes|||0.8608
+BL||bL||bilateral||||C0238767||vanderbilt_clinic_notes|||0.8608
+BL||bl||bilateral||||C0238767||vanderbilt_clinic_notes|||0.8608
+BM||BM||bone marrow||||C0005953||vanderbilt_clinic_notes|||0.1472
+BM||bm||bone marrow||||C0005953||vanderbilt_clinic_notes|||0.1472
+BM||BM||bowel movement||||C0011135||vanderbilt_clinic_notes|||0.8528
+HSM||HSM||hepatosplenomegaly||||C0019214||vanderbilt_clinic_notes|||1.0
+HSM||hsm||hepatosplenomegaly||||C0019214||vanderbilt_clinic_notes|||1.0
+CGY||cGy||centigray||||C0556645||vanderbilt_clinic_notes|||1.0
+BP||BP||blood pressure||||C0005823||vanderbilt_clinic_notes|||1.0
+BP||B.P||blood pressure||||C0005823||vanderbilt_clinic_notes|||1.0
+BS||BS||bowel sounds||||C0232693||vanderbilt_clinic_notes|||0.9013
+BS||BS||breath sounds||||C0035234||vanderbilt_clinic_notes|||0.0903
+BS||bs||breath sounds||||C0035234||vanderbilt_clinic_notes|||0.0903
+BS||Bs||b grades (plural)||||C0441806||vanderbilt_clinic_notes|||0.0042
+BS||bs||blood sugar||||C0005802||vanderbilt_clinic_notes|||0.0042
+BS||BS||blood sugar||||C0005802||vanderbilt_clinic_notes|||0.0042
+BTL||BTL||bilateral tubal ligation||||C0589114||vanderbilt_clinic_notes|||1.0
+BTL||btl||bilateral tubal ligation||||C0589114||vanderbilt_clinic_notes|||1.0
+NML||NML||normal||||C0205307||vanderbilt_clinic_notes|||1.0
+NML||nml||normal||||C0205307||vanderbilt_clinic_notes|||1.0
+RUQ||RUQ||right upper quadrant||||C0439734||vanderbilt_clinic_notes|||1.0
+BX||Bx||biopsy||||C0005558||vanderbilt_clinic_notes|||1.0
+BX||bx||biopsy||||C0005558||vanderbilt_clinic_notes|||1.0
+BX||BX||biopsy||||C0005558||vanderbilt_clinic_notes|||1.0
+DCS||DCS||department of children's services||||C0680063,C1704729,C0029039,C0557854,C1547116||vanderbilt_clinic_notes|||0.997
+DCS||DCS||detachable coil system||||C1705946||vanderbilt_clinic_notes|||0.003
+VPEC||VPEC||vanderbilt preoperative evaluation center||||C1293091,C0205099||vanderbilt_clinic_notes|||1.0
+OM||OM||obtuse marginal||||C0226040||vanderbilt_clinic_notes|||0.157
+OM||OM||otitis media||||C0029882||vanderbilt_clinic_notes|||0.843
+CHF||CHF||congestive heart failure||||C0018802||vanderbilt_clinic_notes|||1.0
+ACE||ACE||angiotensin converting enzyme||||C0201888||vanderbilt_clinic_notes|||0.9638
+ACE||ace||angiotensin converting enzyme||||C0201888||vanderbilt_clinic_notes|||0.9638
+ACE||ace||acetate||||C0000975||vanderbilt_clinic_notes|||0.0362
+IBD||IBD||inflammatory bowel disease||||C0021390||vanderbilt_clinic_notes|||1.0
+IBD||ibd||inflammatory bowel disease||||C0021390||vanderbilt_clinic_notes|||1.0
+SCDS||SCDs||sequential compression devices||||C0180062||vanderbilt_clinic_notes|||1.0
+SCDS||scds||sequential compression devices||||C0180062||vanderbilt_clinic_notes|||1.0
+SCDS||Scds||sequential compression devices||||C0180062||vanderbilt_clinic_notes|||1.0
+OD||OD||oculus dexter||||C0229089||vanderbilt_clinic_notes|||0.991
+OD||od||oculus dexter||||C0229089||vanderbilt_clinic_notes|||0.991
+OD||OD||optical density||||C0439164||vanderbilt_clinic_notes|||0.009
+CHOL||Chol||cholesterol||||C0008377||vanderbilt_clinic_notes|||1.0
+CHOL||chol||cholesterol||||C0008377||vanderbilt_clinic_notes|||1.0
+CHOL||CHol||cholesterol||||C0008377||vanderbilt_clinic_notes|||1.0
+OB||ob||obstetric/obstetrical||||C0205484||vanderbilt_clinic_notes|||1.0
+OB||Ob||obstetric/obstetrical||||C0205484||vanderbilt_clinic_notes|||1.0
+OB||OB||obstetric/obstetrical||||C0205484||vanderbilt_clinic_notes|||1.0
+OA||OA||osteoarthritis||||C0029408||vanderbilt_clinic_notes|||1.0
+ACL||ACL||anterior cruciate ligament||||C0078960||vanderbilt_clinic_notes|||0.9949
+ACL||ACL||acromioclavicular ligament||||C1267179||vanderbilt_clinic_notes|||0.0051
+LE||Le||le bonheur||||||vanderbilt_clinic_notes|||0.002
+LE||LE||leukocyte esterase||||C0125619||vanderbilt_clinic_notes|||0.008
+LE||LE||lower extremity||||C0023216||vanderbilt_clinic_notes|||0.99
+LE||LE.||lower extremity||||C0023216||vanderbilt_clinic_notes|||0.99
+BGS||BGs||blood glucose||||C0005802||vanderbilt_clinic_notes|||1.0
+BGS||Bgs||blood glucose||||C0005802||vanderbilt_clinic_notes|||1.0
+BGS||bgs||blood glucose||||C0005802||vanderbilt_clinic_notes|||1.0
+BMBX||BMBx||bone marrow biopsy||||C0005954||vanderbilt_clinic_notes|||1.0
+BMBX||bmbx||bone marrow biopsy||||C0005954||vanderbilt_clinic_notes|||1.0
+BMBX||BMBX||bone marrow biopsy||||C0005954||vanderbilt_clinic_notes|||1.0
+BMBX||BmBx||bone marrow biopsy||||C0005954||vanderbilt_clinic_notes|||1.0
+BMBX||Bmbx||bone marrow biopsy||||C0005954||vanderbilt_clinic_notes|||1.0
+BMBX||BMbx||bone marrow biopsy||||C0005954||vanderbilt_clinic_notes|||1.0
+OV||OV||office visit||||C0028900||vanderbilt_clinic_notes|||0.984
+OV||ov||office visit||||C0028900||vanderbilt_clinic_notes|||0.984
+OV||Ov||office visit||||C0028900||vanderbilt_clinic_notes|||0.984
+OV||ov||ovarian||||C0205065||vanderbilt_clinic_notes|||0.016
+OT||OT||occupational therapy||||C1318464||vanderbilt_clinic_notes|||1.0
+OS||Os||outputs||||C0221102||vanderbilt_clinic_notes|||0.1174
+OS||OS||oculus sinister||||C0229090||vanderbilt_clinic_notes|||0.8826
+OS||os||oculus sinister||||C0229090||vanderbilt_clinic_notes|||0.8826
+OBS||obs||obstructive||||C0549186||vanderbilt_clinic_notes|||0.002
+OBS||Obs||observation||||C1571702||vanderbilt_clinic_notes|||0.996
+OBS||obs||observation||||C1571702||vanderbilt_clinic_notes|||0.996
+OBS||OBS||organic brain syndrome||||C0029221||vanderbilt_clinic_notes|||0.002
+OP||OP||operation||||C0543467||vanderbilt_clinic_notes|||0.376
+OP||OP||oropharynx||||C1280659||vanderbilt_clinic_notes|||0.617
+OP||OP||outpatient||||C0029921||vanderbilt_clinic_notes|||0.003
+OP||OP||osteoporosis||||C0029456||vanderbilt_clinic_notes|||0.004
+DEXA||dexa||dual-energy x-ray absorptiometry||||C1510486||vanderbilt_clinic_notes|||1.0
+DEXA||Dexa||dual-energy x-ray absorptiometry||||C1510486||vanderbilt_clinic_notes|||1.0
+DEXA||DEXA||dual-energy x-ray absorptiometry||||C1510486||vanderbilt_clinic_notes|||1.0
+SOB||sob||shortness of breath||||C0013404||vanderbilt_clinic_notes|||1.0
+SOB||SOB||shortness of breath||||C0013404||vanderbilt_clinic_notes|||1.0
+PPD||ppd||pack per day||||C0489469||vanderbilt_clinic_notes|||0.921
+PPD||PPD||pack per day||||C0489469||vanderbilt_clinic_notes|||0.921
+PPD||PPD||purified protein derivative||||C0034131||vanderbilt_clinic_notes|||0.079
+PPI||PPI||peripheral pulses intact||||||vanderbilt_clinic_notes|||0.006
+PPI||PPI||proton pump inhibitor||||C0358591||vanderbilt_clinic_notes|||0.994
+PPI||ppi||proton pump inhibitor||||C0358591||vanderbilt_clinic_notes|||0.994
+NSR||NSR||normal sinus rhythm||||C0232202||vanderbilt_clinic_notes|||1.0
+NSR||nsr||normal sinus rhythm||||C0232202||vanderbilt_clinic_notes|||1.0
+PPX||ppx||prophylaxis||||C0033107||vanderbilt_clinic_notes|||1.0
+PPX||PPx||prophylaxis||||C0033107||vanderbilt_clinic_notes|||1.0
+PPX||PPX||prophylaxis||||C0033107||vanderbilt_clinic_notes|||1.0
+WOCN||wocn||wound, ostomy, and continence nurses||||C0043250,C0029473,C0587710||vanderbilt_clinic_notes|||1.0
+WOCN||WOCN||wound, ostomy, and continence nurses||||C0043250,C0029473,C0587710||vanderbilt_clinic_notes|||1.0
+WOCN||Wocn||wound, ostomy, and continence nurses||||C0043250,C0029473,C0587710||vanderbilt_clinic_notes|||1.0
+EENT||EENT||eye, ear, nose, and throat||||C2360548||vanderbilt_clinic_notes|||1.0
+HEP||HEP||home exercise program||||C0475647||vanderbilt_clinic_notes|||0.017
+HEP||HEP||hepatitis||||C0019158||vanderbilt_clinic_notes|||0.96
+CATH||cath||catheter||||C0085590||vanderbilt_clinic_notes|||0.081
+CATH||CATH||catheter||||C0085590||vanderbilt_clinic_notes|||0.081
+CATH||cath||catheterization||||C0007430||vanderbilt_clinic_notes|||0.919
+VAC||VAC||vacuum assisted closure||||C1956080||vanderbilt_clinic_notes|||0.883
+VAC||vac||vacuum assisted closure||||C1956080||vanderbilt_clinic_notes|||0.883
+VAC||Vac||vacuum assisted closure||||C1956080||vanderbilt_clinic_notes|||0.883
+VAC||vac||vaccine||||C0042210||vanderbilt_clinic_notes|||0.117
+VAC||VAC||vaccine||||C0042210||vanderbilt_clinic_notes|||0.117
+VAC||Vac||vaccine||||C0042210||vanderbilt_clinic_notes|||0.117
+APPT||appt||appointment||||C0003629||vanderbilt_clinic_notes|||1.0
+APPT||Appt||appointment||||C0003629||vanderbilt_clinic_notes|||1.0
+APPT||appt.||appointment||||C0003629||vanderbilt_clinic_notes|||1.0
+IVDA||IVDA||intravenous drug abuse||||C0086181||vanderbilt_clinic_notes|||1.0
+IVDA||ivda||intravenous drug abuse||||C0086181||vanderbilt_clinic_notes|||1.0
+ABNL||abnl.||abnormal||||C0205161||vanderbilt_clinic_notes|||1.0
+ABNL||abnl||abnormal||||C0205161||vanderbilt_clinic_notes|||1.0
+DM2||DM2||diabetes mellitus type 2||||C0011860||vanderbilt_clinic_notes|||1.0
+VAR||var||variant||||C0205419||vanderbilt_clinic_notes|||1.0
+VAR||var.||variant||||C0205419||vanderbilt_clinic_notes|||1.0
+NGTD||NGTD||no growth to date||||C0445119||vanderbilt_clinic_notes|||1.0
+NGTD||ngtd.||no growth to date||||C0445119||vanderbilt_clinic_notes|||1.0
+NGTD||ngtd||no growth to date||||C0445119||vanderbilt_clinic_notes|||1.0
+EHL||EHL||extensor hallucis longus||||C0224466||vanderbilt_clinic_notes|||1.0
+EHL||ehl||extensor hallucis longus||||C0224466||vanderbilt_clinic_notes|||1.0
+YRS||yrs||years||||C0439234||vanderbilt_clinic_notes|||1.0
+YRS||YRS||years||||C0439234||vanderbilt_clinic_notes|||1.0
+RCA||RCA||right coronary artery||||C0226042||vanderbilt_clinic_notes|||1.0
+Q12||Q12||every 12 hours||||C0585327||vanderbilt_clinic_notes|||1.0
+Q12||q12||every 12 hours||||C0585327||vanderbilt_clinic_notes|||1.0
+STSG||STSG.||split thickness skin graft||||C0439061||vanderbilt_clinic_notes|||1.0
+STSG||STSG||split thickness skin graft||||C0439061||vanderbilt_clinic_notes|||1.0
+STSG||stsg.||split thickness skin graft||||C0439061||vanderbilt_clinic_notes|||1.0
+STSG||stsg||split thickness skin graft||||C0439061||vanderbilt_clinic_notes|||1.0
+HZ||hz||hertz||||C0439482||vanderbilt_clinic_notes|||1.0
+HZ||Hz||hertz||||C0439482||vanderbilt_clinic_notes|||1.0
+HZ||HZ||hertz||||C0439482||vanderbilt_clinic_notes|||1.0
+HX||Hx||history||||C2004062||vanderbilt_clinic_notes|||1.0
+HX||hx||history||||C2004062||vanderbilt_clinic_notes|||1.0
+HX||HX||history||||C2004062||vanderbilt_clinic_notes|||1.0
+HX||hx.||history||||C2004062||vanderbilt_clinic_notes|||1.0
+HR||HR||heart rate||||C0018810||vanderbilt_clinic_notes|||0.135
+HR||H.R||heart rate||||C0018810||vanderbilt_clinic_notes|||0.135
+HR||hr||hour||||C0439227||vanderbilt_clinic_notes|||0.865
+HR||Hr||hour||||C0439227||vanderbilt_clinic_notes|||0.865
+HS||HS||high school||||C0870649||vanderbilt_clinic_notes|||0.0213
+HS||HS||heart sounds||||C0018820||vanderbilt_clinic_notes|||0.0264
+HS||hs||heart sounds||||C0018820||vanderbilt_clinic_notes|||0.0264
+HS||HS||heel-shin||||C0575094||vanderbilt_clinic_notes|||0.0294
+HS||hs||hora somni||||C0521112||vanderbilt_clinic_notes|||0.9157
+HS||HS||hora somni||||C0521112||vanderbilt_clinic_notes|||0.9157
+HS||H.S||half strength||||C1705922||vanderbilt_clinic_notes|||0.0071
+EAC||EAC||external acoustic meatus||||C0013444||vanderbilt_clinic_notes|||1.0
+DNR||DNR||do not resuscitate||||C0582114||vanderbilt_clinic_notes|||1.0
+HT||Ht||height||||C0489786||vanderbilt_clinic_notes|||1.0
+HT||ht||height||||C0489786||vanderbilt_clinic_notes|||1.0
+MSG||msg||monosodium glutamate||||C0037511||vanderbilt_clinic_notes|||0.006
+MSG||MSG||monosodium glutamate||||C0037511||vanderbilt_clinic_notes|||0.006
+MSG||msg||message||||C0470166||vanderbilt_clinic_notes|||0.994
+MSG||Msg||message||||C0470166||vanderbilt_clinic_notes|||0.994
+MSG||MSG||message||||C0470166||vanderbilt_clinic_notes|||0.994
+MSG||msg.||message||||C0470166||vanderbilt_clinic_notes|||0.994
+CRYO||cryo||cryosurgery||||C0010408||vanderbilt_clinic_notes|||0.0291
+CRYO||cryo||cryoprecipitate||||C0443121||vanderbilt_clinic_notes|||0.9709
+CRYO||Cryo||cryoprecipitate||||C0443121||vanderbilt_clinic_notes|||0.9709
+BUN||BUN||blood urea nitrogen||||C0600137||vanderbilt_clinic_notes|||1.0
+PBSCT||PBSCT||peripheral blood stem cell transplant||||C1519005||vanderbilt_clinic_notes|||1.0
+PBSCT||pbsct||peripheral blood stem cell transplant||||C1519005||vanderbilt_clinic_notes|||1.0
+LYMPH||Lymph||lymphatic||||C1522604||vanderbilt_clinic_notes|||1.0
+LYMPH||LYMPH||lymphatic||||C1522604||vanderbilt_clinic_notes|||1.0
+LYMPH||lymph||lymphatic||||C1522604||vanderbilt_clinic_notes|||1.0
+KG||kg||kilogram||||C0439209||vanderbilt_clinic_notes|||1.0
+KG||Kg||kilogram||||C0439209||vanderbilt_clinic_notes|||1.0
+KG||KG||kilogram||||C0439209||vanderbilt_clinic_notes|||1.0
+HA||ha||headache||||C0018681||vanderbilt_clinic_notes|||1.0
+HA||HA||headache||||C0018681||vanderbilt_clinic_notes|||1.0
+HA||Ha||headache||||C0018681||vanderbilt_clinic_notes|||1.0
+SDH||SDH||subdural hematoma||||C0018946||vanderbilt_clinic_notes|||1.0
+SDH||sdh||subdural hematoma||||C0018946||vanderbilt_clinic_notes|||1.0
+HG||Hg||mercury||||C2347108||vanderbilt_clinic_notes|||0.998
+HG||Hg||hemoglobin||||C0019046||vanderbilt_clinic_notes|||0.002
+HD||HD||hospital day||||C0587438||vanderbilt_clinic_notes|||0.6893
+HD||HD||hemodynamically||||C0019010||vanderbilt_clinic_notes|||0.0041
+HD||HD||high dose||||C0444956||vanderbilt_clinic_notes|||0.0832
+HD||HD||hemodialysis||||C0019004||vanderbilt_clinic_notes|||0.2234
+BUE||BUE||bilateral upper extremity||||C1140618||vanderbilt_clinic_notes|||1.0
+BUE||bue||bilateral upper extremity||||C1140618||vanderbilt_clinic_notes|||1.0
+PULM||Pulm||pulmonary||||C0024109||vanderbilt_clinic_notes|||1.0
+PULM||PULM||pulmonary||||C0024109||vanderbilt_clinic_notes|||1.0
+PULM||pulm||pulmonary||||C0024109||vanderbilt_clinic_notes|||1.0
+MTX||MTX||methotrexate||||C0025677||vanderbilt_clinic_notes|||1.0
+FDG||FDG||fluorodeoxyglucose||||C0872172||vanderbilt_clinic_notes|||0.295
+FDG||fdg||feeding||||C0204695||vanderbilt_clinic_notes|||0.705
+SUPP||supp.||supplement||||C2348609||vanderbilt_clinic_notes|||0.1148
+MTP||MTP||metatarsophalangeal||||C0025589||vanderbilt_clinic_notes|||1.0
+UTI||UTI||urinary tract infection||||C0042029||vanderbilt_clinic_notes|||1.0
+UTI||uti||urinary tract infection||||C0042029||vanderbilt_clinic_notes|||1.0
+UN||un||units||||C0439148||vanderbilt_clinic_notes|||1.0
+UN||Un||units||||C0439148||vanderbilt_clinic_notes|||1.0
+UWBC||UWBC||urinary white blood cells||||C0919738||vanderbilt_clinic_notes|||1.0
+UE||UE||upper extremities||||C1140618||vanderbilt_clinic_notes|||1.0
+ASST||asst||assistant||||C0334914||vanderbilt_clinic_notes|||0.878
+ASST||Asst||assistant||||C0334914||vanderbilt_clinic_notes|||0.878
+ASST||ASST||assistant||||C0334914||vanderbilt_clinic_notes|||0.878
+ASST||asst||assistance||||C0018896||vanderbilt_clinic_notes|||0.031
+ASST||Asst||assistance||||C0018896||vanderbilt_clinic_notes|||0.031
+ASST||asst||assisted||||C1269765||vanderbilt_clinic_notes|||0.091
+ASST||asst.||assisted||||C1269765||vanderbilt_clinic_notes|||0.091
+UF||UF||ultra fine||||C0077801||vanderbilt_clinic_notes|||1.0
+UA||UA||urinalysis||||C0042014||vanderbilt_clinic_notes|||1.0
+LVH||LVH||left ventricular hypertrophy||||C0149721||vanderbilt_clinic_notes|||1.0
+XRAY||X-Ray||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAY||X-RAY||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAY||X-ray||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+XRAY||x-ray||energetic high-frequency electromagnetic radiation||||C0337030||vanderbilt_clinic_notes|||1.0
+AA||AA||alcoholics anonymous||||C0001972||vanderbilt_clinic_notes|||0.3741
+AA||aa||amino acid||||C0002520||vanderbilt_clinic_notes|||0.1775
+AA||AA||amino acid||||C0002520||vanderbilt_clinic_notes|||0.1775
+AA||AA||awake alert||||C2226610||vanderbilt_clinic_notes|||0.1785
+AA||aa||aortic atresia||||C0265889||vanderbilt_clinic_notes|||0.0223
+AA||AA||african american||||C0085756||vanderbilt_clinic_notes|||0.2476
+CBC||cbc||complete blood count||||C0009555||vanderbilt_clinic_notes|||1.0
+CBC||CBc||complete blood count||||C0009555||vanderbilt_clinic_notes|||1.0
+CBC||CBC||complete blood count||||C0009555||vanderbilt_clinic_notes|||1.0
+AC||ac||antecubital||||C1549091||vanderbilt_clinic_notes|||0.013
+AC||AC||antecubital||||C1549091||vanderbilt_clinic_notes|||0.013
+AC||ac||ante cibum||||C1550738||vanderbilt_clinic_notes|||0.7565
+AC||AC||ante cibum||||C1550738||vanderbilt_clinic_notes|||0.7565
+AC||AC||anterior chamber||||C0003151||vanderbilt_clinic_notes|||0.0165
+AC||AC||cyclophosphamide, doxorubicin||||C0050385||vanderbilt_clinic_notes|||0.0225
+AC||AC||assist control||||C0419014||vanderbilt_clinic_notes|||0.0189
+AC||AC||hb ac disease||||C0248175||vanderbilt_clinic_notes|||0.0035
+AC||AC||acromioclavicular joint||||C0001208||vanderbilt_clinic_notes|||0.169
+AB||AB||antibody||||C0003241||vanderbilt_clinic_notes|||0.951
+AB||ab||antibody||||C0003241||vanderbilt_clinic_notes|||0.951
+AB||Ab||antibody||||C0003241||vanderbilt_clinic_notes|||0.951
+AB||AB||antibiotics||||C0003232||vanderbilt_clinic_notes|||0.005
+AB||Ab||abortion||||C0156543||vanderbilt_clinic_notes|||0.029
+AB||Ab||abdomen||||C1281594||vanderbilt_clinic_notes|||0.015
+AG||AG||anion gap||||C0003074||vanderbilt_clinic_notes|||0.0199
+AG||Ag||antigen||||C0003320||vanderbilt_clinic_notes|||0.9801
+AG||AG||antigen||||C0003320||vanderbilt_clinic_notes|||0.9801
+AG||ag||antigen||||C0003320||vanderbilt_clinic_notes|||0.9801
+AF||AF||atrial fibrillation||||C0004238||vanderbilt_clinic_notes|||0.0222
+AF||AF||afebrile||||C0277797||vanderbilt_clinic_notes|||0.9335
+AF||af||afebrile||||C0277797||vanderbilt_clinic_notes|||0.9335
+AF||AF||anterior fontanelle||||C0224549,C1305081||vanderbilt_clinic_notes|||0.0403
+AF||AF||antifungal||||C0003308||vanderbilt_clinic_notes|||0.004
+QID||q.i.d.||quater in die||||C0585291||vanderbilt_clinic_notes|||1.0
+QID||qid||quater in die||||C0585291||vanderbilt_clinic_notes|||1.0
+QID||QID||quater in die||||C0585291||vanderbilt_clinic_notes|||1.0
+ECOG||ECOG||eastern cooperative oncology group||||C1512162||vanderbilt_clinic_notes|||1.0
+INR||INR||international normalized ratio||||C0525032||vanderbilt_clinic_notes|||1.0
+OHC||OHC||occupational health clinic||||C1551268||vanderbilt_clinic_notes|||1.0
+AQ||AQ||aqueous||||C0599956||vanderbilt_clinic_notes|||1.0
+AQ||aq||aqueous||||C0599956||vanderbilt_clinic_notes|||1.0
+AP||AP||anterior posterior||||C1999039||vanderbilt_clinic_notes|||1.0
+OCPS||OCPs||oral contraceptive pills||||C0009905||vanderbilt_clinic_notes|||1.0
+OCPS||ocps||oral contraceptive pills||||C0009905||vanderbilt_clinic_notes|||1.0
+SXS||Sxs||symptoms||||C1457887||vanderbilt_clinic_notes|||1.0
+SXS||sxs||symptoms||||C1457887||vanderbilt_clinic_notes|||1.0
+MONABS||MonAbs||monoclonal antibodies||||C0003250||vanderbilt_clinic_notes|||1.0
+INJ||inj||injection||||C0021485||vanderbilt_clinic_notes|||0.998
+INJ||Inj||injection||||C0021485||vanderbilt_clinic_notes|||0.998
+INJ||INJ||injury||||C0175677||vanderbilt_clinic_notes|||0.002
+AV||AV||anteverted||||C0237062||vanderbilt_clinic_notes|||0.0222
+AV||AV||atrioventricular||||C0225871||vanderbilt_clinic_notes|||0.783
+AV||AV||arteriovenous||||C0450109||vanderbilt_clinic_notes|||0.1948
+PIP||PIP||peak inspiratory pressure||||C0232021||vanderbilt_clinic_notes|||0.247
+PIP||PIP||proximal interphalangeal joint||||C0932508||vanderbilt_clinic_notes|||0.63
+LYM||Lym||lymphocytes||||C0024264||vanderbilt_clinic_notes|||0.978
+LYM||LYM||lymph||||C0024202||vanderbilt_clinic_notes|||0.022
+INF||inf||infusion||||C0574032||vanderbilt_clinic_notes|||0.823
+INF||inf.||inferior||||C0542339||vanderbilt_clinic_notes|||0.175
+INF||inf||inferior||||C0542339||vanderbilt_clinic_notes|||0.175
+INF||Inf||infectious||||C1550587||vanderbilt_clinic_notes|||0.002
+DOE||DOE||dyspnea on exertion||||C0231807||vanderbilt_clinic_notes|||0.992
+DOE||doe||dyspnea on exertion||||C0231807||vanderbilt_clinic_notes|||0.992
+DOE||doe||does||||C1272751||vanderbilt_clinic_notes|||0.008
+PIV||PIV||peripheral intravenous||||C0595824||vanderbilt_clinic_notes|||1.0
+NJ||NJ||new jersey||||C0027971||vanderbilt_clinic_notes|||0.005
+NJ||nj||nasojejunal||||C0595833||vanderbilt_clinic_notes|||0.995
+NJ||NJ||nasojejunal||||C0595833||vanderbilt_clinic_notes|||0.995
+NL||nl||normal||||C0205307||vanderbilt_clinic_notes|||1.0
+NL||Nl||normal||||C0205307||vanderbilt_clinic_notes|||1.0
+NL||NL||normal||||C0205307||vanderbilt_clinic_notes|||1.0
+NAD||NAD||no acute distress||||C2051415||vanderbilt_clinic_notes|||1.0
+NAD||nad||no acute distress||||C2051415||vanderbilt_clinic_notes|||1.0
+SICU||SICU||surgical intensive care unit||||C1690590||vanderbilt_clinic_notes|||1.0
+NA||Na||sodium||||C0037473||vanderbilt_clinic_notes|||1.0
+NA||na||sodium||||C0037473||vanderbilt_clinic_notes|||1.0
+NC||NC||nasal cannula||||C0179574||vanderbilt_clinic_notes|||0.9825
+NC||nc||nasal cannula||||C0179574||vanderbilt_clinic_notes|||0.9825
+NC||NC||non-contributory||||C0556658,C1518422||vanderbilt_clinic_notes|||0.0021
+NC||NC||normocephalic||||C1855201||vanderbilt_clinic_notes|||0.0154
+ND||Nd||neodymium-doped||||C0392276||vanderbilt_clinic_notes|||0.002
+ND||nd||second||||C0565930||vanderbilt_clinic_notes|||0.1082
+ND||ND||non-distended||||C1518422,C0700124||vanderbilt_clinic_notes|||0.8898
+ND||nd||non-distended||||C1518422,C0700124||vanderbilt_clinic_notes|||0.8898
+MRN||MRN||medical record number||||C1301894||vanderbilt_clinic_notes|||1.0
+NICU||NICU||neonatal intensive care unit||||C0021709||vanderbilt_clinic_notes|||1.0
+IGG||IgG||immunoglobulin g||||C0020852||vanderbilt_clinic_notes|||1.0
+IGG||IGG||immunoglobulin g||||C0020852||vanderbilt_clinic_notes|||1.0
+HPI||HPI||history of present illness||||C0262512||vanderbilt_clinic_notes|||1.0
+CHCO3||C-HCO3||hco3||||C0005367||vanderbilt_clinic_notes|||1.0
+B12||B12||cobalamin||||C0042845||vanderbilt_clinic_notes|||1.0
+ES||ES||extra strength||||C0444956||vanderbilt_clinic_notes|||1.0
+IGA||iga||immunoglobulin a||||C0020835||vanderbilt_clinic_notes|||1.0
+IGA||IGA||immunoglobulin a||||C0020835||vanderbilt_clinic_notes|||1.0
+IGA||IgA||immunoglobulin a||||C0020835||vanderbilt_clinic_notes|||1.0
+NP||NP||nurse practitioner||||C0028657||vanderbilt_clinic_notes|||1.0
+NP||N.P||nurse practitioner||||C0028657||vanderbilt_clinic_notes|||1.0
+IGM||IGM||immunoglobulin m||||C0020861||vanderbilt_clinic_notes|||1.0
+IGM||IgM||immunoglobulin m||||C0020861||vanderbilt_clinic_notes|||1.0
+IGM||igm||immunoglobulin m||||C0020861||vanderbilt_clinic_notes|||1.0
+NS||NS||normal saline||||C0445115||vanderbilt_clinic_notes|||0.8216
+NS||ns||normal saline||||C0445115||vanderbilt_clinic_notes|||0.8216
+NS||NS||nasal spray||||C0461725||vanderbilt_clinic_notes|||0.1784
+NS||ns||nasal spray||||C0461725||vanderbilt_clinic_notes|||0.1784
+NT||NT||nontender||||C0520960||vanderbilt_clinic_notes|||1.0
+NT||nt||nontender||||C0520960||vanderbilt_clinic_notes|||1.0
+TIA||TIA||transient ischemic attack||||C0007787||vanderbilt_clinic_notes|||1.0
+TIA||Tia||transient ischemic attack||||C0007787||vanderbilt_clinic_notes|||1.0
+STAT||stat||statim||||C0205548||vanderbilt_clinic_notes|||1.0
+STAT||Stat||statim||||C0205548||vanderbilt_clinic_notes|||1.0
+STAT||STAT||statim||||C0205548||vanderbilt_clinic_notes|||1.0
+OTC||otc||over the counter||||C0013231||vanderbilt_clinic_notes|||1.0
+OTC||OTC||over the counter||||C0013231||vanderbilt_clinic_notes|||1.0
+NSAID||NSAID||nonsteroidal anti-inflammatory drug||||C0003211||vanderbilt_clinic_notes|||1.0
+NSAID||nsaid||nonsteroidal anti-inflammatory drug||||C0003211||vanderbilt_clinic_notes|||1.0
+USPGR||uSpGr||urine specific gravity||||C0202517||vanderbilt_clinic_notes|||1.0
+USPGR||uspgr||urine specific gravity||||C0202517||vanderbilt_clinic_notes|||1.0
+USPGR||USpGr||urine specific gravity||||C0202517||vanderbilt_clinic_notes|||1.0
+KVO||kvo||keep vein open||||C0515896||vanderbilt_clinic_notes|||1.0
+KVO||KVO||keep vein open||||C0515896||vanderbilt_clinic_notes|||1.0
+UTIS||UTIs||urinary tract infections||||C0042029||vanderbilt_clinic_notes|||1.0
+RV||RV||right ventricle||||C1269891||vanderbilt_clinic_notes|||0.0279
+RV||RV||right ventricle/right ventricular||||C1269891||vanderbilt_clinic_notes|||0.9721
+RV||rv||right ventricle/right ventricular||||C1269891||vanderbilt_clinic_notes|||0.9721
+TBIL||TBil||total bilirubin||||C0005437||vanderbilt_clinic_notes|||1.0
+TBIL||Tbil||total bilirubin||||C0005437||vanderbilt_clinic_notes|||1.0
+TBIL||tbil||total bilirubin||||C0005437||vanderbilt_clinic_notes|||1.0
+VP||VP||vice president||||||vanderbilt_clinic_notes|||0.002
+VP||VP||ventricular pacing||||C0199648||vanderbilt_clinic_notes|||0.002
+VP||VP||ventriculoperitoneal shunt||||C0162702||vanderbilt_clinic_notes|||0.992
+VP||VP||vepesid||||C0700191||vanderbilt_clinic_notes|||0.004
+EST||EST||established||||C0443211||vanderbilt_clinic_notes|||0.0928
+EST||est||established||||C0443211||vanderbilt_clinic_notes|||0.0928
+EST||EST||estimated||||C0750572||vanderbilt_clinic_notes|||0.5654
+EST||est||estimated||||C0750572||vanderbilt_clinic_notes|||0.5654
+EST||est||establish||||C0443211||vanderbilt_clinic_notes|||0.0633
+EST||est||estrogen||||C0014939||vanderbilt_clinic_notes|||0.0127
+EST||est||esterase||||C0014894||vanderbilt_clinic_notes|||0.2658
+PFO||PFO||patent foramen ovale||||C0016522||vanderbilt_clinic_notes|||1.0
+PFO||pfo||patent foramen ovale||||C0016522||vanderbilt_clinic_notes|||1.0
+HCV||HCV||hepatitis c virus||||C0220847||vanderbilt_clinic_notes|||1.0
+KY||KY||kentucky||||C0022557||vanderbilt_clinic_notes|||1.0
+KY||Ky||kentucky||||C0022557||vanderbilt_clinic_notes|||1.0
+PAPS||Paps||papanicolaou's||||C0079104||vanderbilt_clinic_notes|||1.0
+PAPS||PAPs||papanicolaou's||||C0079104||vanderbilt_clinic_notes|||1.0
+PAPS||paps||papanicolaou's||||C0079104||vanderbilt_clinic_notes|||1.0
+ESR||ESR||erythrocyte sedimentation rate||||C0086250||vanderbilt_clinic_notes|||1.0
+PMHX||PMHx||past medical history||||C0455458||vanderbilt_clinic_notes|||1.0
+PMHX||pmhx||past medical history||||C0455458||vanderbilt_clinic_notes|||1.0
+PMHX||PMHX||past medical history||||C0455458||vanderbilt_clinic_notes|||1.0
+GE||GE||gastroesophageal||||C0744316||vanderbilt_clinic_notes|||0.963
+GE||Ge||gastroesophageal||||C0744316||vanderbilt_clinic_notes|||0.963
+GE||G.E||gastroesophageal||||C0744316||vanderbilt_clinic_notes|||0.963
+GE||GE||general electric||||C0336106||vanderbilt_clinic_notes|||0.0041
+GE||GE||gastroenteritis||||C0017160||vanderbilt_clinic_notes|||0.0308
+GE||G.E||general education||||C0815241||vanderbilt_clinic_notes|||0.0021
+CPK||CPK||creatine phosphokinase||||C0010287||vanderbilt_clinic_notes|||0.994
+CPK||CPK||computerized photon knife||||C0182639||vanderbilt_clinic_notes|||0.006
+HCT||Hct||hematocrit||||C0018935||vanderbilt_clinic_notes|||0.791
+HCT||HCT||hematocrit||||C0018935||vanderbilt_clinic_notes|||0.791
+HCT||hct||hematocrit||||C0018935||vanderbilt_clinic_notes|||0.791
+HCT||HCT||hydrochlorothiazide||||C0020261||vanderbilt_clinic_notes|||0.209
+HCT||hct||hydrochlorothiazide||||C0020261||vanderbilt_clinic_notes|||0.209
+FSH||FSH||follicle stimulating hormone||||C0016774||vanderbilt_clinic_notes|||1.0
+SVG||SVG||saphenous vein graft||||C0729538||vanderbilt_clinic_notes|||1.0
+SVD||SVD||spontaneous vaginal delivery||||C0269694||vanderbilt_clinic_notes|||1.0
+SVD||svd||spontaneous vaginal delivery||||C0269694||vanderbilt_clinic_notes|||1.0
+VANC||vanc||vancomycin||||C0042313||vanderbilt_clinic_notes|||1.0
+VANC||VANC||vancomycin||||C0042313||vanderbilt_clinic_notes|||1.0
+VANC||Vanc||vancomycin||||C0042313||vanderbilt_clinic_notes|||1.0
+EOM||EOM||extraocular movement||||C0522327||vanderbilt_clinic_notes|||1.0
+EOM||Eom||extraocular movement||||C0522327||vanderbilt_clinic_notes|||1.0
+EOS||Eos||eosinophils||||C0014467||vanderbilt_clinic_notes|||1.0
+EOS||eos||eosinophils||||C0014467||vanderbilt_clinic_notes|||1.0
+DDS||DDS||doctor of dental surgery||||C1512017||vanderbilt_clinic_notes|||0.549
+DDS||Dds||doctor of dental surgery||||C1512017||vanderbilt_clinic_notes|||0.549
+DDS||dds||4,4'-diaminodiphenylsulfone||||C0010980||vanderbilt_clinic_notes|||0.451
+BCX||BCX||blood culture||||C0200949||vanderbilt_clinic_notes|||1.0
+BCX||Bcx||blood culture||||C0200949||vanderbilt_clinic_notes|||1.0
+BCX||bcx||blood culture||||C0200949||vanderbilt_clinic_notes|||1.0
+BCX||BCx||blood culture||||C0200949||vanderbilt_clinic_notes|||1.0
+CBCS||CBCs||complete blood counts||||C0009555||vanderbilt_clinic_notes|||1.0
+N0||N0||node 0||||C0441959||vanderbilt_clinic_notes|||1.0
+DVT||dvt||deep vein thrombosis||||C0149871||vanderbilt_clinic_notes|||1.0
+DVT||DVT||deep vein thrombosis||||C0149871||vanderbilt_clinic_notes|||1.0
+SVT||SVT||supraventricular tachycardia||||C0039240||vanderbilt_clinic_notes|||1.0
+CPT||CPT||continuous performance test||||C0549178,C0871060||vanderbilt_clinic_notes|||0.0433
+CPT||CPT||current procedural terminology||||C1138431||vanderbilt_clinic_notes|||0.9567
+HSV||HSV||herpes simplex virus||||C0206558||vanderbilt_clinic_notes|||1.0
+HSV||hsv||herpes simplex virus||||C0206558||vanderbilt_clinic_notes|||1.0
+ERCP||ERCP||endoscopic retrograde cholangiopancreatography||||C0008310||vanderbilt_clinic_notes|||1.0
