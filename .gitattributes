@@ -1,0 +1,10 @@
+modules/Step2_Output/* filter=lfs diff=lfs merge=lfs -text
+modules/Step2_Output/ filter=lfs diff=lfs merge=lfs -text
+modules/Step3_Output/* filter=lfs diff=lfs merge=lfs -text
+modules/Step3_Output/ filter=lfs diff=lfs merge=lfs -text
+modules/Step4_Output/* filter=lfs diff=lfs merge=lfs -text
+modules/Step4_Output/ filter=lfs diff=lfs merge=lfs -text
+modules/Step5_Output/* filter=lfs diff=lfs merge=lfs -text
+modules/Step5_Output/ filter=lfs diff=lfs merge=lfs -text
+*sense_profile_vectors.txt filter=lfs diff=lfs merge=lfs -text
+*Step*_Output/* filter=lfs diff=lfs merge=lfs -text
