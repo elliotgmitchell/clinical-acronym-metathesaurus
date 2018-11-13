@@ -1,0 +1,8 @@
+FileName|FileDescription|ColumnNames|Columns|Rows|Size
+Files.txt|One row for each available data file in the abbreviation and acronym crosswalk|FileName,FileDescription,ColumnNames,Columns,Rows,Size|6|7|2KB
+ColumnNames.txt|One row for each possible column name in the abbreviation and acronym crosswalk|ColumnName,DescriptiveName,ColumnDescription,FileNames|4|33|5KB
+Sources.txt|One row for each source database incorporated into the abbreviation and acronym crosswalk|Source,OfficialSourceName,SourceDescription,Updated,SourceVersion,PLFUIFrequency,LFUIFrequency,SourceCitation|8|8|3KB
+SourceInstances.txt|One row for every unique instance of an abbreviation or acronym in a source|NSFUI,SFUI,SF,PLFUI,LFUI,LF,Source,SourceCUI,SourceEUI,SourcePrevalence|10|376270|31220KB
+SemanticGroups.txt|One row for each unique meaning of an abbreviation or acronym|NSFUI,NSF,PLFUI,PLF|4|105631|5034KB
+SimpleMap.txt|One row for each unique meaning of an abbreviation or acronym and the corresponding UMLS CUI(s)|NSFUI,NSF,PLFUI,PLF,MetaMapCUI_PLF,MetaMapTerm_PLF|6|105631|9852KB
+Map.txt|One row for every unique instance of an abbreviation or acronym in a source and the corresponding UMLS CUI(s)|NSFUI,SFUI,SF,PLFUI,LFUI,LF,MetaMapCUI_LF,MetaMapTerm_LF|8|376270|42951KB

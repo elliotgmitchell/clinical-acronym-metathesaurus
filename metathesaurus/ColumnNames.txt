@@ -1,0 +1,37 @@
+ColumnName|DescriptiveName|ColumnDescription|FileNames
+NSF|Normalized short form|Short form converted to lower case with spaces and punctuation removed|SemanticGroups.txt,SimpleMap.txt
+NSFUI|Normalized short form unique identifier|The UI [unique identifier] for the normalized short form|SourceInstances.txt,SemanticGroups.txt,SimpleMap.txt,Map.txt
+SF|Short form|Each unique instance of a short form in a source|SourceInstances.txt,Map.txt
+SFUI|Short form unique identifier|The UI [unique identifier] for the short form|SourceInstances.txt,Map.txt
+PLF|Preferred long form|The preferred long form for one unique meaning of a normalized short form|SemanticGroups.txt,SimpleMap.txt
+PLFUI|Preferred long form unique identifier|The UI [unique identifier] for the preferred long form|SourceInstances.txt,SemanticGroups.txt,SimpleMap.txt,Map.txt
+LF|Long form|Each unique instance of a long form in a source|SourceInstances.txt,Map.txt
+LFUI|Long form unique identifier|The UI [unique identifier] for the long form|SourceInstances.txt,Map.txt
+Source|Source|The abbreviation for the official source name|SourceInstances.txt,Sources.txt
+SourceCUI|Source concept unique identifier|The UMLS CUI [concept unique identifier] associated with the long form in the source|SourceInstances.txt
+SourceEUI|Source entry unique identifier|The UMLS EUI [entry unique identifier] associated with the long form in the source|SourceInstances.txt
+SourcePrevalence|Source prevalence|The prevalence of the abbreviation or acronym as given in the source|SourceInstances.txt
+MetaMapCUI_PLF|MetaMap concept unique identifier for preferred long form|The MetaMap-assigned UMLS CUI(s) [concept unique identifier(s)] for the preferred long form|SimpleMap.txt
+MetaMapTerm_PLF|MetaMap preferred term for preferred long form|The MetaMap-assigned preferred term(s) associated with the UMLS CUI(s) [concept unique identifier(s)] for the preferred long form|SimpleMap.txt
+MetaMapCUI_LF|MetaMap concept unique identifier for long form|The MetaMap-assigned UMLS CUI(s) [concept unique identifier(s)] for the long form|Map.txt
+MetaMapTerm_LF|MetaMap preferred term for long form|The MetaMap-assigned preferred term(s) associated with the UMLS CUI(s) [concept unique identifier(s)] for the long form|Map.txt
+FileName|File name|The name of an available data file in the abbreviation and acronym crosswalk|Files.txt
+FileDescription|File description|A human-readable description of an available data file in the abbreviation and acronym crosswalk|Files.txt
+ColumnNames|Column names|The names of all the columns in an available data file in the abbreviation and acronym crosswalk|Files.txt
+Columns|Number of columns|The number of columns in an available data file in the abbreviation and acronym crosswalk|Files.txt
+Rows|Number of rows|The number of rows in an available data file in the abbreviation and acronym crosswalk|Files.txt
+Size|File size|The size of an available data file in the abbreviation and acronym crosswalk in bytes|Files.txt
+ColumnName|Column name|The name of a column in an available data file in the abbreviation and acronym crosswalk|ColumnNames.txt
+DescriptiveName|Descriptive column name|The descriptive version of a column name|ColumnNames.txt
+ColumnDescription|Column description|A human-readable description of the contents of a column|ColumnNames.txt
+FileNames|File names|The name of the available data files containing that column name|ColumnNames.txt
+OfficialSourceName|Official source name|The official name of a source database incorporated into the abbreviation and acronym crosswalk|Sources.txt
+SourceDescription|Source description|A human-readable description of the source|Sources.txt
+Updated|Is the source updated?|Indicates Y [yes] or N [no] whether a third party periodically updates the source|Sources.txt
+SourceVersion|Source version|Indicates the version of all periodically-updated sources|Sources.txt
+PLFUIFrequency|PLFUI frequency|The number of PLFUIs associated with the source|Sources.txt
+LFUIFrequency|LFUI frequency|The number of LFUIs associated with the source|Sources.txt
+SourceCitation|Source citation|The citation for the source|Sources.txt
+
+
+
